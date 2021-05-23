@@ -18,7 +18,7 @@ stack.
 
 My background is in computer architecture despite often venturing into its
 sister areas. I serve on the reviewing committees of major architecture
-conferences. I teach two courses at ANU, an introductory and an advanced
+conferences. I teach two courses at ANU, an [introductory](https://cs.anu.edu.au/courses/engn2219/) and an advanced
 computer architecture course.
 
 ### Recent News
