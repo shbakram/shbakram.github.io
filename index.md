@@ -3,16 +3,107 @@ layout: page
 title: Shoaib Akram
 ---
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages)
+{% comment %} [![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages) {% endcomment %}
 
-A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+![proc]({% link assets/citations.jpg %}){: style="width:20%; float:right; margin-right: 0em;"}
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+I am an assistant professor at the Australian National University, Canberra, in
+the School of Computing. I hold a Ph.D. in Computer Science and Engineering
+from Ghent University in Belgium and an M.S. in Electrical and Computer
+Engineering from the University of Illinois at Urbana-Champaign. My doctoral
+advisor was [Lieven Eeckhout](https://users.elis.ugent.be/~leeckhou/). I am
+interested in the evaluation and optimization of the emerging memory and storage
+hierarchy.  My research addresses problems in memory and storage systems at all
+levels (software/hardware) of the stack.
 
-## Setup Guide
+My background is in computer architecture despite often venturing into its
+sister areas. I serve on the reviewing committees of major architecture
+conferences. I teach two courses at ANU, an introductory and an advanced
+computer architecture course.
+
+### Recent News
+
+I have recently published the earliest evaluations of production persistent memory for a broad set of workloads.
+
+* Performance Evaluation of Intel Optane Memory for Managed Workloads. [ACM TACO, 2021](https://dl.acm.org/doi/10.1145/3451342) 
+
+* Exploiting Intel Optane Persistent Memory for Full Text Search. ISMM, 2021.
+
+### Announcements
+
+I am looking for a number of Ph.D. students. My research requires good system
+building skills. My current emphasis requires sound knowledge of memory systems
+and an interest in storage devices. We build prototypes that require modifying
+user software (e.g., Apache Spark and Lucene), runtime environments (e.g.,
+OpenJDK), and Linux OS. Our students work closely with industry.
+
+### Publications
+
+* S. Akram, Performance Evaluation of Intel Optane Memory for Managed Workloads, ACM Transactions on Architecture and Code Optimization (TACO), 2021.
+
+* W. Liu, S. Akram, and L. Eeckhout, Reliability-Aware Garbage Collection for Hybrid DRAM-HBM Memories, ACM Transactions on Architecture and Code Optimization (TACO), 2021.
+
+* S. Pestel, S. Steen, S. Akram, and L. Eeckhout, RPPM: Rapid Performance Prediction of Multithreaded Applications on Multicore Hardware, IEEE Computer Architecture Letters (CAL), 2018.
+
+* S. Akram, J. Sartor, and L. Eeckhout, DEP+BURST: Online DVFS Performance Prediction for Energy-Efficient Managed Language Execution, IEEE Transactions on Computers (TC), 2017.
+
+* S. Akram, J. Sartor, K. Van Craeynest, W. Heirman, and L. Eeckhout, Boosting the Priority of Garbage: Scheduling Collection on Heterogeneous Multicore Processors, ACM Transactions on Architecture and Code Optimization (TACO), 2016.
+
+* S. Akram, A. Papakonstantinou, R. Kumar, D. Chen, S. Akram, A. Papakonstantinou, R. Kumar, D. Chen, "A Workload-adaptive and Reconfigurable Bus Architecture for Multicore Processors,
+International Journal of Reconfigurable Computing (IJRC), 2010.
+
+* S. Akram, Exploiting Intel Optane Persistent Memory for Full Text Search, ACM SIGPLAN International Symposium on Memory Management (ISMM), 2021.
+
+* S. Pestel, S. Steen, S. Akram, and L. Eeckhout, ``RPPM: Rapid Performance Prediction of Multithreaded Workloads on Multicore Processors, IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2019. 
+
+* S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Emulating and Evaluating Hybrid Memory for Managed Languages on NUMA Hardware," IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2019. 
+
+* S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Crystal Gazer: A Profile-Driven Garbage
+Collector to Manage Hybrid Memories, ACM International Conference on Measurement and Modeling of Computer Systems
+(SIGMETRICS), 2019.
+
+* S. Akram, J. Sartor, K. McKinley and L. Eeckhout, ``Write-Rationing Garbage Collection for Hybrid Memories," ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2018. 
+
+* S. Akram, J. Sartor, and L. Eeckhout, DVFS Performance Prediction for Managed Multi-Threaded Applications, IEEE International Symposium on Performance Analysis
+of Systems and Software (ISPASS), 2016. 
+
+* K. Van Craeynest, S. Akram, W. Heirman, A. Jaleel, and L. Eeckhout, Fairness-aware Scheduling on Single-ISA Heterogeneous Multicores,
+International Conference on Parallel Architectures and Compilation Techniques (PACT), 2013. 
+
+* S. Akram, M. Marazakis, and A. Bilas, Understanding Scalability and Performance Requirements of I/O-intensive Applications
+on Future Multicore Servers," IEEE International Symposium on Modeling, Analysis and Simulation of Computer and
+Telecommunication Systems (MASCOTS), 2012. 
+
+* S. Akram, M. Marazakis, and A. Bilas, Understanding and Improving the Cost of Scaling Distributed Event Processing,
+ACM International Conference on Distributed Event-Based Systems (DEBS), 2012.
+
+* S. Akram, R. Kumar, D. Chen, Workload Adaptive Shared Memory Multicore Processors with Reconfigurable Interconnects,
+IEEE Symposium on Application Specific Processors (SASP), 2009.
+
+* S. Akram and A. Bilas, A Sleep-based Communication Mechanism to Save Processor Utilization in Distributed Streaming Systems,"
+Computer Architecture and Operating System Co-design (CAOS), held alongside HiPEAC, 2011.
+
+* S. Akram, M. Marazakis, and A. Bilas, NUMA Implications for Storage I/O Throughput in Modern Servers,"
+Computer Architecture and Operating System Co-design (CAOS), held alongside HiPEAC, 2012.
+
+* S. Akram, M. Marazakis, and A. Bilas, Energy Inefficiency of Operating System Layers for Data-centric Infrastructures, Systems for Future Multi-core Architectures (SFMA), held alongside EuroSys, 2012.
+
+* S. Akram, K. McKinley, J. Sartor, and L. Eeckhout, Managing Hybrid Memories by Predicting Object Write Intensity, Programming Across the System Stack (PASS), held alongside <programming>, 2018.
+
+* S. Akram, To Expose, or Not to Expose, Hardware Heterogeneity to Runtimes! Modern Language Runtimes, Ecosystems, and VMs (MoreVMs), held alongside <programming>, 2019.
+
+* S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Kingsguard: Write-Rationing Garbage Collection for Hybrid Memories, Annual Non-Volatile Memories Workshop (NVMW), 2019.
+
+* S. Akram, S. Cromar, G. Lucas, A. Papakonstantinou, and D. Chen, VEBoC: Variation and Error-Aware Design for Billions of Devices on a Chip,
+IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2008.
+
+
+
+
+
+
+
+{% comment %}
 
 ### Create a repository from this template
 
@@ -109,3 +200,4 @@ I'm a fan of Github Pages for the possibilities it offers to anyone to publish a
 * [Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 * [Parcel Github Pages Boilerplate](https://github.com/nicolas-van/parcel-github-pages-boilerplate)
 
+{% endcomment %}
