@@ -31,11 +31,13 @@ I have recently published the earliest evaluations of production persistent memo
 
 ### Announcements
 
-I am looking for a number of Ph.D. students. My research requires good system
-building skills. My current emphasis requires sound knowledge of memory systems
-and an interest in storage devices. We build prototypes that require modifying
-user software (e.g., Apache Spark and Lucene), runtime environments (e.g.,
-OpenJDK), and Linux OS. Our students work closely with industry.
+I am looking for several new Ph.D. students. My research requires good
+system-building skills. My current students are not afraid to customize
+industrial-strength software. Examples include Apache Spark and Lucene,
+OpenJDK, and the Linux OS. The nature of systems research is challenging but
+highly rewarding. Our students quickly hook up with industry partners. If you
+are passionate about programming and building real-world prototypes, please get
+in touch.
 
 ### Publications
 
