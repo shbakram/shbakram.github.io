@@ -11,10 +11,10 @@ I am an assistant professor at the Australian National University, Canberra, in
 the School of Computing. I hold a Ph.D. in Computer Science and Engineering
 from Ghent University in Belgium and an M.S. in Electrical and Computer
 Engineering from the University of Illinois at Urbana-Champaign. My doctoral
-advisor was [Lieven Eeckhout](https://users.elis.ugent.be/~leeckhou/). I am
-interested in the evaluation and optimization of the emerging memory and storage
-hierarchy.  My research addresses problems in memory and storage systems at all
-levels (software/hardware) of the stack.
+advisor was Lieven Eeckhout. I am interested in the evaluation and optimization
+of the emerging memory and storage hierarchy. My current research addresses
+memory and storage systems problems at all levels (software/hardware) of the
+stack.
 
 My background is in computer architecture despite often venturing into its
 sister areas. I serve on the reviewing committees of major architecture
@@ -38,6 +38,8 @@ OpenJDK, and the Linux OS. The nature of systems research is challenging but
 highly rewarding. Our students quickly hook up with industry partners. If you
 are passionate about programming and building real-world prototypes, please get
 in touch.
+
+***I am especially looking for students with a background in text search and knowledge of Apache Lucene and Solr.***
 
 ### Publications
 
