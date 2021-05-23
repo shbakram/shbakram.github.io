@@ -11,7 +11,7 @@ I am an assistant professor at the Australian National University, Canberra, in
 the School of Computing. I hold a Ph.D. in Computer Science and Engineering
 from Ghent University in Belgium and an M.S. in Electrical and Computer
 Engineering from the University of Illinois at Urbana-Champaign. My doctoral
-advisor was Lieven Eeckhout. I am interested in the evaluation and optimization
+advisor was [Lieven Eeckhout](https://users.elis.ugent.be/~leeckhou/). I am interested in the evaluation and optimization
 of the emerging memory and storage hierarchy. My current research addresses
 memory and storage systems problems at all levels (software/hardware) of the
 stack.
