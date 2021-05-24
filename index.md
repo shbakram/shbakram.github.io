@@ -41,7 +41,7 @@ highly rewarding. Our students quickly hook up with industry partners. If you
 are passionate about programming and building real-world prototypes, please get
 in touch.
 
-Check out a recent presentation and an invited poster from Iacovos Kolokasis, a doctoral student I co-advise
+Check out a recent presentation and an invited poster from [Iacovos Kolokasis](https://www.csd.uoc.gr/~kolokasis/), a doctoral student I co-advise
 with [Angelos Bilas](http://users.ics.forth.gr/~bilas/).
 
 [Presentation: Data+AI Summit 2021](https://www.youtube.com/watch?v=O1PzEmUJ-X0&ab_channel=Databricks) 
