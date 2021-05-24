@@ -17,10 +17,11 @@ particular.  My current emphasis is on the evaluation and optimization of the
 emerging memory and storage hierarchy. My research addresses memory and storage
 systems problems at all levels (software/hardware) of the stack.
 
-I serve on the reviewing committees of major computer architecture conferences.
-I teach two courses at ANU, an
+I serve on the reviewing committees of top-tier computer architecture, systems,
+and programming language conferences.  I teach two courses at ANU, an
 [introductory](https://cs.anu.edu.au/courses/engn2219/) computer architecture
-course and an advanced [computer microarchitecture]({% link assets/comp3710.pdf %}) (semester 2, 2021) course.
+course and an advanced [computer microarchitecture]({% link assets/comp3710.pdf
+%}) (semester 2, 2021) course.
 
 [Curriculum vitae]({% link assets/CV.pdf %})
 
@@ -51,7 +52,7 @@ with [Angelos Bilas](http://users.ics.forth.gr/~bilas/).
 
 ***I am especially looking for students with a background in text search and knowledge of Apache Lucene and Solr.***
 
-### Program Committees
+### Program Committees (Recent)
 
 * International Symposium on Computer Architecture (ISCA), 2020 ERC, 2021 ERC
 * International Symposium on Memory Management (ISMM), 2019 PC, 2021 PC
