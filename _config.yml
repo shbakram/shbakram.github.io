@@ -14,6 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Shoaib Akram
+addressline1: Computer Science and Information Technology Building (CSIT)
+addressline2: 108 North Rd, Acton ACT 2601
 email: "shoaib.akram@anu.edu.au"
 description: >- # this means to ignore newlines until "baseurl:"
   Shoaib Akram @ ANU
