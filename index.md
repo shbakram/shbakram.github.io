@@ -21,13 +21,15 @@ sister areas. I serve on the reviewing committees of major architecture
 conferences. I teach two courses at ANU, an [introductory](https://cs.anu.edu.au/courses/engn2219/) and an advanced
 computer architecture course.
 
+[Curriculum vitae]({% link assets/CV.pdf %})
+
 ### Recent News
 
 I have recently published the earliest evaluations of production persistent memory for a broad set of workloads.
 
-* Performance Evaluation of Intel Optane Memory for Managed Workloads. [ACM TACO, 2021](https://dl.acm.org/doi/10.1145/3451342) 
+* Performance Evaluation of Intel Optane Memory for Managed Workloads. [ACM TACO, 2021](https://dl.acm.org/doi/10.1145/3451342) (Open Access) 
 
-* Exploiting Intel Optane Persistent Memory for Full Text Search. ISMM, 2021.
+* Exploiting Intel Optane Persistent Memory for Full Text Search. ISMM, 2021. [pre-print PDF]({% link assets/ismm-2021-search.pdf %}) 
 
 ### Announcements
 
@@ -39,34 +41,55 @@ highly rewarding. Our students quickly hook up with industry partners. If you
 are passionate about programming and building real-world prototypes, please get
 in touch.
 
+Check out a recent presentation and an invited poster from Iacovos Kolokasis, a doctoral student I co-advise
+with [Angelos Bilas](http://users.ics.forth.gr/~bilas/).
+
+[Presentation: Data+AI Summit 2021](https://www.youtube.com/watch?v=O1PzEmUJ-X0&ab_channel=Databricks) 
+
+[Poster: PhD Workshop on Next-Generation Cloud Infrastructure at Microsoft Research Cambridge]({% link assets/microsoft-poster.pdf %})
+
 ***I am especially looking for students with a background in text search and knowledge of Apache Lucene and Solr.***
 
+### Program Committees
+
+* International Symposium on Computer Architecture (ISCA), 2020 ERC, 2021 ERC
+* International Symposium on Memory Management (ISMM), 2019 PC, 2021 PC
+* Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2020 ERC
+* International Symposium on Microarchitecture (MICRO), 2021 ERC
+* International Symposium on High-Performance Computer Architecture (HPCA), 2021 ERC
+* Object-Oriented Programming, Systems, Languages & Applications (OOPSLA), 2020 ERC
+
 ### Publications
+
+* S. Akram, Exploiting Intel Optane Persistent Memory for Full Text Search, ACM SIGPLAN International Symposium on Memory Management (ISMM), 2021.
 
 * S. Akram, Performance Evaluation of Intel Optane Memory for Managed Workloads, ACM Transactions on Architecture and Code Optimization (TACO), 2021.
 
 * W. Liu, S. Akram, and L. Eeckhout, Reliability-Aware Garbage Collection for Hybrid DRAM-HBM Memories, ACM Transactions on Architecture and Code Optimization (TACO), 2021.
 
-* S. Pestel, S. Steen, S. Akram, and L. Eeckhout, RPPM: Rapid Performance Prediction of Multithreaded Applications on Multicore Hardware, IEEE Computer Architecture Letters (CAL), 2018.
+* S. Akram, To Expose, or Not to Expose, Hardware Heterogeneity to Runtimes! Modern Language Runtimes, Ecosystems, and VMs (MoreVMs), held alongside <programming>, 2019.
 
-* S. Akram, J. Sartor, and L. Eeckhout, DEP+BURST: Online DVFS Performance Prediction for Energy-Efficient Managed Language Execution, IEEE Transactions on Computers (TC), 2017.
+* S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Kingsguard: Write-Rationing Garbage Collection for Hybrid Memories, Annual Non-Volatile Memories Workshop (NVMW), 2019.
 
-* S. Akram, J. Sartor, K. Van Craeynest, W. Heirman, and L. Eeckhout, Boosting the Priority of Garbage: Scheduling Collection on Heterogeneous Multicore Processors, ACM Transactions on Architecture and Code Optimization (TACO), 2016.
+* S. Pestel, S. Steen, S. Akram, and L. Eeckhout, RPPM: Rapid Performance Prediction of Multithreaded Workloads on Multicore Processors, 
+IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2019. 
 
-* S. Akram, A. Papakonstantinou, R. Kumar, D. Chen, S. Akram, A. Papakonstantinou, R. Kumar, D. Chen, "A Workload-adaptive and Reconfigurable Bus Architecture for Multicore Processors,
-International Journal of Reconfigurable Computing (IJRC), 2010.
-
-* S. Akram, Exploiting Intel Optane Persistent Memory for Full Text Search, ACM SIGPLAN International Symposium on Memory Management (ISMM), 2021.
-
-* S. Pestel, S. Steen, S. Akram, and L. Eeckhout, ``RPPM: Rapid Performance Prediction of Multithreaded Workloads on Multicore Processors, IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2019. 
-
-* S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Emulating and Evaluating Hybrid Memory for Managed Languages on NUMA Hardware," IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2019. 
+* S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Emulating and Evaluating Hybrid Memory for Managed Languages on NUMA Hardware,
+IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2019. 
 
 * S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Crystal Gazer: A Profile-Driven Garbage
 Collector to Manage Hybrid Memories, ACM International Conference on Measurement and Modeling of Computer Systems
 (SIGMETRICS), 2019.
 
-* S. Akram, J. Sartor, K. McKinley and L. Eeckhout, ``Write-Rationing Garbage Collection for Hybrid Memories," ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2018. 
+* S. Pestel, S. Steen, S. Akram, and L. Eeckhout, RPPM: Rapid Performance Prediction of Multithreaded Applications on Multicore Hardware, IEEE Computer Architecture Letters (CAL), 2018.
+
+* S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Write-Rationing Garbage Collection for Hybrid Memories, ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2018. 
+
+* S. Akram, K. McKinley, J. Sartor, and L. Eeckhout, Managing Hybrid Memories by Predicting Object Write Intensity, Programming Across the System Stack (PASS), held alongside <programming>, 2018.
+
+* S. Akram, J. Sartor, and L. Eeckhout, DEP+BURST: Online DVFS Performance Prediction for Energy-Efficient Managed Language Execution, IEEE Transactions on Computers (TC), 2017.
+
+* S. Akram, J. Sartor, K. Van Craeynest, W. Heirman, and L. Eeckhout, Boosting the Priority of Garbage: Scheduling Collection on Heterogeneous Multicore Processors, ACM Transactions on Architecture and Code Optimization (TACO), 2016.
 
 * S. Akram, J. Sartor, and L. Eeckhout, DVFS Performance Prediction for Managed Multi-Threaded Applications, IEEE International Symposium on Performance Analysis
 of Systems and Software (ISPASS), 2016. 
@@ -78,32 +101,23 @@ International Conference on Parallel Architectures and Compilation Techniques (P
 on Future Multicore Servers," IEEE International Symposium on Modeling, Analysis and Simulation of Computer and
 Telecommunication Systems (MASCOTS), 2012. 
 
+* S. Akram, M. Marazakis, and A. Bilas, NUMA Implications for Storage I/O Throughput in Modern Servers,"
+Computer Architecture and Operating System Co-design (CAOS), held alongside HiPEAC, 2012.
+
 * S. Akram, M. Marazakis, and A. Bilas, Understanding and Improving the Cost of Scaling Distributed Event Processing,
 ACM International Conference on Distributed Event-Based Systems (DEBS), 2012.
-
-* S. Akram, R. Kumar, D. Chen, Workload Adaptive Shared Memory Multicore Processors with Reconfigurable Interconnects,
-IEEE Symposium on Application Specific Processors (SASP), 2009.
 
 * S. Akram and A. Bilas, A Sleep-based Communication Mechanism to Save Processor Utilization in Distributed Streaming Systems,"
 Computer Architecture and Operating System Co-design (CAOS), held alongside HiPEAC, 2011.
 
-* S. Akram, M. Marazakis, and A. Bilas, NUMA Implications for Storage I/O Throughput in Modern Servers,"
-Computer Architecture and Operating System Co-design (CAOS), held alongside HiPEAC, 2012.
+* S. Akram, A. Papakonstantinou, R. Kumar, D. Chen, S. Akram, A. Papakonstantinou, R. Kumar, D. Chen, "A Workload-adaptive and Reconfigurable Bus Architecture for Multicore Processors,
+International Journal of Reconfigurable Computing (IJRC), 2010.
 
-* S. Akram, M. Marazakis, and A. Bilas, Energy Inefficiency of Operating System Layers for Data-centric Infrastructures, Systems for Future Multi-core Architectures (SFMA), held alongside EuroSys, 2012.
-
-* S. Akram, K. McKinley, J. Sartor, and L. Eeckhout, Managing Hybrid Memories by Predicting Object Write Intensity, Programming Across the System Stack (PASS), held alongside <programming>, 2018.
-
-* S. Akram, To Expose, or Not to Expose, Hardware Heterogeneity to Runtimes! Modern Language Runtimes, Ecosystems, and VMs (MoreVMs), held alongside <programming>, 2019.
-
-* S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Kingsguard: Write-Rationing Garbage Collection for Hybrid Memories, Annual Non-Volatile Memories Workshop (NVMW), 2019.
+* S. Akram, R. Kumar, D. Chen, Workload Adaptive Shared Memory Multicore Processors with Reconfigurable Interconnects,
+IEEE Symposium on Application Specific Processors (SASP), 2009.
 
 * S. Akram, S. Cromar, G. Lucas, A. Papakonstantinou, and D. Chen, VEBoC: Variation and Error-Aware Design for Billions of Devices on a Chip,
 IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2008.
-
-
-
-
 
 
 

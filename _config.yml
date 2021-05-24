@@ -22,6 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
+
 repository: "nicolas-van/bootstrap-4-github-pages"
 
 # Build settings
@@ -40,3 +41,5 @@ exclude:
   - Gemfile.lock
   - node_modules
   - update_boostrap.sh
+
+exclude: [vendor]
