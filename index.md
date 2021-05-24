@@ -14,9 +14,9 @@ Electrical and Computer Engineering from the University of Illinois at
 Urbana-Champaign. My doctoral advisor was [Lieven
 Eeckhout](https://users.elis.ugent.be/~leeckhou/). I am interested in the
 computer systems in general and memory and storage systems in particular. My
-research approach intersects the hardware/OS/runtime boundary. I serve on the
-reviewing committees of top-tier computer architecture, systems, and
-programming language conferences.
+research approach intersects the boundary between the hardware, OS, and the
+language runtime. I serve on the reviewing committees of top-tier computer
+architecture, systems, and programming language conferences.
 
 [Curriculum vitae]({% link assets/CV.pdf %})
 
