@@ -43,7 +43,7 @@ I have recently evaluated production persistent memory from Intel for managed
 
 Thanks to generous support from the ANU start-up funding, I have built an
 in-house research infrastructure for evaluating emerging non-volatile memories.
-Our servers have many terabytes of Intel Optane persistent memory and
+Our infrastructure includes terabytes of Intel Optane persistent memory and
 state-of-the-art solid-state drives.
 
 ### Ph.D. Student Openings
