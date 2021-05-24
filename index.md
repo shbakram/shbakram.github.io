@@ -9,49 +9,51 @@ title: Shoaib Akram
 
 I am an assistant professor at the Australian National University, Canberra, in
 the School of Computing. I obtained my Ph.D. degree in Computer Science and
-Engineering from Ghent University (Belgium) in 2019. I hold an M.S. in
+Engineering from Ghent University (Belgium) in 2019.  My doctoral advisor was
+[Lieven Eeckhout](https://users.elis.ugent.be/~leeckhou/). I also hold an M.S. in
 Electrical and Computer Engineering from the University of Illinois at
-Urbana-Champaign. My doctoral advisor was [Lieven
-Eeckhout](https://users.elis.ugent.be/~leeckhou/). I am interested in the
-computer systems in general and memory and storage systems in particular. My
-research approach intersects the boundary between the hardware, OS, and the
-language runtime. I serve on the reviewing committees of top-tier computer
-architecture, systems, and programming language conferences.
+Urbana-Champaign. 
+
+I am interested in computer systems in general and memory and storage systems
+in particular. My research approach intersects the boundary between the
+hardware, OS, and the language runtime.
+
+I serve on the reviewing committees of top-tier computer architecture, systems,
+and programming language conferences.
 
 [Curriculum vitae]({% link assets/CV.pdf %})
 
 ### Current Research
 
-The emphasis of my current emphasis is on the evaluation and optimization of
-the emerging memory and storage hierarchy. Together with collaborators, I have
-been investigating cooperative hardware/software approaches to optimize the
-memory/storage hierarchy.   
+My current emphasis is on the evaluation and optimization of the emerging
+memory and storage hierarchy.  I investigate cooperative hardware/software
+approaches to optimize the memory/storage hierarchy.
 
 
 ### Recent News
 
-I have recently published the earliest evaluations of production persistent memory for a broad set of workloads.
+I have recently evaluated production persistent memory from Intel for managed
+(Java) workloads and text indexing and search.
 
-* Performance Evaluation of Intel Optane Memory for Managed Workloads. [ACM TACO, 2021](https://dl.acm.org/doi/10.1145/3451342) (Open Access) 
+* Performance Evaluation of Intel Optane Memory for Managed Workloads. ACM TACO, 2021 (Open Access). [PDF]({% link assets/taco-2021-optane.pdf %})
 
 * Exploiting Intel Optane Persistent Memory for Full Text Search. ISMM, 2021. [pre-print PDF]({% link assets/ismm-2021-search.pdf %})
 
 ### Research Infrastructure
 
-Thanks to generous support from the ANU start-up funding, I have built in-house
-research infrastructure for evaluating emerging non-volatile memories. Our
-servers have many terabytes of Intel Optane persistent memory and
-state-of-the-art solid state drives. 
+Thanks to generous support from the ANU start-up funding, I have built an
+in-house research infrastructure for evaluating emerging non-volatile memories.
+Our servers have many terabytes of Intel Optane persistent memory and
+state-of-the-art solid-state drives.
 
-### Announcements
+### Ph.D. Student Openings
 
-I am looking for several new Ph.D. students. My ongoing research requires good
+I am looking to recruit new Ph.D. students. My ongoing research requires good
 system-building skills. My current students are not afraid to customize
-industrial-strength software, such as, Apache Spark and Lucene, OpenJDK, and
-the Linux OS. The nature of systems research is challenging but highly
-rewarding. Our students quickly hook up with industry partners. If you are
-passionate about programming and building real-world prototypes, please get in
-touch.
+industrial-strength software, such as Apache Spark and Lucene, OpenJDK, and the
+Linux OS. The nature of systems research is challenging but highly rewarding.
+Our students quickly hook up with industry partners. If you are passionate
+about programming and building real-world prototypes, please get in touch.
 
 Check out a recent presentation and an invited poster from [Iacovos Kolokasis](https://www.csd.uoc.gr/~kolokasis/), a doctoral student I co-advise
 with [Angelos Bilas](http://users.ics.forth.gr/~bilas/).
