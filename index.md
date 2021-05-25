@@ -88,7 +88,7 @@ course and an advanced [computer microarchitecture]({% link assets/comp3710.pdf
 
 * W. Liu, S. Akram, and L. Eeckhout, Reliability-Aware Garbage Collection for Hybrid DRAM-HBM Memories, ACM Transactions on Architecture and Code Optimization (TACO), 2021.
 
-* S. Akram, To Expose, or Not to Expose, Hardware Heterogeneity to Runtimes! Modern Language Runtimes, Ecosystems, and VMs (MoreVMs), held alongside <programming>, 2019.
+* S. Akram, To Expose, or Not to Expose, Hardware Heterogeneity to Runtimes! Modern Language Runtimes, Ecosystems, and VMs (MoreVMs), held alongside \<programming\>, 2019.
 
 * S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Kingsguard: Write-Rationing Garbage Collection for Hybrid Memories, Annual Non-Volatile Memories Workshop (NVMW), 2019.
 
@@ -106,7 +106,7 @@ Collector to Manage Hybrid Memories, ACM International Conference on Measurement
 
 * S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Write-Rationing Garbage Collection for Hybrid Memories, ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2018. 
 
-* S. Akram, K. McKinley, J. Sartor, and L. Eeckhout, Managing Hybrid Memories by Predicting Object Write Intensity, Programming Across the System Stack (PASS), held alongside <programming>, 2018.
+* S. Akram, K. McKinley, J. Sartor, and L. Eeckhout, Managing Hybrid Memories by Predicting Object Write Intensity, Programming Across the System Stack (PASS), held alongside \<programming\>, 2018.
 
 * S. Akram, J. Sartor, and L. Eeckhout, DEP+BURST: Online DVFS Performance Prediction for Energy-Efficient Managed Language Execution, IEEE Transactions on Computers (TC), 2017.
 
