@@ -16,7 +16,7 @@ Urbana-Champaign.
 
 I am interested in computer systems in general and memory and storage systems
 in particular. My research approach intersects the boundary between the
-hardware, OS, and the language runtime.
+hardware, OS, and language runtime.
 
 I serve on the reviewing committees of top-tier computer architecture, systems,
 and programming language conferences.
