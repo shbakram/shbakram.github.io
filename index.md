@@ -33,11 +33,11 @@ approaches to optimize the memory/storage hierarchy.
 ### Recent News
 
 I have recently evaluated production persistent memory from Intel for managed
-(Java) workloads and text indexing and search.
+(Java) workloads and text indexing and search. 
 
-* Performance Evaluation of Intel Optane Memory for Managed Workloads. ACM TACO, 2021 (Open Access). [PDF]({% link assets/taco-2021-optane.pdf %})
+[<span style="color:blue">ACM TACO 2021</span>] Performance Evaluation of Intel Optane Memory for Managed Workloads. [<span style="color:red"> PDF version of paper</span>]({% link assets/taco-2021-optane.pdf %})
 
-* Exploiting Intel Optane Persistent Memory for Full Text Search. ISMM, 2021. [pre-print PDF]({% link assets/ismm-2021-search.pdf %})
+[<span style="color:blue">ISMM 2021</span>] Exploiting Intel Optane Persistent Memory for Full Text Search. <br> [<span style="color:red">PDF pre-print of paper</span>]({% link assets/ismm-2021-search.pdf %})
 
 ### Research Infrastructure
 
