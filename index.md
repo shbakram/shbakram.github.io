@@ -82,60 +82,49 @@ course and an advanced [computer microarchitecture]({% link assets/comp3710.pdf
 
 ### Publications
 
-* S. Akram, Exploiting Intel Optane Persistent Memory for Full Text Search, ACM SIGPLAN International Symposium on Memory Management (ISMM), 2021.
+[<span style="color:blue">ISMM 2021</span>] S. Akram, Exploiting Intel Optane Persistent Memory for Full Text Search, ACM SIGPLAN International Symposium on Memory Management (ISMM), 2021.
 
-* S. Akram, Performance Evaluation of Intel Optane Memory for Managed Workloads, ACM Transactions on Architecture and Code Optimization (TACO), 2021.
+[<span style="color:blue">TACO 2021</span>] S. Akram, Performance Evaluation of Intel Optane Memory for Managed Workloads, ACM Transactions on Architecture and Code Optimization (TACO), 2021.
 
-* W. Liu, S. Akram, and L. Eeckhout, Reliability-Aware Garbage Collection for Hybrid DRAM-HBM Memories, ACM Transactions on Architecture and Code Optimization (TACO), 2021.
+[<span style="color:blue">TACO 2021</span>] W. Liu, S. Akram, and L. Eeckhout, Reliability-Aware Garbage Collection for Hybrid DRAM-HBM Memories, ACM Transactions on Architecture and Code Optimization (TACO), 2021.
 
-* S. Akram, To Expose, or Not to Expose, Hardware Heterogeneity to Runtimes! Modern Language Runtimes, Ecosystems, and VMs (MoreVMs), held alongside \<programming\>, 2019.
+[<span style="color:blue">MoreVMs 2019</span>] S. Akram, To Expose, or Not to Expose, Hardware Heterogeneity to Runtimes! Modern Language Runtimes, Ecosystems, and VMs (MoreVMs), held alongside \<programming\>, 2019.
 
-* S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Kingsguard: Write-Rationing Garbage Collection for Hybrid Memories, Annual Non-Volatile Memories Workshop (NVMW), 2019.
+[<span style="color:blue">NVMW 2019</span>] S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Kingsguard: Write-Rationing Garbage Collection for Hybrid Memories, Annual Non-Volatile Memories Workshop (NVMW), 2019.
 
-* S. Pestel, S. Steen, S. Akram, and L. Eeckhout, RPPM: Rapid Performance Prediction of Multithreaded Workloads on Multicore Processors, 
-IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2019. 
+[<span style="color:blue">ISPASS 2019</span>] S. Pestel, S. Steen, S. Akram, and L. Eeckhout, RPPM: Rapid Performance Prediction of Multithreaded Workloads on Multicore Processors, IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2019. 
 
-* S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Emulating and Evaluating Hybrid Memory for Managed Languages on NUMA Hardware,
-IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2019. 
+[<span style="color:blue">ISPASS 2019</span>] S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Emulating and Evaluating Hybrid Memory for Managed Languages on NUMA Hardware, IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2019. 
 
-* S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Crystal Gazer: A Profile-Driven Garbage
+[<span style="color:blue">SIGMETRICS 2019</span>] S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Crystal Gazer: A Profile-Driven Garbage
 Collector to Manage Hybrid Memories, ACM International Conference on Measurement and Modeling of Computer Systems
 (SIGMETRICS), 2019.
 
-* S. Pestel, S. Steen, S. Akram, and L. Eeckhout, RPPM: Rapid Performance Prediction of Multithreaded Applications on Multicore Hardware, IEEE Computer Architecture Letters (CAL), 2018.
+[<span style="color:blue">CAL 2018</span>] S. Pestel, S. Steen, S. Akram, and L. Eeckhout, RPPM: Rapid Performance Prediction of Multithreaded Applications on Multicore Hardware, IEEE Computer Architecture Letters (CAL), 2018.
 
-* S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Write-Rationing Garbage Collection for Hybrid Memories, ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2018. 
+[<span style="color:blue">PLDI 2018</span>] S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Write-Rationing Garbage Collection for Hybrid Memories, ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2018. 
 
-* S. Akram, K. McKinley, J. Sartor, and L. Eeckhout, Managing Hybrid Memories by Predicting Object Write Intensity, Programming Across the System Stack (PASS), held alongside \<programming\>, 2018.
+[<span style="color:blue">PASS 2018</span>] S. Akram, K. McKinley, J. Sartor, and L. Eeckhout, Managing Hybrid Memories by Predicting Object Write Intensity, Programming Across the System Stack (PASS), held alongside \<programming\>, 2018.
 
-* S. Akram, J. Sartor, and L. Eeckhout, DEP+BURST: Online DVFS Performance Prediction for Energy-Efficient Managed Language Execution, IEEE Transactions on Computers (TC), 2017.
+[<span style="color:blue">TC 2017</span>] S. Akram, J. Sartor, and L. Eeckhout, DEP+BURST: Online DVFS Performance Prediction for Energy-Efficient Managed Language Execution, IEEE Transactions on Computers (TC), 2017.
 
-* S. Akram, J. Sartor, K. Van Craeynest, W. Heirman, and L. Eeckhout, Boosting the Priority of Garbage: Scheduling Collection on Heterogeneous Multicore Processors, ACM Transactions on Architecture and Code Optimization (TACO), 2016.
+[<span style="color:blue">TACO 2016</span>] S. Akram, J. Sartor, K. Van Craeynest, W. Heirman, and L. Eeckhout, Boosting the Priority of Garbage: Scheduling Collection on Heterogeneous Multicore Processors, ACM Transactions on Architecture and Code Optimization (TACO), 2016.
 
-* S. Akram, J. Sartor, and L. Eeckhout, DVFS Performance Prediction for Managed Multi-Threaded Applications, IEEE International Symposium on Performance Analysis
-of Systems and Software (ISPASS), 2016. 
+[<span style="color:blue">ISPASS 2016</span>] S. Akram, J. Sartor, and L. Eeckhout, DVFS Performance Prediction for Managed Multi-Threaded Applications, IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2016. 
 
-* K. Van Craeynest, S. Akram, W. Heirman, A. Jaleel, and L. Eeckhout, Fairness-aware Scheduling on Single-ISA Heterogeneous Multicores,
-International Conference on Parallel Architectures and Compilation Techniques (PACT), 2013. 
+[<span style="color:blue">PACT 2013</span>] K. Van Craeynest, S. Akram, W. Heirman, A. Jaleel, and L. Eeckhout, Fairness-aware Scheduling on Single-ISA Heterogeneous Multicores, International Conference on Parallel Architectures and Compilation Techniques (PACT), 2013. 
 
-* S. Akram, M. Marazakis, and A. Bilas, Understanding Scalability and Performance Requirements of I/O-intensive Applications
-on Future Multicore Servers," IEEE International Symposium on Modeling, Analysis and Simulation of Computer and
-Telecommunication Systems (MASCOTS), 2012. 
+[<span style="color:blue">MASCOTS 2012</span>] S. Akram, M. Marazakis, and A. Bilas, Understanding Scalability and Performance Requirements of I/O-intensive Applications on Future Multicore Servers," IEEE International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS), 2012. 
 
-* S. Akram, M. Marazakis, and A. Bilas, NUMA Implications for Storage I/O Throughput in Modern Servers,"
+[<span style="color:blue">CAOS 2012</span>] S. Akram, M. Marazakis, and A. Bilas, NUMA Implications for Storage I/O Throughput in Modern Servers,"
 Computer Architecture and Operating System Co-design (CAOS), held alongside HiPEAC, 2012.
 
-* S. Akram, M. Marazakis, and A. Bilas, Understanding and Improving the Cost of Scaling Distributed Event Processing,
-ACM International Conference on Distributed Event-Based Systems (DEBS), 2012.
+[<span style="color:blue">DEBS 2012</span>] S. Akram, M. Marazakis, and A. Bilas, Understanding and Improving the Cost of Scaling Distributed Event Processing, ACM International Conference on Distributed Event-Based Systems (DEBS), 2012.
 
-* S. Akram and A. Bilas, A Sleep-based Communication Mechanism to Save Processor Utilization in Distributed Streaming Systems,"
-Computer Architecture and Operating System Co-design (CAOS), held alongside HiPEAC, 2011.
+[<span style="color:blue">CAOS 2011</span>] S. Akram and A. Bilas, A Sleep-based Communication Mechanism to Save Processor Utilization in Distributed Streaming Systems,"Computer Architecture and Operating System Co-design (CAOS), held alongside HiPEAC, 2011.
 
-* S. Akram, A. Papakonstantinou, R. Kumar, D. Chen, S. Akram, A. Papakonstantinou, R. Kumar, D. Chen, "A Workload-adaptive and Reconfigurable Bus Architecture for Multicore Processors,
-International Journal of Reconfigurable Computing (IJRC), 2010.
+[<span style="color:blue">IJRC 2010</span>] S. Akram, A. Papakonstantinou, R. Kumar, D. Chen, S. Akram, A. Papakonstantinou, R. Kumar, D. Chen, "A Workload-adaptive and Reconfigurable Bus Architecture for Multicore Processors, International Journal of Reconfigurable Computing (IJRC), 2010.
 
-* S. Akram, R. Kumar, D. Chen, Workload Adaptive Shared Memory Multicore Processors with Reconfigurable Interconnects,
-IEEE Symposium on Application Specific Processors (SASP), 2009.
+[<span style="color:blue">SASP 2009</span>] S. Akram, R. Kumar, D. Chen, Workload Adaptive Shared Memory Multicore Processors with Reconfigurable Interconnects, IEEE Symposium on Application Specific Processors (SASP), 2009.
 
-* S. Akram, S. Cromar, G. Lucas, A. Papakonstantinou, and D. Chen, VEBoC: Variation and Error-Aware Design for Billions of Devices on a Chip,
-IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2008.
+[<span style="color:blue">ASPDAC 2018</span>] S. Akram, S. Cromar, G. Lucas, A. Papakonstantinou, and D. Chen, VEBoC: Variation and Error-Aware Design for Billions of Devices on a Chip, IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2008.
