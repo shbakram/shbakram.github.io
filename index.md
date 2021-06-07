@@ -94,8 +94,12 @@ course and an advanced [computer microarchitecture]({% link assets/comp3710.pdf
 
 
 [<span style="color:blue">MoreVMs 2019</span>] S. Akram, To Expose, or Not to Expose, Hardware Heterogeneity to Runtimes! Modern Language Runtimes, Ecosystems, and VMs (MoreVMs), held alongside \<programming\>, 2019.
+<br> [<span style="color:red"> PDF version of paper</span>]({% link assets/papers/morevms19.pdf %}) <br> [<span style="color:DarkTurquoise"> PDF slides </span>]({% link assets/slides/morevms-2019.pdf %})
+
 
 [<span style="color:blue">NVMW 2019</span>] S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Kingsguard: Write-Rationing Garbage Collection for Hybrid Memories, Annual Non-Volatile Memories Workshop (NVMW), 2019.
+<br> [<span style="color:red"> PDF version of paper</span>]({% link assets/papers/nvmw19.pdf %}) <br> [<span style="color:DarkTurquoise"> PDF slides </span>]({% link assets/slides/nvm-2019-kingsguard.pdf %})
+
 
 [<span style="color:blue">ISPASS 2019</span>] S. Pestel, S. Steen, S. Akram, and L. Eeckhout, RPPM: Rapid Performance Prediction of Multithreaded Workloads on Multicore Processors, IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2019. 
 <br> [<span style="color:red"> PDF version of paper</span>]({% link assets/papers/ispass2019-sander.pdf %}) <br> [<span style="color:DarkTurquoise"> PDF slides </span>]({% link assets/slides/ispass-RPPM.pdf %})
