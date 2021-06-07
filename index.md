@@ -83,42 +83,42 @@ course and an advanced [computer microarchitecture]({% link assets/comp3710.pdf
 ### Publications
 
 [<span style="color:blue">ISMM 2021</span>] S. Akram, Exploiting Intel Optane Persistent Memory for Full Text Search, ACM SIGPLAN International Symposium on Memory Management (ISMM), 2021. 
-<br>[<span style="color:red"> PDF version of paper</span>]({% link assets/papers/ismm-2021-search.pdf %}) <br> [<span style="color:DarkTurquoise"> PDF slides </span>]({% link assets/slides/XXX.pdf %})
+<br>[<span style="color:red"> PDF version of paper</span>]({% link assets/papers/ismm-2021-search.pdf %}) <br> [<span style="color:red"> PDF slides </span>]({% link assets/slides/XXX.pdf %})
 
 
 [<span style="color:blue">TACO 2021</span>] S. Akram, Performance Evaluation of Intel Optane Memory for Managed Workloads, ACM Transactions on Architecture and Code Optimization (TACO), 2021.
-<br> [<span style="color:red"> PDF version of paper</span>]({% link assets/papers/taco-2021-optane.pdf %}) <br> [<span style="color:DarkTurquoise"> PDF slides </span>]({% link assets/slides/XXX.pdf %})
+<br> [<span style="color:red"> PDF version of paper</span>]({% link assets/papers/taco-2021-optane.pdf %}) <br> [<span style="color:red"> PDF slides </span>]({% link assets/slides/XXX.pdf %})
 
 [<span style="color:blue">TACO 2021</span>] W. Liu, S. Akram, and L. Eeckhout, Reliability-Aware Garbage Collection for Hybrid DRAM-HBM Memories, ACM Transactions on Architecture and Code Optimization (TACO), 2021.
 <br> [<span style="color:red"> PDF version of paper</span>]({% link assets/papers/taco-riskrelief.pdf %}) 
 
 
 [<span style="color:blue">MoreVMs 2019</span>] S. Akram, To Expose, or Not to Expose, Hardware Heterogeneity to Runtimes! Modern Language Runtimes, Ecosystems, and VMs (MoreVMs), held alongside \<programming\>, 2019.
-<br> [<span style="color:red"> PDF version of paper</span>]({% link assets/papers/morevms19.pdf %}) <br> [<span style="color:DarkTurquoise"> PDF slides </span>]({% link assets/slides/morevms-2019.pdf %})
+<br> [<span style="color:red"> PDF version of paper</span>]({% link assets/papers/morevms19.pdf %}) <br> [<span style="color:red"> PDF slides </span>]({% link assets/slides/morevms-2019.pdf %})
 
 
 [<span style="color:blue">NVMW 2019</span>] S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Kingsguard: Write-Rationing Garbage Collection for Hybrid Memories, Annual Non-Volatile Memories Workshop (NVMW), 2019.
-<br> [<span style="color:red"> PDF version of paper</span>]({% link assets/papers/nvmw19.pdf %}) <br> [<span style="color:DarkTurquoise"> PDF slides </span>]({% link assets/slides/nvm-2019-kingsguard.pdf %})
+<br> [<span style="color:red"> PDF version of paper</span>]({% link assets/papers/nvmw19.pdf %}) <br> [<span style="color:red"> PDF slides </span>]({% link assets/slides/nvm-2019-kingsguard.pdf %})
 
 
 [<span style="color:blue">ISPASS 2019</span>] S. Pestel, S. Steen, S. Akram, and L. Eeckhout, RPPM: Rapid Performance Prediction of Multithreaded Workloads on Multicore Processors, IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2019. 
-<br> [<span style="color:red"> PDF version of paper</span>]({% link assets/papers/ispass2019-sander.pdf %}) <br> [<span style="color:DarkTurquoise"> PDF slides </span>]({% link assets/slides/ispass-RPPM.pdf %})
+<br> [<span style="color:red"> PDF version of paper</span>]({% link assets/papers/ispass2019-sander.pdf %}) <br> [<span style="color:red"> PDF slides </span>]({% link assets/slides/ispass-RPPM.pdf %})
 
 
 [<span style="color:blue">ISPASS 2019</span>] S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Emulating and Evaluating Hybrid Memory for Managed Languages on NUMA Hardware, IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2019. 
-<br> [<span style="color:red"> PDF version of paper</span>]({% link assets/papers/ispass2019-pcm.pdf %}) <br> [<span style="color:DarkTurquoise"> PDF slides </span>]({% link assets/slides/ispass-2019.pdf  %})
+<br> [<span style="color:red"> PDF version of paper</span>]({% link assets/papers/ispass2019-pcm.pdf %}) <br> [<span style="color:red"> PDF slides </span>]({% link assets/slides/ispass-2019.pdf  %})
 
 
 [<span style="color:blue">SIGMETRICS 2019</span>] S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Crystal Gazer: A Profile-Driven Garbage
 Collector to Manage Hybrid Memories, ACM International Conference on Measurement and Modeling of Computer Systems
 (SIGMETRICS), 2019.
-<br> [<span style="color:red"> PDF version of paper</span>]({% link assets/papers/pomacs09-akramA.pdf %}) <br> [<span style="color:DarkTurquoise"> PDF slides </span>]({% link assets/slides/sigmetrics-final.pdf %})
+<br> [<span style="color:red"> PDF version of paper</span>]({% link assets/papers/pomacs09-akramA.pdf %}) <br> [<span style="color:red"> PDF slides </span>]({% link assets/slides/sigmetrics-final.pdf %})
 
 
 [<span style="color:blue">CAL 2018</span>] S. Pestel, S. Steen, S. Akram, and L. Eeckhout, RPPM: Rapid Performance Prediction of Multithreaded Applications on Multicore Hardware, IEEE Computer Architecture Letters (CAL), 2018.
 
 [<span style="color:blue">PLDI 2018</span>] S. Akram, J. Sartor, K. McKinley and L. Eeckhout, Write-Rationing Garbage Collection for Hybrid Memories, ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2018. 
-<br> [<span style="color:red"> PDF version of paper</span>]({% link assets/papers/pldi-final.pdf %}) <br> [<span style="color:DarkTurquoise"> PDF slides </span>]({% link assets/slides/pldi-slides-2018.pdf %})
+<br> [<span style="color:red"> PDF version of paper</span>]({% link assets/papers/pldi-final.pdf %}) <br> [<span style="color:red"> PDF slides </span>]({% link assets/slides/pldi-slides-2018.pdf %})
 
 
 [<span style="color:blue">PASS 2018</span>] S. Akram, K. McKinley, J. Sartor, and L. Eeckhout, Managing Hybrid Memories by Predicting Object Write Intensity, Programming Across the System Stack (PASS), held alongside \<programming\>, 2018.
