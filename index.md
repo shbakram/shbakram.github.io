@@ -54,15 +54,15 @@ industrial-strength software, such as Apache Spark and Lucene, OpenJDK, and the
 Linux OS. The nature of systems research is challenging but highly rewarding.
 Our students quickly hook up with industry partners. If you are passionate
 about programming and building real-world prototypes, please get in touch.
-
-Check out a recent presentation and an invited poster from [Iacovos Kolokasis](https://www.csd.uoc.gr/~kolokasis/), a doctoral student I co-advise
-with [Angelos Bilas](http://users.ics.forth.gr/~bilas/).
-
-[Presentation: Data+AI Summit 2021](https://www.youtube.com/watch?v=O1PzEmUJ-X0&ab_channel=Databricks) 
-
-[Poster: PhD Workshop on Next-Generation Cloud Infrastructure at Microsoft Research Cambridge]({% link assets/microsoft-poster.pdf %})
-
 ***I am especially looking for students with a background in text search and knowledge of Apache Lucene and Solr.***
+
+### Students
+
+[Iacovos Kolokasis](https://www.csd.uoc.gr/~kolokasis/) (Ph.D. co-advisor with [Angelos Bilas](http://users.ics.forth.gr/~bilas/), University of Crete) <br>
+Research Topic: Efficient Caching for Big Data Analytics <br>
+[<span style="color:FireBrick">Data+AI Summit 2021</span>] [Presentation](https://www.youtube.com/watch?v=O1PzEmUJ-X0&ab_channel=Databricks)<br> 
+[<span style="color:FireBrick">PhD Workshop at Microsoft Research Cambridge</span>] [Poster]({% link assets/microsoft-poster.pdf %})
+
 
 ### Teaching
 
@@ -121,13 +121,21 @@ Collector to Manage Hybrid Memories, ACM International Conference on Measurement
 <br> [<span style="color:DarkBlue"> PDF version of paper</span>]({% link assets/papers/pldi-final.pdf %}) <br> [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/pldi-slides-2018.pdf %})
 
 
-[<span style="color:FireBrick"><b>PASS 2018</b></span>] S. Akram, K. McKinley, J. Sartor, and L. Eeckhout, Managing Hybrid Memories by PDarkBlueicting Object Write Intensity, Programming Across the System Stack (PASS), held alongside \<programming\>, 2018.
+[<span style="color:FireBrick"><b>PASS 2018</b></span>] S. Akram, K. McKinley, J. Sartor, and L. Eeckhout, Managing Hybrid Memories by Predicting Object Write Intensity, Programming Across the System Stack (PASS), held alongside \<programming\>, 2018.
+<br> [<span style="color:DarkBlue"> PDF version of paper</span>]({% link assets/papers/pass18.pdf %}) <br> [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/pass18-nice.pdf %})
+
 
 [<span style="color:FireBrick"><b>TC 2017</b></span>] S. Akram, J. Sartor, and L. Eeckhout, DEP+BURST: Online DVFS Performance PDarkBlueiction for Energy-Efficient Managed Language Execution, IEEE Transactions on Computers (TC), 2017.
+<br> [<span style="color:DarkBlue"> PDF version of paper</span>]({% link assets/papers/TC17-dep.pdf %}) 
+
 
 [<span style="color:FireBrick"><b>TACO 2016</b></span>] S. Akram, J. Sartor, K. Van Craeynest, W. Heirman, and L. Eeckhout, Boosting the Priority of Garbage: Scheduling Collection on Heterogeneous Multicore Processors, ACM Transactions on Architecture and Code Optimization (TACO), 2016.
+<br> [<span style="color:DarkBlue"> PDF version of paper</span>]({% link assets/papers/taco16-boosting.pdf %}) <br> [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/hipeac17-boosting.pdf %})
+
 
 [<span style="color:FireBrick"><b>ISPASS 2016</b></span>] S. Akram, J. Sartor, and L. Eeckhout, DVFS Performance PDarkBlueiction for Managed Multi-Threaded Applications, IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2016. 
+<br> [<span style="color:DarkBlue"> PDF version of paper</span>]({% link assets/papers/ispass16-dep.pdf %}) <br> [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/ispass16-dep.pdf %})
+
 
 [<span style="color:FireBrick"><b>PACT 2013</b></span>] K. Van Craeynest, S. Akram, W. Heirman, A. Jaleel, and L. Eeckhout, Fairness-aware Scheduling on Single-ISA Heterogeneous Multicores, International Conference on Parallel Architectures and Compilation Techniques (PACT), 2013. 
 
