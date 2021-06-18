@@ -83,7 +83,7 @@ course and an advanced [computer microarchitecture]({% link assets/comp3710.pdf
 ### Publications
 
 [<span style="color:FireBrick"><b>ISMM 2021</b></span>] S. Akram, Exploiting Intel Optane Persistent Memory for Full Text Search, ACM SIGPLAN International Symposium on Memory Management (ISMM), 2021. 
-<br>[<span style="color:DarkBlue"> PDF version of paper</span>]({% link assets/papers/ismm-2021-search.pdf %}) <br> [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/XXX.pdf %})
+<br>[<span style="color:DarkBlue"> PDF version of paper</span>]({% link assets/papers/ismm-2021-search.pdf %}) <br> [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/ismm-2021-search.pdf %})
 
 
 [<span style="color:FireBrick"><b>TACO 2021</b></span>] S. Akram, Performance Evaluation of Intel Optane Memory for Managed Workloads, ACM Transactions on Architecture and Code Optimization (TACO), 2021.
