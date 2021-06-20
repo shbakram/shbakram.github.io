@@ -37,7 +37,7 @@ I have recently evaluated production persistent memory from Intel for managed
 
 [<span style="color:FireBrick"><b>ACM TACO 2021</b></span>] Performance Evaluation of Intel Optane Memory for Managed Workloads. [<span style="color:DarkBlue"> PDF version of paper</span>]({% link assets/papers/taco-2021-optane.pdf %})
 
-[<span style="color:FireBrick"><b>ISMM 2021</b></span>] Exploiting Intel Optane Persistent Memory for Full Text Search. <br> [<span style="color:DarkBlue">PDF pre-print of paper</span>]({% link assets/papers/ismm-2021-search.pdf %})
+[<span style="color:FireBrick"><b>ISMM 2021</b></span>] Exploiting Intel Optane Persistent Memory for Full Text Search. <br> [<span style="color:DarkBlue">PDF pre-print of paper</span>]({% link assets/papers/ismm-2021-search.pdf %})  <br> [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/ismm-2021-search.pdf %})
 
 ### Research Infrastructure
 
@@ -60,7 +60,8 @@ about programming and building real-world prototypes, please get in touch.
 
 [Iacovos Kolokasis](https://www.csd.uoc.gr/~kolokasis/) (Ph.D. co-advisor with [Angelos Bilas](http://users.ics.forth.gr/~bilas/), University of Crete) <br>
 Research Topic: Efficient Caching for Big Data Analytics <br>
-[<span style="color:FireBrick">Data+AI Summit 2021</span>] [Presentation](https://www.youtube.com/watch?v=O1PzEmUJ-X0&ab_channel=Databricks)<br> 
+[<span style="color:FireBrick">Data+AI Summit 2021</span>] [Presentation](https://www.youtube.com/watch?v=O1PzEmUJ-X0&ab_channel=Databricks)
+[<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/kolokasis_spark_summit_final.pdf %})<br>
 [<span style="color:FireBrick">PhD Workshop at Microsoft Research Cambridge</span>] [Poster]({% link assets/microsoft-poster.pdf %})
 
 
