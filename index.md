@@ -64,13 +64,20 @@ Research Topic: Efficient Caching for Big Data Analytics <br>
 [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/kolokasis_spark_summit_final.pdf %})<br>
 [<span style="color:FireBrick">PhD Workshop at Microsoft Research Cambridge</span>] [Poster]({% link assets/microsoft-poster.pdf %})
 
+Aditya Chilukuri (Honours Thesis Advisor, FDD Eng. & Adv. Comp.)
+Research Topic: Software-Managed DRAM Caching for Persistent Memory
+
+## Current Project Students
+
+Anson Thai (BAC R&D)
+
+
 
 ### Teaching
 
 I teach two courses at ANU, an
 [introductory](https://cs.anu.edu.au/courses/engn2219/) computer architecture
-course and an advanced [computer microarchitecture]({% link assets/comp3710.pdf
-%}) (semester 2, 2021) course.
+course and an advanced [computer microarchitecture](https://cs.anu.edu.au/courses/comp3710-uarch/) (semester 2, 2021) course.
 
 ### Program Committees (Recent)
 
