@@ -23,14 +23,14 @@ and programming language conferences.
 
 [Curriculum vitae]({% link assets/CV.pdf %})
 
-### Current Research
+# Current Research
 
 My current emphasis is on the evaluation and optimization of the emerging
 memory and storage hierarchy.  I investigate cooperative hardware/software
 approaches to optimize the memory/storage hierarchy.
 
 
-### Recent News
+# Recent News
 
 I have recently evaluated production persistent memory from Intel for managed
 (Java) workloads and text indexing and search. 
@@ -39,14 +39,14 @@ I have recently evaluated production persistent memory from Intel for managed
 
 [<span style="color:FireBrick"><b>ISMM 2021</b></span>] Exploiting Intel Optane Persistent Memory for Full Text Search. <br> [<span style="color:DarkBlue">PDF pre-print of paper</span>]({% link assets/papers/ismm-2021-search.pdf %})  <br> [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/ismm-2021-search.pdf %})
 
-### Research Infrastructure
+# Research Infrastructure
 
 Thanks to generous support from the ANU start-up funding, I have built an
 in-house research infrastructure for evaluating emerging non-volatile memories.
 Our infrastructure includes terabytes of Intel Optane persistent memory and
 state-of-the-art solid-state drives.
 
-### Ph.D. Student Openings
+# Ph.D. Student Openings
 
 I am looking to recruit new Ph.D. students. My ongoing research requires good
 system-building skills. My current students are not afraid to customize
@@ -56,7 +56,7 @@ Our students quickly hook up with industry partners. If you are passionate
 about programming and building real-world prototypes, please get in touch.
 ***I am especially looking for students with a background in text search and knowledge of Apache Lucene and Solr.***
 
-### Students
+# Students
 
 [Iacovos Kolokasis](https://www.csd.uoc.gr/~kolokasis/) (Ph.D. co-advisor with [Angelos Bilas](http://users.ics.forth.gr/~bilas/), University of Crete) <br>
 Research Topic: Efficient Caching for Big Data Analytics <br>
@@ -64,7 +64,7 @@ Research Topic: Efficient Caching for Big Data Analytics <br>
 [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/kolokasis_spark_summit_final.pdf %})<br>
 [<span style="color:FireBrick">PhD Workshop at Microsoft Research Cambridge</span>] [Poster]({% link assets/microsoft-poster.pdf %})
 
-Aditya Chilukuri (Honours Thesis Advisor, FDD Eng. & Adv. Comp.)
+Aditya Chilukuri (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
 Research Topic: Software-Managed DRAM Caching for Persistent Memory
 
 ## Current Project Students
@@ -73,13 +73,13 @@ Anson Thai (BAC R&D)
 
 
 
-### Teaching
+## Teaching
 
 I teach two courses at ANU, an
 [introductory](https://cs.anu.edu.au/courses/engn2219/) computer architecture
 course and an advanced [computer microarchitecture](https://cs.anu.edu.au/courses/comp3710-uarch/) (semester 2, 2021) course.
 
-### Program Committees (Recent)
+# Program Committees (Recent)
 
 * International Symposium on Computer Architecture (ISCA), 2020 ERC, 2021 ERC
 * International Symposium on Memory Management (ISMM), 2019 PC, 2021 PC
@@ -88,7 +88,7 @@ course and an advanced [computer microarchitecture](https://cs.anu.edu.au/course
 * International Symposium on High-Performance Computer Architecture (HPCA), 2021 ERC
 * Object-Oriented Programming, Systems, Languages & Applications (OOPSLA), 2020 ERC
 
-### Publications
+# Publications
 
 [<span style="color:FireBrick"><b>ISMM 2021</b></span>] S. Akram, Exploiting Intel Optane Persistent Memory for Full Text Search, ACM SIGPLAN International Symposium on Memory Management (ISMM), 2021. 
 <br>[<span style="color:DarkBlue"> PDF version of paper</span>]({% link assets/papers/ismm-2021-search.pdf %}) <br> [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/ismm-2021-search.pdf %})
