@@ -68,8 +68,12 @@ Aditya Chilukuri (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
 Research Topic: Software-Managed DRAM Caching for Persistent Memory
 
 Anson Thai (Project Student, BAC R&D)
+Research Topic: Optimizing Key-Value Stores for Persistent Memory
 
-
+{% comment %}
+Angus Atkinson (Project Student, BAC)
+Research Topic: Cooperative Management of SRAM-NVM On-Chip Caches
+{% endcomment %}
 
 ### Teaching
 
