@@ -67,7 +67,7 @@ Research Topic: Efficient Caching for Big Data Analytics <br>
 Aditya Chilukuri (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
 Research Topic: Software-Managed DRAM Caching for Persistent Memory
 
-Anson Thai (Project Student, BAC R&D)
+Anson Thai (Project Student, BAC R&D) <br>
 Research Topic: Optimizing Key-Value Stores for Persistent Memory
 
 {% comment %}
