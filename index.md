@@ -59,16 +59,16 @@ about programming and building real-world prototypes, please get in touch.
 ### Students
 
 [Iacovos Kolokasis](https://www.csd.uoc.gr/~kolokasis/) (Ph.D. co-advisor with [Angelos Bilas](http://users.ics.forth.gr/~bilas/), University of Crete) <br>
-Research Topic: Efficient Caching for Big Data Analytics <br>
+Research Topic: Efficient DRAM/NVM Caching for Big Data Analytics <br>
 [<span style="color:FireBrick">Data+AI Summit 2021</span>] [Presentation](https://www.youtube.com/watch?v=O1PzEmUJ-X0&ab_channel=Databricks)
 [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/kolokasis_spark_summit_final.pdf %})<br>
 [<span style="color:FireBrick">PhD Workshop at Microsoft Research Cambridge</span>] [Poster]({% link assets/microsoft-poster.pdf %})
 
 Aditya Chilukuri (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
-Research Topic: Software-Managed DRAM Caching for Persistent Memory
+Research Topic: Memory/Storage Optimization for Search Engines 
 
 Anson Thai (Project Student, BAC R&D) <br>
-Research Topic: Optimizing Key-Value Stores for Persistent Memory
+Research Topic: Persistent, In-Memory Key-Value Stores 
 
 {% comment %}
 Angus Atkinson (Project Student, BAC)
@@ -77,13 +77,14 @@ Research Topic: Cooperative Management of SRAM-NVM On-Chip Caches
 
 ### Teaching
 
-I teach two courses at ANU, an
-[introductory](https://cs.anu.edu.au/courses/engn2219/) computer architecture
-course and an advanced [computer microarchitecture](https://cs.anu.edu.au/courses/comp3710-uarch/) (semester 2, 2021) course.
+I teach two courses at ANU, an [introductory](https://cs.anu.edu.au/courses/engn2219/) computer architecture
+course and an advanced [computer microarchitecture](https://cs.anu.edu.au/courses/comp3710-uarch/) (semester 2,
+2021) course.
 
 ### Program Committees (Recent)
 
-* International Symposium on Computer Architecture (ISCA), 2020 ERC, 2021 ERC
+* International Symposium on Performance Analysis of Systems and Software (ISPASS), 2022 PC
+* International Symposium on Computer Architecture (ISCA), 2020 ERC, 2021 ERC, 2022 ERC
 * International Symposium on Memory Management (ISMM), 2019 PC, 2021 PC
 * Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2020 ERC
 * International Symposium on Microarchitecture (MICRO), 2021 ERC
@@ -143,7 +144,7 @@ Collector to Manage Hybrid Memories, ACM International Conference on Measurement
 <br> [<span style="color:DarkBlue"> PDF version of paper</span>]({% link assets/papers/taco16-boosting.pdf %}) <br> [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/hipeac17-boosting.pdf %})
 
 
-[<span style="color:FireBrick"><b>ISPASS 2016</b></span>] S. Akram, J. Sartor, and L. Eeckhout, DVFS Performance PDarkBlueiction for Managed Multi-Threaded Applications, IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2016. 
+[<span style="color:FireBrick"><b>ISPASS 2016</b></span>] S. Akram, J. Sartor, and L. Eeckhout, DVFS Performance Prediction for Managed Multi-Threaded Applications, IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2016. 
 <br> [<span style="color:DarkBlue"> PDF version of paper</span>]({% link assets/papers/ispass16-dep.pdf %}) <br> [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/ispass16-dep.pdf %})
 
 
