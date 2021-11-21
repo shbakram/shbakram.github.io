@@ -46,6 +46,8 @@ in-house research infrastructure for evaluating emerging non-volatile memories.
 Our infrastructure includes terabytes of Intel Optane persistent memory and
 state-of-the-art solid-state drives.
 
+[Infrastructure guide for students]({% link assets/slides/infrastructure-guide.pdf %})
+
 ### Ph.D. Student Openings
 
 I am looking to recruit new Ph.D. students. My ongoing research requires good
