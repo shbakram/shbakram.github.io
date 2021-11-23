@@ -93,6 +93,12 @@ course and an advanced [computer microarchitecture](https://cs.anu.edu.au/course
 * International Symposium on High-Performance Computer Architecture (HPCA), 2021 ERC
 * Object-Oriented Programming, Systems, Languages & Applications (OOPSLA), 2020 ERC
 
+### Work in Progress
+
+Freeing Compute Caches from Serialization and Garbage Collection in Managed Big Data Analytics 
+[<span style="color:DarkBlue"> PDF pre-print of paper </span>](https://arxiv.org/pdf/2111.10589.pdf) <br>
+<b> Authors: </b> Iacovos G. Kolokasis, Giannos Evdorou, Anastasios Papagiannis, Foivos Zakkak, Christos Kozanitis, <b> Shoaib Akram </b>, Polyvios Pratikakis, Angelos Bilas
+
 ### Publications
 
 [<span style="color:FireBrick"><b>ISMM 2021</b></span>] S. Akram, Exploiting
