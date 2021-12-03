@@ -101,6 +101,12 @@ Freeing Compute Caches from Serialization and Garbage Collection in Managed Big 
 
 ### Publications
 
+[<span style="color:FireBrick"><b>CAL 2022</b></span>] S. Akram, Scale-Model Simulation, 
+IEEE Computer Architecture Letters (CAL), 2022.  <br>[<span
+style="color:DarkBlue"> PDF version of paper</span>]({% link
+assets/papers/cal-2021-ssim.pdf %}) <br> [<span style="color:HotPink"> PDF
+slides </span>]({% link assets/slides/XXX.pdf %})
+
 [<span style="color:FireBrick"><b>ISMM 2021</b></span>] S. Akram, Exploiting
 Intel Optane Persistent Memory for Full Text Search, ACM SIGPLAN International
 Symposium on Memory Management (ISMM), 2021.  <br>[<span
@@ -169,7 +175,9 @@ slides </span>]({% link assets/slides/sigmetrics-final.pdf %})
 [<span style="color:FireBrick"><b>CAL 2018</b></span>] S. Pestel, S. Steen, S.
 Akram, and L. Eeckhout, RPPM: Rapid Performance Prediction of
 Multithreaded Applications on Multicore Hardware, IEEE Computer Architecture
-Letters (CAL), 2018.
+Letters (CAL), 2018. <br> [<span
+style="color:DarkBlue"> PDF version of paper</span>]({% link
+assets/papers/cal-2018-rppm.pdf %})
 
 [<span style="color:FireBrick"><b>PLDI 2018</b></span>] S. Akram, J. Sartor, K.
 McKinley and L. Eeckhout, Write-Rationing Garbage Collection for Hybrid
