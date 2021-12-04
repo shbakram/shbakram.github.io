@@ -27,8 +27,10 @@ and programming language conferences.
 
 My current emphasis is on the evaluation and optimization of the emerging
 memory and storage hierarchy.  I investigate cooperative hardware/software
-approaches to optimize the memory/storage hierarchy.
-
+approaches to optimize the memory/storage hierarchy. On the hardware side, our
+focus is on non-volatile memory, processing-in-memory, and computational
+storage devices.  On the application software side, we target graph and machine
+learning analytics, real-time search, and bioinformatics.
 
 ### Recent News
 
@@ -101,11 +103,10 @@ Freeing Compute Caches from Serialization and Garbage Collection in Managed Big 
 
 ### Publications
 
-[<span style="color:FireBrick"><b>CAL 2022</b></span>] S. Akram, Scale-Model Simulation, 
-IEEE Computer Architecture Letters (CAL), 2022.  <br>[<span
-style="color:DarkBlue"> PDF version of paper</span>]({% link
-assets/papers/cal-2021-ssim.pdf %}) <br> [<span style="color:HotPink"> PDF
-slides </span>]({% link assets/slides/XXX.pdf %})
+[<span style="color:FireBrick"><b>CAL 2022</b></span>]  W. Liu, W. Heirman, S.
+Eyerman, S. Akram, and L. Eeckhout, Scale-Model Simulation, IEEE Computer
+Architecture Letters (CAL), 2022.  <br>[<span style="color:DarkBlue"> PDF
+version of paper</span>]({% link assets/papers/cal-2021-ssim.pdf %}) <br>
 
 [<span style="color:FireBrick"><b>ISMM 2021</b></span>] S. Akram, Exploiting
 Intel Optane Persistent Memory for Full Text Search, ACM SIGPLAN International
@@ -177,7 +178,7 @@ Akram, and L. Eeckhout, RPPM: Rapid Performance Prediction of
 Multithreaded Applications on Multicore Hardware, IEEE Computer Architecture
 Letters (CAL), 2018. <br> [<span
 style="color:DarkBlue"> PDF version of paper</span>]({% link
-assets/papers/cal-2018-rppm.pdf %})
+assets/papers/cal2018-RPPM.pdf %})
 
 [<span style="color:FireBrick"><b>PLDI 2018</b></span>] S. Akram, J. Sartor, K.
 McKinley and L. Eeckhout, Write-Rationing Garbage Collection for Hybrid
@@ -214,7 +215,7 @@ slides </span>]({% link assets/slides/hipeac17-boosting.pdf %})
 
 
 [<span style="color:FireBrick"><b>ISPASS 2016</b></span>] S. Akram, J. Sartor,
-and L. Eeckhout, DVFS Performance Prediction for Managed Multi-Threaded
+and L. Eeckhout, DVFS Performance Prediction for Managed Multithreaded
 Applications, IEEE International Symposium on Performance Analysis of Systems
 and Software (ISPASS), 2016.  <br> [<span style="color:DarkBlue"> PDF version
 of paper</span>]({% link assets/papers/ispass16-dep.pdf %}) <br> [<span
@@ -225,28 +226,40 @@ assets/slides/ispass16-dep.pdf %})
 [<span style="color:FireBrick"><b>PACT 2013</b></span>] K. Van Craeynest, S.
 Akram, W. Heirman, A. Jaleel, and L. Eeckhout, Fairness-aware Scheduling on
 Single-ISA Heterogeneous Multicores, International Conference on Parallel
-Architectures and Compilation Techniques (PACT), 2013. 
+Architectures and Compilation Techniques (PACT), 2013. <br> [<span
+style="color:DarkBlue"> PDF version of paper</span>]({% link
+assets/papers/pact13-fairness.pdf %}) <br> [<span style="color:HotPink"> PDF
+slides </span>]({% link assets/slides/pact2013-fairness.pdf %}) 
 
 [<span style="color:FireBrick"><b>MASCOTS 2012</b></span>] S. Akram, M.
 Marazakis, and A. Bilas, Understanding Scalability and Performance Requirements
 of I/O-intensive Applications on Future Multicore Servers," IEEE International
 Symposium on Modeling, Analysis and Simulation of Computer and
-Telecommunication Systems (MASCOTS), 2012. 
+Telecommunication Systems (MASCOTS), 2012.<br> [<span style="color:DarkBlue">
+PDF version of paper</span>]({% link assets/papers/cpio-mascots12.pdf %}) <br>
+[<span style="color:HotPink"> PDF slides </span>]({% link
+assets/slides/cpio-mascots12.pdf %}) 
 
 [<span style="color:FireBrick"><b>CAOS 2012</b></span>] S. Akram, M. Marazakis,
 and A. Bilas, NUMA Implications for Storage I/O Throughput in Modern Servers,"
 Computer Architecture and Operating System Co-design (CAOS), held alongside
-HiPEAC, 2012.
+HiPEAC, 2012. <br> [<span style="color:DarkBlue"> PDF version of
+paper</span>]({% link assets/papers/akram-caos12.pdf %})
 
 [<span style="color:FireBrick"><b>DEBS 2012</b></span>] S. Akram, M. Marazakis,
 and A. Bilas, Understanding and Improving the Cost of Scaling Distributed Event
 Processing, ACM International Conference on Distributed Event-Based Systems
-(DEBS), 2012.
+(DEBS), 2012. <br> [<span style="color:DarkBlue"> 
+PDF version of paper</span>]({% link assets/papers/cpio-mascots12.pdf %}) <br>
+[<span style="color:HotPink"> PDF slides </span>]({% link
+assets/slides/debs12-akram.pdf %})
 
 [<span style="color:FireBrick"><b>CAOS 2011</b></span>] S. Akram and A. Bilas,
 A Sleep-based Communication Mechanism to Save Processor Utilization in
 Distributed Streaming Systems,"Computer Architecture and Operating System
-Co-design (CAOS), held alongside HiPEAC, 2011.
+Co-design (CAOS), held alongside HiPEAC, 2011. <br> [<span
+style="color:DarkBlue"> PDF version of paper</span>]({% link
+assets/papers/caos11-final.pdf %})
 
 [<span style="color:FireBrick"><b>IJRC 2010</b></span>] S. Akram, A.
 Papakonstantinou, R. Kumar, D. Chen, S. Akram, A. Papakonstantinou, R. Kumar,
@@ -256,8 +269,12 @@ Processors, International Journal of Reconfigurable Computing (IJRC), 2010.
 [<span style="color:FireBrick"><b>SASP 2009</b></span>] S. Akram, R. Kumar, D.
 Chen, Workload Adaptive Shared Memory Multicore Processors with Reconfigurable
 Interconnects, IEEE Symposium on Application Specific Processors (SASP), 2009.
+<br> [<span style="color:DarkBlue"> PDF version of paper</span>]({% link
+assets/papers/sasp-2009-interconnects.pdf %}) <br>
 
 [<span style="color:FireBrick"><b>ASPDAC 2018</b></span>] S. Akram, S. Cromar,
 G. Lucas, A. Papakonstantinou, and D. Chen, VEBoC: Variation and Error-Aware
 Design for Billions of Devices on a Chip, IEEE/ACM Asia and South Pacific
-Design Automation Conference (ASPDAC), 2008.
+Design Automation Conference (ASPDAC), 2008. <br> [<span
+style="color:DarkBlue"> PDF version of paper</span>]({% link
+assets/papers/akram-aspdac08.pdf %})
