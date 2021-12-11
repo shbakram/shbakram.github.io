@@ -105,7 +105,7 @@ Freeing Compute Caches from Serialization and Garbage Collection in Managed Big 
 
 [<span style="color:FireBrick"><b>CAL 2021</b></span>]  W. Liu, W. Heirman, S.
 Eyerman, S. Akram, and L. Eeckhout, Scale-Model Simulation, IEEE Computer
-Architecture Letters (CAL), 2022.  <br>[<span style="color:DarkBlue"> PDF
+Architecture Letters (CAL), 2021.  <br>[<span style="color:DarkBlue"> PDF
 version of paper</span>]({% link assets/papers/cal-2021-ssim.pdf %}) <br>
 
 [<span style="color:FireBrick"><b>ISMM 2021</b></span>] S. Akram, Exploiting
