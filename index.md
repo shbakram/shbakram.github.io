@@ -103,7 +103,7 @@ Freeing Compute Caches from Serialization and Garbage Collection in Managed Big 
 
 ### Publications
 
-[<span style="color:FireBrick"><b>CAL 2022</b></span>]  W. Liu, W. Heirman, S.
+[<span style="color:FireBrick"><b>CAL 2021</b></span>]  W. Liu, W. Heirman, S.
 Eyerman, S. Akram, and L. Eeckhout, Scale-Model Simulation, IEEE Computer
 Architecture Letters (CAL), 2022.  <br>[<span style="color:DarkBlue"> PDF
 version of paper</span>]({% link assets/papers/cal-2021-ssim.pdf %}) <br>
