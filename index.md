@@ -74,10 +74,8 @@ Research Topic: Memory/Storage Optimization for Search Engines
 Anson Thai (Project Student, BAC R&D) <br>
 Research Topic: Persistent, In-Memory Key-Value Stores 
 
-{% comment %}
-Angus Atkinson (Project Student, BAC)
-Research Topic: Cooperative Management of SRAM-NVM On-Chip Caches
-{% endcomment %}
+[Angus Atkinson](https://kinson.it) (Project Student, BAC) <br>
+Research Topic: Persistent In Memory, Real-Time Text Inversion
 
 ### Teaching
 
