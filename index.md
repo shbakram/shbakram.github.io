@@ -66,7 +66,8 @@ about programming and building real-world prototypes, please get in touch.
 Research Topic: Efficient DRAM/NVM Caching for Big Data Analytics <br>
 [<span style="color:FireBrick">Data+AI Summit 2021</span>] [Presentation](https://www.youtube.com/watch?v=O1PzEmUJ-X0&ab_channel=Databricks)
 [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/kolokasis_spark_summit_final.pdf %})<br>
-[<span style="color:FireBrick">PhD Workshop at Microsoft Research Cambridge</span>] [Poster]({% link assets/microsoft-poster.pdf %})
+[<span style="color:FireBrick">PhD Workshop at Microsoft Research Cambridge</span>] [Poster]({% link assets/microsoft-poster.pdf %}) <br>
+[<span style="color:FireBrick">Meta PhD Fellow, 2022 </span>] [Bio](https://research.facebook.com/fellows/kolokasis-iacovos-g/)
 
 Aditya Chilukuri (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
 Research Topic: Memory/Storage Optimization for Search Engines 
