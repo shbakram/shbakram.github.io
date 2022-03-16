@@ -85,7 +85,7 @@ Cassandra Chun-Crogan (Research Assistant, Bachelor of Science) <br>
 Research Topic: Shutdown/Recovery for Persistent Memory-Backed Caching (Twitter/Segcache)
 
 ### Past Students
-Angus Atkinson (Summer Scholar, Bachelor of Advanced Computing)
+Angus Atkinson (Summer Scholar, Bachelor of Advanced Computing) <br>
 Research Topic: Scalable Real-Time Search over Hybrid Memories
 
 ### Teaching
