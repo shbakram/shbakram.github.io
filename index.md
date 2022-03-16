@@ -81,7 +81,7 @@ Research Topic: Efficient DRAM Caching for Real-Time Search
 Anson Thai (Project Student, Bachelor of Advanced Computing) <br>
 Research Topic: Persistent, In-Memory Key-Value Stores 
 
-Cassandra Chun-Crogan (Research Assistant, Bachelor of Science)
+Cassandra Chun-Crogan (Research Assistant, Bachelor of Science) <br>
 Research Topic: Shutdown/Recovery for Persistent Memory-Backed Caching (Twitter/Segcache)
 
 ### Past Students
