@@ -75,7 +75,7 @@ Research Topic: Memory/Storage Optimization for Search Engines
 Harris Loi (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
 Research Topic: Persistent Memory-Backed Cache Shutdown/Recovery
 
-Harris Loi (Honours Thesis Advisor, Bachelor of Software Engineering) <br>
+Jackson Kilrain-Mottram (Honours Thesis Advisor, Bachelor of Software Engineering) <br>
 Research Topic: Efficient DRAM Caching for Real-Time Search
 
 Anson Thai (Project Student, Bachelor of Advanced Computing) <br>
