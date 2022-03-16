@@ -72,13 +72,21 @@ Research Topic: Efficient DRAM/NVM Caching for Big Data Analytics <br>
 Aditya Chilukuri (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
 Research Topic: Memory/Storage Optimization for Search Engines 
 
-Anson Thai (Project Student, BAC R&D) <br>
+Harris Loi (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
+Research Topic: Persistent Memory-Backed Cache Shutdown/Recovery
+
+Harris Loi (Honours Thesis Advisor, Bachelor of Software Engineering) <br>
+Research Topic: Efficient DRAM Caching for Real-Time Search
+
+Anson Thai (Project Student, Bachelor of Advanced Computing) <br>
 Research Topic: Persistent, In-Memory Key-Value Stores 
 
-{% comment %}
-Angus Atkinson (Project Student, BAC)
-Research Topic: Cooperative Management of SRAM-NVM On-Chip Caches
-{% endcomment %}
+Cassandra Chun-Crogan (Research Assistant, Bachelor of Science)
+Research Topic: Shutdown/Recovery for Persistent Memory-Backed Caching (Twitter/Segcache)
+
+### Past Students
+Angus Atkinson (Summer Scholar, Bachelor of Advanced Computing)
+Research Topic: Scalable Real-Time Search over Hybrid Memories
 
 ### Teaching
 
@@ -88,10 +96,10 @@ course and an advanced [computer microarchitecture](https://cs.anu.edu.au/course
 
 ### Program Committees (Recent)
 
+* Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2020 ERC, 2023 PC
 * International Symposium on Performance Analysis of Systems and Software (ISPASS), 2022 PC
 * International Symposium on Computer Architecture (ISCA), 2020 ERC, 2021 ERC, 2022 ERC
-* International Symposium on Memory Management (ISMM), 2019 PC, 2021 PC
-* Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2020 ERC
+* International Symposium on Memory Management (ISMM), 2019 PC, 2021 PC, 2022 PC
 * International Symposium on Microarchitecture (MICRO), 2021 ERC
 * International Symposium on High-Performance Computer Architecture (HPCA), 2021 ERC
 * Object-Oriented Programming, Systems, Languages & Applications (OOPSLA), 2020 ERC
