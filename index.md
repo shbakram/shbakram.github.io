@@ -90,9 +90,8 @@ Research Topic: Scalable Real-Time Search over Hybrid Memories
 
 ### Teaching
 
-I teach two courses at ANU, an [introductory](https://cs.anu.edu.au/courses/engn2219/) computer architecture
-course and an advanced [computer microarchitecture](https://cs.anu.edu.au/courses/comp3710-uarch/) (semester 2,
-2021) course.
+[Computer Systems and Organization](https://cs.anu.edu.au/courses/engn2219/) <br>
+[Computer Microarchitecture](https://cs.anu.edu.au/courses/comp3710-uarch/)
 
 ### Program Committees (Recent)
 
