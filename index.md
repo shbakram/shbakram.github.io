@@ -112,6 +112,11 @@ Freeing Compute Caches from Serialization and Garbage Collection in Managed Big 
 
 ### Publications
 
+[<span style="color:FireBrick"><b>ISPASS 2022</b></span>]  W. Liu, W. Heirman, S.
+Eyerman, S. Akram, and L. Eeckhout, Scale-Model Architectural Simulation, IEEE International Symposium
+on Performance Analysis of Systems and Software (ISPASS), 2022. <br>[<span style="color:DarkBlue"> PDF
+version of paper</span>]({% link assets/papers/ispass-2022-ssim.pdf %}) <br>
+
 [<span style="color:FireBrick"><b>CAL 2021</b></span>]  W. Liu, W. Heirman, S.
 Eyerman, S. Akram, and L. Eeckhout, Scale-Model Simulation, IEEE Computer
 Architecture Letters (CAL), 2021.  <br>[<span style="color:DarkBlue"> PDF
