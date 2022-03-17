@@ -32,15 +32,6 @@ focus is on non-volatile memory, processing-in-memory, and computational
 storage devices.  On the application software side, we target graph and machine
 learning analytics, real-time search, and bioinformatics.
 
-### Recent News
-
-I have recently evaluated production persistent memory from Intel for managed
-(Java) workloads and text indexing and search. 
-
-[<span style="color:FireBrick"><b>ACM TACO 2021</b></span>] Performance Evaluation of Intel Optane Memory for Managed Workloads. [<span style="color:DarkBlue"> PDF version of paper</span>]({% link assets/papers/taco-2021-optane.pdf %})
-
-[<span style="color:FireBrick"><b>ISMM 2021</b></span>] Exploiting Intel Optane Persistent Memory for Full Text Search. <br> [<span style="color:DarkBlue">PDF pre-print of paper</span>]({% link assets/papers/ismm-2021-search.pdf %})  <br> [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/ismm-2021-search.pdf %})
-
 ### Research Infrastructure
 
 Thanks to generous support from the ANU start-up funding, I have built an
