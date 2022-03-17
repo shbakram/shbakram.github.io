@@ -90,8 +90,8 @@ Research Topic: Scalable Real-Time Search over Hybrid Memories
 
 ### Teaching
 
-[Computer Systems and Organization](https://cs.anu.edu.au/courses/engn2219/) <br>
-[Computer Microarchitecture](https://cs.anu.edu.au/courses/comp3710-uarch/)
+[Computer Systems and Organization](https://cs.anu.edu.au/courses/engn2219/) (Semester 1) <br>
+[Computer Microarchitecture](https://cs.anu.edu.au/courses/comp3710-uarch/) (Semester 2)
 
 ### Program Committees (Recent)
 
