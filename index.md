@@ -18,7 +18,7 @@ I am interested in computer systems in general and memory and storage systems
 in particular. My research approach intersects the boundary between the
 hardware, OS, and language runtime.
 
-I lead the **V**ertically **I**ntegrated **C**omputer **S**ystems (**VICS**) research group.
+I lead the <span style="color:Black">**V**</span>ertically <span style="color:Black">**I**</span>ntegrated <span style="color:Black">**C**</span>omputer <span style="color:Black">**S**</span>ystems (<span style="color:Black">**VICS**</span>) research group.
 
 I serve on the reviewing committees of top-tier computer architecture, systems,
 and programming language conferences.
