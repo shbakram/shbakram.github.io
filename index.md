@@ -18,6 +18,8 @@ I am interested in computer systems in general and memory and storage systems
 in particular. My research approach intersects the boundary between the
 hardware, OS, and language runtime.
 
+I lead the **V**ertically **I**ntegrated **C**omputer **S**ystems (**VICS**) research group.
+
 I serve on the reviewing committees of top-tier computer architecture, systems,
 and programming language conferences.
 
@@ -43,8 +45,8 @@ state-of-the-art solid-state drives.
 
 ### Ph.D. Student Openings
 
-I am looking to recruit new Ph.D. students. My ongoing research requires good
-system-building skills. My current students are not afraid to customize
+We have openings for Ph.D. students in the VICS research group. Our ongoing research requires good
+system-building skills. Our current students are not afraid to customize
 industrial-strength software, such as Apache Spark and Lucene, OpenJDK, and the
 Linux OS. The nature of systems research is challenging but highly rewarding.
 Our students quickly hook up with industry partners. If you are passionate
@@ -58,26 +60,32 @@ Research Topic: Efficient DRAM/NVM Caching for Big Data Analytics <br>
 [<span style="color:FireBrick">Data+AI Summit 2021</span>] [Presentation](https://www.youtube.com/watch?v=O1PzEmUJ-X0&ab_channel=Databricks)
 [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/kolokasis_spark_summit_final.pdf %})<br>
 [<span style="color:FireBrick">PhD Workshop at Microsoft Research Cambridge</span>] [Poster]({% link assets/microsoft-poster.pdf %}) <br>
-[<span style="color:FireBrick">Meta PhD Fellow, 2022 </span>] [Bio](https://research.facebook.com/fellows/kolokasis-iacovos-g/)
+[<span style="color:FireBrick">Meta PhD Fellow, 2022 </span>] [Bio](https://research.facebook.com/fellows/kolokasis-iacovos-g/) <br>
+Frameworks: Apache Spark, Gigraph, and OpenJDK
 
 Aditya Chilukuri (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
-Research Topic: Memory/Storage Optimization for Search Engines 
+Research Topic: Scalable Managed Heaps for Fast Access to Decompressed Indices <br>
+Framework: Apache Lucene
 
 Harris Loi (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
-Research Topic: Persistent Memory-Backed Cache Shutdown/Recovery
+Research Topic: Persistent Memory-Backed Cache Shutdown/Recovery <br>
+Framework: Segcache (Twitter)
 
 Jackson Kilrain-Mottram (Honours Thesis Advisor, Bachelor of Software Engineering) <br>
-Research Topic: Efficient DRAM Caching for Real-Time Search
+Research Topic: Efficient DRAM Caching for Real-Time Search <br>
+Framework: In-House Search Engine (Port of Psearchy/MIT)
 
 Anson Thai (Project Student, Bachelor of Advanced Computing) <br>
-Research Topic: Persistent, In-Memory Key-Value Stores 
+Research Topic: Persistent, In-Memory Text Inversion <br> 
+Framework: In-House Search Engine (Port of Psearchy/MIT)
 
 Cassandra Chun-Crogan (Research Assistant, Bachelor of Science) <br>
-Research Topic: Shutdown/Recovery for Persistent Memory-Backed Caching (Twitter/Segcache)
+Research Topic: Shutdown/Recovery for Persistent Memory-Backed Caching <br>
+Framework: Twitter/Segcache
 
 ### Past Students
 Angus Atkinson (Summer Scholar, Bachelor of Advanced Computing) <br>
-Research Topic: Scalable Real-Time Search over Hybrid Memories
+Research Topic: Scalable Real-Time Search over Hybrid Memories <br>
 
 ### Teaching
 
