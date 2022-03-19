@@ -93,23 +93,23 @@ Research Topic: Scalable Real-Time Search over Hybrid Memories <br>
 [Computer Systems and Organization](https://cs.anu.edu.au/courses/engn2219/) (Semester 1) <br>
 [Computer Microarchitecture](https://cs.anu.edu.au/courses/comp3710-uarch/) (Semester 2)
 
-### Program Committees (Recent)
+### Professional Activities (Recent)
 
-* Architectural Support for Programming Languages and Operating Systems (**ASPLOS**) <br>
-PC: 2023 <br> 
-ERC: 2020 <br>
-* International Symposium on Performance Analysis of Systems and Software (**ISPASS**) <br>
-PC: 2022
-* International Symposium on Computer Architecture (**ISCA**) <br>
-ERC: 2020, 2021, 2022
-* International Symposium on Memory Management (**ISMM**) <br>
-PC: 2019, 2021, 2022
-* International Symposium on Microarchitecture (**MICRO**) <br>
-ERC: 2021
-* International Symposium on High-Performance Computer Architecture (**HPCA**) <br>
-ERC: 2021
-* Object-Oriented Programming, Systems, Languages & Applications (**OOPSLA**) <br>
-ERC: 2020
+* Architectural Support for Programming Languages and Operating Systems (<span style="color:black">**ASPLOS**</span>) <br>
+<span style="color:dodgerblue"> Member, Program Committee: 2023 </span> <br> 
+<span style="color:tomato"> Member, External Review Committee: 2020 </span> <br>
+* International Symposium on Performance Analysis of Systems and Software (<span style="color:black">**ISPASS**</span>) <br>
+<span style="color:dodgerblue"> Member, Program Committee: 2022 </span>
+* International Symposium on Computer Architecture (<span style="color:black">**ISCA**</span>) <br>
+<span style="color:tomato"> Member, External Review Committee: 2020, 2021, 2022 </span>
+* International Symposium on Memory Management (<span style="color:black">**ISMM**</span>) <br>
+<span style="color:dodgerblue"> Member, Program Committee: 2019, 2021, 2022 </span>
+* International Symposium on Microarchitecture (<span style="color:black">**MICRO**</span>) <br>
+<span style="color:tomato"> Member, External Review Committee: 2021 </span>
+* International Symposium on High-Performance Computer Architecture (<span style="color:black">**HPCA**<span>) <br>
+<span style="color:tomato"> Member, External Review Committee: 2021 </span>
+* Object-Oriented Programming, Systems, Languages & Applications (<span style="color:black">**OOPSLA**</span>) <br>
+<span style="color:tomato"> Member, External Review Committee: 2020 </span>
 
 ### Work in Progress
 
