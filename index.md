@@ -67,7 +67,7 @@ about programming and building real-world prototypes, please get in touch.
 ### Students
 
 [Iacovos Kolokasis](https://www.csd.uoc.gr/~kolokasis/) (Ph.D. co-advisor with [Angelos Bilas](http://users.ics.forth.gr/~bilas/), University of Crete) <br>
-Research Topic: Efficient DRAM/NVM Caching for Big Data Analytics <br>
+Research Topic: Terabyte-Scale Managed Heaps for Big Data Analytics <br>
 [<span style="color:FireBrick">Data+AI Summit 2021</span>] [Presentation](https://www.youtube.com/watch?v=O1PzEmUJ-X0&ab_channel=Databricks)
 [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/kolokasis_spark_summit_final.pdf %})<br>
 [<span style="color:FireBrick">PhD Workshop at Microsoft Research Cambridge</span>] [Poster]({% link assets/microsoft-poster.pdf %}) <br>
@@ -75,7 +75,7 @@ Research Topic: Efficient DRAM/NVM Caching for Big Data Analytics <br>
 Frameworks: Apache Spark, Gigraph, and OpenJDK
 
 Aditya Chilukuri (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
-Research Topic: Scalable Managed Heaps for Fast Access to Decompressed Indices <br>
+Research Topic: Scalable Storage for Decompressed Indices in Managed Search Engines <br>
 Framework: Apache Lucene
 
 Harris Loi (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
@@ -92,7 +92,7 @@ Framework: In-House Search Engine (Port of Psearchy/MIT)
 
 Cassandra Chun-Crogan (Research Assistant, Bachelor of Science) <br>
 Research Topic: Shutdown/Recovery for Persistent Memory-Backed Caching <br>
-Framework: Twitter/Segcache
+Framework: Segcache (Twitter)
 
 ### Past Students
 Angus Atkinson (Summer Scholar, Bachelor of Advanced Computing) <br>
