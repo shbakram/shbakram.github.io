@@ -26,6 +26,14 @@ and programming language conferences.
 [Curriculum vitae]({% link assets/CV.pdf %}) <br>
 [Google Scholar](https://scholar.google.com/citations?user=vwB9Q54AAAAJ&hl=en)
 
+### Recent News 
+
+[<span style="color:FireBrick"><b>ISPASS 2022</b></span>] Paper accepted at ISPASS 2022 
+
+[<span style="color:FireBrick"><b>ISMM 2022</b></span>] Serving on the ISMM PC (please submit your best work!) 
+
+[<span style="color:FireBrick"><b>ASPLOS 2023</b></span>] Serving on the ASPLOS PC (please submit your best work!) 
+
 ### Current Research
 
 My current emphasis is on the evaluation and optimization of the emerging
@@ -99,20 +107,20 @@ microarchitecture course is an advanced (graduate level) course. <br>
 ### Professional Activities (Recent)
 
 * Architectural Support for Programming Languages and Operating Systems (<span style="color:black">**ASPLOS**</span>) <br>
-<span style="color:dodgerblue"> Member, Program Committee: 2023 </span> <br> 
-<span style="color:tomato"> Member, External Review Committee: 2020 </span> <br>
+<span style="color:crimson"> Member, Program Committee: 2023 </span> <br> 
+<span style="color:dodgerblue"> Member, External Review Committee: 2020 </span> <br>
 * International Symposium on Performance Analysis of Systems and Software (<span style="color:black">**ISPASS**</span>) <br>
-<span style="color:dodgerblue"> Member, Program Committee: 2022 </span>
+<span style="color:crimson"> Member, Program Committee: 2022 </span>
 * International Symposium on Computer Architecture (<span style="color:black">**ISCA**</span>) <br>
-<span style="color:tomato"> Member, External Review Committee: 2020, 2021, 2022 </span>
+<span style="color:dodgerblue"> Member, External Review Committee: 2020, 2021, 2022 </span>
 * International Symposium on Memory Management (<span style="color:black">**ISMM**</span>) <br>
-<span style="color:dodgerblue"> Member, Program Committee: 2019, 2021, 2022 </span>
+<span style="color:crimson"> Member, Program Committee: 2019, 2021, 2022 </span>
 * International Symposium on Microarchitecture (<span style="color:black">**MICRO**</span>) <br>
-<span style="color:tomato"> Member, External Review Committee: 2021 </span>
+<span style="color:dodgerblue"> Member, External Review Committee: 2021 </span>
 * International Symposium on High-Performance Computer Architecture (<span style="color:black">**HPCA**<span>) <br>
-<span style="color:tomato"> Member, External Review Committee: 2021 </span>
+<span style="color:dodgerblue"> Member, External Review Committee: 2021 </span>
 * Object-Oriented Programming, Systems, Languages & Applications (<span style="color:black">**OOPSLA**</span>) <br>
-<span style="color:tomato"> Member, External Review Committee: 2020 </span>
+<span style="color:dodgerblue"> Member, External Review Committee: 2020 </span>
 
 ### Work in Progress
 
