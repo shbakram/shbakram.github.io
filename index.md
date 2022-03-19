@@ -28,7 +28,7 @@ and programming language conferences.
 
 ### Recent News 
 
-[<span style="color:FireBrick"><b>ISPASS 2022</b></span>] Paper accepted at ISPASS 2022 
+[<span style="color:FireBrick"><b>ISPASS 2022</b></span>] Paper on ML for architectural simulation accepted at ISPASS 2022  
 
 [<span style="color:FireBrick"><b>ISMM 2022</b></span>] Serving on the ISMM PC (please submit your best work!) 
 
