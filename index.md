@@ -95,13 +95,21 @@ Research Topic: Scalable Real-Time Search over Hybrid Memories <br>
 
 ### Program Committees (Recent)
 
-* Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2020 ERC, 2023 PC
-* International Symposium on Performance Analysis of Systems and Software (ISPASS), 2022 PC
-* International Symposium on Computer Architecture (ISCA), 2020 ERC, 2021 ERC, 2022 ERC
-* International Symposium on Memory Management (ISMM), 2019 PC, 2021 PC, 2022 PC
-* International Symposium on Microarchitecture (MICRO), 2021 ERC
-* International Symposium on High-Performance Computer Architecture (HPCA), 2021 ERC
-* Object-Oriented Programming, Systems, Languages & Applications (OOPSLA), 2020 ERC
+* Architectural Support for Programming Languages and Operating Systems (**ASPLOS**) <br>
+PC: 2023 <br> 
+ERC: 2020 <br>
+* International Symposium on Performance Analysis of Systems and Software (**ISPASS**) <br>
+PC: 2022
+* International Symposium on Computer Architecture (**ISCA**) <br>
+ERC: 2020, 2021, 2022
+* International Symposium on Memory Management (**ISMM**) <br>
+PC: 2019, 2021, 2022
+* International Symposium on Microarchitecture (**MICRO**) <br>
+ERC: 2021
+* International Symposium on High-Performance Computer Architecture (**HPCA**) <br>
+ERC: 2021
+* Object-Oriented Programming, Systems, Languages & Applications (**OOPSLA**) <br>
+ERC: 2020
 
 ### Work in Progress
 
