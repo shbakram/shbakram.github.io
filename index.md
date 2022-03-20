@@ -54,15 +54,25 @@ state-of-the-art solid-state drives.
 
 [Infrastructure guide for students]({% link assets/slides/infrastructure-guide.pdf %})
 
+### Honours Projects
+
+I welcome ANU students looking for honors projects. My projects require
+knowledge of algorithms and good programming skills (one of C, C++, Java,
+Python, Rust). My students build prototypes either from scratch or from hacking
+existing production software. Our current focus is on the memory and storage
+hierarchy. If you did well in COMP1110 and COMP2300 (ENGN2219, 2022 onward), I
+encourage you to contact me. The students who finish honors with me have a
+passion for computer systems and learn new skills (especially OS and storage
+hardware) along the way.
+ 
+
+
 ### Ph.D. Student Openings
 
-We have openings for Ph.D. students in the VICS research group. Our ongoing research requires good
-system-building skills. Our current students are not afraid to customize
-industrial-strength software, such as Apache Spark and Lucene, OpenJDK, and the
-Linux OS. The nature of systems research is challenging but highly rewarding.
-Our students quickly hook up with industry partners. If you are passionate
-about programming and building real-world prototypes, please get in touch.
-***I am especially looking for students with a background in text search and knowledge of Apache Lucene and Solr.***
+We have openings for Ph.D. students in the VICS research group. Our ongoing
+research requires good system-building skills. Our current students are not
+afraid to customize industrial-strength software, such as Apache Spark and
+Lucene, OpenJDK, and the Linux OS. 
 
 ### Students
 
