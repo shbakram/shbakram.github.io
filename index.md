@@ -28,9 +28,12 @@ and programming language conferences.
 
 ### Recent News 
 
+
 [<span style="color:FireBrick"><b>ASPLOS 2023</b></span>] Serving on the ASPLOS PC (three submission rounds) 
 
 [<span style="color:FireBrick"><b>HPCA 2023</b></span>] Serving on the HPCA PC (please submit your best work!)
+
+[<span style="color:FireBrick"><b>MICRO 2022</b></span>] Serving on the MICRO PC 
 
 [<span style="color:FireBrick"><b>ISPASS 2022</b></span>] Paper on ML for architectural simulation accepted at ISPASS 2022  
 
@@ -126,6 +129,10 @@ microarchitecture course is an advanced (graduate level) course. <br>
 <span style="color:crimson"> Member, Program Committee: 2023 </span> <br>
 <span style="color:dodgerblue"> Member, External Review Committee: 2021 </span>
 
+* International Symposium on Microarchitecture (<span style="color:black">**MICRO**</span>) <br>
+<span style="color:crimson"> Member, Program Committee: 2022 </span> <br>
+<span style="color:dodgerblue"> Member, External Review Committee: 2021 </span>
+
 * International Symposium on Performance Analysis of Systems and Software (<span style="color:black">**ISPASS**</span>) <br>
 <span style="color:crimson"> Member, Program Committee: 2022 </span>
 
@@ -135,8 +142,6 @@ microarchitecture course is an advanced (graduate level) course. <br>
 * International Symposium on Memory Management (<span style="color:black">**ISMM**</span>) <br>
 <span style="color:crimson"> Member, Program Committee: 2019, 2021, 2022 </span>
 
-* International Symposium on Microarchitecture (<span style="color:black">**MICRO**</span>) <br>
-<span style="color:dodgerblue"> Member, External Review Committee: 2021 </span>
 
 * Object-Oriented Programming, Systems, Languages & Applications (<span style="color:black">**OOPSLA**</span>) <br>
 <span style="color:dodgerblue"> Member, External Review Committee: 2020 </span>
