@@ -111,13 +111,15 @@ Framework: Segcache (Twitter)
 Angus Atkinson (Summer Scholar, Bachelor of Advanced Computing) <br>
 Research Topic: Scalable Real-Time Search over Hybrid Memories <br>
 
-### Teaching
+## Teaching
 
-I teach two courses at ANU. I designed both from scratch. The computer
-microarchitecture course is an advanced (graduate level) course. <br>
+I teach the following courses at ANU. I designed all three from scratch. The computer
+microarchitecture course is an advanced (graduate level) course. COMP2310 is
+ANU's systems programming course. <br>
 
-[Computer Systems and Organization](https://cs.anu.edu.au/courses/engn2219/) (Semester 1) <br>
-[Computer Microarchitecture](https://cs.anu.edu.au/courses/comp3710-uarch/) (Semester 2)
+- [Computer Systems and Organization (ENGN2219)](https://cs.anu.edu.au/courses/engn2219/) (Semester 1, 2022) 
+- [Computer Microarchitecture (COMP3710)](https://cs.anu.edu.au/courses/comp3710-uarch/) (Semester 2, 2022)
+- Systems, Networks, and Concurrency (COMP2310) (Semester 2, 2022)
 
 ### Professional Activities (Recent)
 
