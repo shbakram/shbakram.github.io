@@ -113,7 +113,7 @@ Research Topic: Scalable Real-Time Search over Hybrid Memories <br>
 
 ## Teaching
 
-I teach the following courses at ANU. I designed all three from scratch. The computer
+I teach the following courses at ANU. The computer
 microarchitecture course is an advanced (graduate level) course. COMP2310 is
 ANU's systems programming course. <br>
 
