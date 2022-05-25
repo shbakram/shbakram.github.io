@@ -57,6 +57,11 @@ state-of-the-art solid-state drives.
 
 [Infrastructure guide for students]({% link assets/slides/infrastructure-guide.pdf %})
 
+On the software side, our current focus is on several open-source and in-house frameworks, including OpenJDK, [Apache Spark](https://spark.apache.org/),
+[Lucene](https://lucene.apache.org/), and [Giraph](https://giraph.apache.org/), [HICOPS](https://hicops.github.io/) for proteomics, and an in-house NVM/NVMe
+port of the Psearchy (MIT) search engine, and Twitter's [Segcache](https://github.com/twitter/pelikan).
+
+
 ### Honours Projects
 
 I welcome ANU students looking for honors projects. My projects require
@@ -85,31 +90,24 @@ Research Topic: Terabyte-Scale Managed Heaps for Big Data Analytics <br>
 [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/kolokasis_spark_summit_final.pdf %})<br>
 [<span style="color:FireBrick">PhD Workshop at Microsoft Research Cambridge</span>] [Poster]({% link assets/microsoft-poster.pdf %}) <br>
 [<span style="color:FireBrick">Meta PhD Fellow, 2022 </span>] [Bio](https://research.facebook.com/fellows/kolokasis-iacovos-g/) <br>
-Frameworks: Apache Spark, Gigraph, and OpenJDK 
 
 [Sumesh Kumar](https://saeedlab.cis.fiu.edu/staff-members/sumesh-kumar/) (Ph.D. co-advisor with [Fahad Saeed](https://prof-s.github.io/), Florida International University) <br>
 Research Topic: Scalable systems for database search of large proteomics datasets <br>
-Frameworks: [HICOPS](https://hicops.github.io/)
 
 Aditya Chilukuri (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
 Research Topic: Scalable Storage for Decompressed Indices in Managed Search Engines <br>
-Framework: Apache Lucene
 
 Harris Loi (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
 Research Topic: Persistent Memory-Backed Cache Shutdown/Recovery <br>
-Framework: Segcache (Twitter)
 
 Jackson Kilrain-Mottram (Honours Thesis Advisor, Bachelor of Software Engineering) <br>
 Research Topic: Efficient DRAM Caching for Real-Time Search <br>
-Framework: In-House Search Engine (Port of Psearchy/MIT)
 
 Anson Thai (Project Student, Bachelor of Advanced Computing) <br>
 Research Topic: Persistent, In-Memory Text Inversion <br> 
-Framework: In-House Search Engine (Port of Psearchy/MIT)
 
 Cassandra Chun-Crogan (Research Assistant, Bachelor of Science) <br>
 Research Topic: Shutdown/Recovery for Persistent Memory-Backed Caching <br>
-Framework: Segcache (Twitter)
 
 ### Past Students
 Angus Atkinson (Summer Scholar, Bachelor of Advanced Computing) <br>
