@@ -85,7 +85,11 @@ Research Topic: Terabyte-Scale Managed Heaps for Big Data Analytics <br>
 [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/kolokasis_spark_summit_final.pdf %})<br>
 [<span style="color:FireBrick">PhD Workshop at Microsoft Research Cambridge</span>] [Poster]({% link assets/microsoft-poster.pdf %}) <br>
 [<span style="color:FireBrick">Meta PhD Fellow, 2022 </span>] [Bio](https://research.facebook.com/fellows/kolokasis-iacovos-g/) <br>
-Frameworks: Apache Spark, Gigraph, and OpenJDK
+Frameworks: Apache Spark, Gigraph, and OpenJDK 
+
+[Sumesh Kumar](https://saeedlab.cis.fiu.edu/staff-members/sumesh-kumar/) (Ph.D. co-advisor with [Fahad Saeed](https://prof-s.github.io/), Florida International University) <br>
+Research Topic: Scalable systems for database search of large proteomics datasets <br>
+Frameworks: [HICOPS](https://hicops.github.io/)
 
 Aditya Chilukuri (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
 Research Topic: Scalable Storage for Decompressed Indices in Managed Search Engines <br>
