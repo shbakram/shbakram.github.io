@@ -110,8 +110,7 @@ Research Topic: Graceful Shutdown/Recovery for Persistent Memory-Backed Caching 
 <span style="color:dodgerblue"> First Job: Software Engineer, Google Sydney </span>
 
 Aditya Chilukuri (Honours Thesis, FDD Eng. & Adv. Comp., 2021 - 2022) <br>
-{% comment %} Research Topic: Scalable Storage for Decompressed Indices in Managed Search Engines <br> {% endcomment %}
-Thesis Topic: Fast and Scalable Text Search using Non-Volatile Main Memory
+Thesis Topic: Fast and Scalable Text Search using Non-Volatile Main Memory <br>
 <span style="color:dodgerblue"> First Job: Software Developer, Australian Government </span>
 
 Angus Atkinson (Summer Scholar, Bachelor of Advanced Computing) <br>
