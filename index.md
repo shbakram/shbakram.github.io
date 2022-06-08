@@ -109,7 +109,7 @@ Research Topic: Persistent, In-Memory Text Inversion <br>
 ### VICS Alumni
 
 Cassandra Chun-Crogan (Research Assistant, Bachelor of Science, Nov 2021 - May 2022) <br>
-Research Topic: Graceful Shutdown/Recovery for Persistent Memory-Backed Caching (Segcache) <br>
+Research Topic: Graceful Shutdown/Recovery for Persistent Memory-Backed Caching <br>
 <span style="color:crimson"> First Job: Software Engineer, Google Sydney </span>
 
 Angus Atkinson (Summer Scholar, Bachelor of Advanced Computing) <br>
