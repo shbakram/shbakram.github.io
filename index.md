@@ -107,12 +107,12 @@ Research Topic: Persistent, In-Memory Text Inversion <br>
 
 Cassandra Chun-Crogan (Research Assistant, Bachelor of Science, Nov 2021 - May 2022) <br>
 Research Topic: Graceful Shutdown/Recovery for Persistent Memory-Backed Caching <br>
-<span style="color:crimson"> First Job: Software Engineer, Google Sydney </span>
+<span style="color:dodgerblue"> First Job: Software Engineer, Google Sydney </span>
 
 Aditya Chilukuri (Honours Thesis, FDD Eng. & Adv. Comp., 2021 - 2022) <br>
 {% comment %} Research Topic: Scalable Storage for Decompressed Indices in Managed Search Engines <br> {% endcomment %}
 Thesis Topic: Fast and Scalable Text Search using Non-Volatile Main Memory
-<span style="color:crimson"> First Job: Software Developer, Australian Government </span>
+<span style="color:dodgerblue"> First Job: Software Developer, Australian Government </span>
 
 Angus Atkinson (Summer Scholar, Bachelor of Advanced Computing) <br>
 Research Topic: Scalable Real-Time Search over Hybrid Memories <br>
