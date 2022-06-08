@@ -94,9 +94,6 @@ Research Topic: Terabyte-Scale Managed Heaps for Big Data Analytics <br>
 [Sumesh Kumar](https://saeedlab.cis.fiu.edu/staff-members/sumesh-kumar/) (Ph.D. co-advisor with [Fahad Saeed](https://prof-s.github.io/), Florida International University) <br>
 Research Topic: Scalable systems for database search of large proteomics datasets <br>
 
-Aditya Chilukuri (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
-Research Topic: Scalable Storage for Decompressed Indices in Managed Search Engines <br>
-
 Harris Loi (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
 Research Topic: Persistent Memory-Backed Cache Shutdown/Recovery <br>
 
@@ -111,6 +108,10 @@ Research Topic: Persistent, In-Memory Text Inversion <br>
 Cassandra Chun-Crogan (Research Assistant, Bachelor of Science, Nov 2021 - May 2022) <br>
 Research Topic: Graceful Shutdown/Recovery for Persistent Memory-Backed Caching <br>
 <span style="color:crimson"> First Job: Software Engineer, Google Sydney </span>
+
+Aditya Chilukuri (Honours Thesis, FDD Eng. & Adv. Comp., 2021 - 2022) <br>
+Research Topic: Scalable Storage for Decompressed Indices in Managed Search Engines <br>
+<span style="color:crimson"> First Job: Software Developer, Australian Government </span>
 
 Angus Atkinson (Summer Scholar, Bachelor of Advanced Computing) <br>
 Research Topic: Scalable Real-Time Search over Hybrid Memories <br>
