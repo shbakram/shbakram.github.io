@@ -41,10 +41,11 @@ and programming language conferences.
 
 ### Current Research
 
-My current emphasis is on the evaluation and optimization of the emerging
-memory and storage hierarchy.  I investigate cooperative hardware/software
+My current research centers on the evaluation and optimization of the emerging
+memory and storage hierarchy.  My special focus is on memory capacity expansion for native and managed workloads.
+I investigate cooperative hardware/software
 approaches to optimize the memory/storage hierarchy. On the hardware side, our
-focus is on non-volatile memory, processing-in-memory, and computational
+focus is on emerging non-volatile memory, processing-in-memory, and computational
 storage devices.  On the application software side, we target graph and machine
 learning analytics, real-time search, and bioinformatics.
 
