@@ -5,7 +5,7 @@ title: Shoaib Akram
 
 {% comment %} [![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages) {% endcomment %}
 
-![proc]({% link assets/citations.jpg %}){: style="width:17%; float:right; margin-right: 0em;"}
+![proc]({% link assets/office.jpg %}){: style="width:20%; float:right; margin-right: 0em;"}
 
 I am an assistant professor at the Australian National University, Canberra, in
 the School of Computing. I obtained my Ph.D. degree in Computer Science and
