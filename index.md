@@ -5,40 +5,26 @@ title: Shoaib Akram
 
 {% comment %} [![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages) {% endcomment %}
 
-![proc]({% link assets/office.jpg %}){: style="width:21%; float:right; margin-right: 0em;"}
+![proc]({% link assets/citations.jpg %}){: style="width:17%; float:right; margin-right: 0em;"}
 
 I am an assistant professor at the Australian National University, Canberra, in
 the School of Computing. I obtained my Ph.D. degree in Computer Science and
 Engineering from Ghent University (Belgium) in 2019.  My doctoral advisor was
 [Lieven Eeckhout](https://users.elis.ugent.be/~leeckhou/). I also hold an M.S. in
 Electrical and Computer Engineering from the University of Illinois at
-Urbana-Champaign.
+Urbana-Champaign. 
 
-### Research 
-
-I am interested in computer systems in general, and performance analysis,
-memory and storage systems in particular. My research approach intersects the
-boundary between the hardware, OS, and language runtime.
-
-My current research centers on the evaluation and optimization of the emerging
-memory and storage hierarchy.  My special focus is on memory capacity expansion
-for native and managed workloads.  I investigate cooperative hardware/software
-approaches to optimize the memory/storage hierarchy. On the hardware side, our
-focus is on emerging non-volatile memory, processing-in-memory, and
-computational storage devices.  On the application software side, we target
-graph and machine learning analytics, real-time search, and bioinformatics.
-
+I am interested in computer systems in general and memory and storage systems
+in particular. My research approach intersects the boundary between the
+hardware, OS, and language runtime.
 
 I lead the <span style="color:Black">**V**</span>ertically <span style="color:Black">**I**</span>ntegrated <span style="color:Black">**C**</span>omputer <span style="color:Black">**S**</span>ystems (<span style="color:Black">**VICS**</span>) research group.
-
-[Google Scholar](https://scholar.google.com/citations?user=vwB9Q54AAAAJ&hl=en)
-
-### Service
 
 I serve on the reviewing committees of top-tier computer architecture, systems,
 and programming language conferences.
 
 [Curriculum vitae]({% link assets/CV.pdf %}) <br>
+[Google Scholar](https://scholar.google.com/citations?user=vwB9Q54AAAAJ&hl=en)
 
 ### Recent News 
 
@@ -55,6 +41,13 @@ and programming language conferences.
 
 ### Current Research
 
+My current research centers on the evaluation and optimization of the emerging
+memory and storage hierarchy.  My special focus is on memory capacity expansion for native and managed workloads.
+I investigate cooperative hardware/software
+approaches to optimize the memory/storage hierarchy. On the hardware side, our
+focus is on emerging non-volatile memory, processing-in-memory, and computational
+storage devices.  On the application software side, we target graph and machine
+learning analytics, real-time search, and bioinformatics.
 
 ### Research Infrastructure
 
