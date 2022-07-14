@@ -101,8 +101,11 @@ Research Topic: Persistent Memory-Backed Cache Shutdown/Recovery <br>
 Jackson Kilrain-Mottram (Honours Thesis Advisor, Bachelor of Software Engineering) <br>
 Research Topic: Efficient DRAM Caching for Real-Time Search <br>
 
-Anson Thai (Project Student, Bachelor of Advanced Computing) <br>
-Research Topic: Persistent, In-Memory Text Inversion <br> 
+Junming Zhao (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
+Research Topic: Scaling Latency Critical Services over Hybrid Memories <br>
+
+Angus Atkinson (Project Student, Bachelor of Advanced Computing, 2022) <br>
+Research Topic: Scalable Real-Time Search over Hybrid Memories <br>
 
 ### VICS Alumni
 
@@ -114,18 +117,22 @@ Aditya Chilukuri (Honours Thesis, FDD Eng. & Adv. Comp., 2021 - 2022) <br>
 Thesis Topic: Fast and Scalable Text Search using Non-Volatile Main Memory <br>
 <span style="color:dodgerblue"> First Job: Software Developer, Australian Government </span>
 
-Angus Atkinson (Summer Scholar, Bachelor of Advanced Computing) <br>
+Angus Atkinson (Summer Scholar, Bachelor of Advanced Computing, 2022) <br>
 Research Topic: Scalable Real-Time Search over Hybrid Memories <br>
+
+Anson Thai (Project Student, Bachelor of Advanced Computing, 2021, 2022) <br>
+Research Topic: Persistent, In-Memory Text Inversion <br> 
 
 ## Teaching
 
-I teach the following courses at ANU. The computer
+I teach three courses at ANU (all designed from scratch). The computer
 microarchitecture course is an advanced (graduate level) course. COMP2310 is
-ANU's systems programming course. <br>
+ANU's systems programming course. ENGN2219 is an introductory computer systems
+course for ANU's engineering students. <br>
 
 - [Computer Systems and Organization (ENGN2219)](https://cs.anu.edu.au/courses/engn2219/) (Semester 1, 2022) 
 - [Computer Microarchitecture (COMP3710)](https://cs.anu.edu.au/courses/comp3710-uarch/) (Semester 2, 2022)
-- Systems, Networks, and Concurrency (COMP2310) (Semester 2, 2022)
+- [Systems, Networks, and Concurrency (COMP2310)](https://comp.anu.edu.au/courses/comp2310/) (Semester 2, 2022)
 
 ### Professional Activities (Recent)
 
