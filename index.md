@@ -115,6 +115,7 @@ Research Topic: Graceful Shutdown/Recovery for Persistent Memory-Backed Caching 
 
 Aditya Chilukuri (Honours Thesis, FDD Eng. & Adv. Comp., 2021 - 2022) <br>
 Thesis Topic: Fast and Scalable Text Search using Non-Volatile Main Memory <br>
+[<span style="color:DarkBlue"> PDF version of thesis</span>]({% link assets/papers/honors-thesis-adi.pdf %}) <br>
 <span style="color:dodgerblue"> First Job: Software Developer, Australian Government </span>
 
 Angus Atkinson (Summer Scholar, Bachelor of Advanced Computing, 2022) <br>
