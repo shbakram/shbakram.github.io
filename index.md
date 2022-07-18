@@ -132,8 +132,8 @@ microarchitecture course is an advanced (graduate level) course. COMP2310 is
 ANU's systems programming course. ENGN2219 is an introductory computer systems
 course for ANU's engineering students. <br>
 
-- [Computer Systems and Organization (ENGN2219)](https://cs.anu.edu.au/courses/engn2219/) (Semester 1, 2022) 
-- [Computer Microarchitecture (COMP3710)](https://cs.anu.edu.au/courses/comp3710-uarch/) (Semester 2, 2022)
+- [Computer Systems and Organization (ENGN2219)](https://cs.anu.edu.au/courses/engn2219/) (Semester 1, 2021, 2022) 
+- [Computer Microarchitecture (COMP3710)](https://cs.anu.edu.au/courses/comp3710-uarch/) (Semester 2, 2021, 2022)
 - [Systems, Networks, and Concurrency (COMP2310)](https://comp.anu.edu.au/courses/comp2310/) (Semester 2, 2022)
 
 ### Professional Activities (Recent)
