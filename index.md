@@ -123,6 +123,7 @@ Research Topic: Scalable Real-Time Search over Hybrid Memories <br>
 
 Anson Thai (Project Student, Bachelor of Advanced Computing, 2021, 2022) <br>
 Research Topic: Persistent, In-Memory Text Inversion <br> 
+[<span style="color:DarkBlue"> PDF version of (most) recent project report</span>]({% link assets/papers/comp3770-2022-S1-VSB.pdf %}) <br>
 
 ## Teaching
 
