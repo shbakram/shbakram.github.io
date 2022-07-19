@@ -24,7 +24,8 @@ I serve on the reviewing committees of top-tier computer architecture, systems,
 and programming language conferences.
 
 [Curriculum vitae]({% link assets/CV.pdf %}) <br>
-[Google Scholar](https://scholar.google.com/citations?user=vwB9Q54AAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=vwB9Q54AAAAJ&hl=en) <br>
+[My PhD Dissertation]({% link assets/papers/phd-thesis.pdf %})
 
 ### Recent News 
 
