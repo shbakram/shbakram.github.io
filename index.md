@@ -29,6 +29,9 @@ and programming language conferences.
 
 ### Recent News 
 
+[<span style="color:FireBrick"><b>ASPLOS 2023</b></span>] [HugeHeap](https://github.com/jackkolokasis/teraheap) paper will appear at ASPLOS 2023
+
+[<span style="color:FireBrick"><b>HiCOMB 2023</b></span>] Serving on the HiCOMB PC 
 
 [<span style="color:FireBrick"><b>ASPLOS 2023</b></span>] Serving on the ASPLOS PC (three submission rounds) 
 
@@ -139,6 +142,9 @@ course for ANU's engineering students. <br>
 
 ### Professional Activities (Recent)
 
+* IEEE International Workshop on High Performance Computational Biology (<span style="color:black">**HiCOMB**</span>) <br>
+<span style="color:crimson"> Member, Program Committee: 2023 </span> <br> 
+
 * Architectural Support for Programming Languages and Operating Systems (<span style="color:black">**ASPLOS**</span>) <br>
 <span style="color:crimson"> Member, Program Committee: 2023 </span> <br> 
 <span style="color:dodgerblue"> Member, External Review Committee: 2020 </span> <br>
@@ -158,19 +164,19 @@ course for ANU's engineering students. <br>
 <span style="color:dodgerblue"> Member, External Review Committee: 2020, 2021, 2022 </span>
 
 * International Symposium on Memory Management (<span style="color:black">**ISMM**</span>) <br>
-<span style="color:crimson"> Member, Program Committee: 2019, 2021, 2022 </span>
+<span style="color:crimson"> Member, Program Committee: 2019, 2021, 2022, 2023 </span>
 
 
 * Object-Oriented Programming, Systems, Languages & Applications (<span style="color:black">**OOPSLA**</span>) <br>
 <span style="color:dodgerblue"> Member, External Review Committee: 2020 </span>
 
-### Work in Progress
-
-Freeing Compute Caches from Serialization and Garbage Collection in Managed Big Data Analytics 
-[<span style="color:DarkBlue"> PDF pre-print of paper </span>](https://arxiv.org/pdf/2111.10589.pdf) <br>
-<b> Authors: </b> Iacovos G. Kolokasis, Giannos Evdorou, Anastasios Papagiannis, Foivos Zakkak, Christos Kozanitis, <b> Shoaib Akram </b>, Polyvios Pratikakis, Angelos Bilas
-
 ### Publications
+
+[<span style="color:FireBrick"><b>ASPLOS 2023</b></span>] Iacovos G. Kolokasis,
+Giannos Evdorou, Shoaib Akram, Anastasios Papagiannis, Foivos Zakkak, Christos
+Kozanitis, Polyvios Pratikakis, and Angelos Bilas, HugeHeap: Reducing Memory
+Pressure in Managed Big Data Frameworks, Architectural Support for Programming
+Languages and Operating Systems (ASPLOS), 2023. 
 
 [<span style="color:FireBrick"><b>ISPASS 2022</b></span>]  W. Liu, W. Heirman, S.
 Eyerman, S. Akram, and L. Eeckhout, Scale-Model Architectural Simulation, IEEE International Symposium
