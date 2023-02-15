@@ -177,7 +177,7 @@ course for ANU's engineering students. <br>
 
 [<span style="color:FireBrick"><b>ASPLOS 2023</b></span>] Iacovos G. Kolokasis,
 Giannos Evdorou, Shoaib Akram, Anastasios Papagiannis, Foivos Zakkak, Christos
-Kozanitis, Polyvios Pratikakis, and Angelos Bilas, HugeHeap: Reducing Memory
+Kozanitis, Polyvios Pratikakis, and Angelos Bilas, TeraHeap: Reducing Memory
 Pressure in Managed Big Data Frameworks, Architectural Support for Programming
 Languages and Operating Systems (ASPLOS), 2023. <br>[<span style="color:DarkBlue"> PDF
 pre-print </span>]({% link assets/papers/asplos23-teraheap.pdf %}) <br>
