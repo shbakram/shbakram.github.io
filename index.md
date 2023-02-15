@@ -99,30 +99,33 @@ Research Topic: Terabyte-Scale Managed Heaps for Big Data Analytics <br>
 [Sumesh Kumar](https://saeedlab.cis.fiu.edu/staff-members/sumesh-kumar/) (Ph.D. co-advisor with [Fahad Saeed](https://prof-s.github.io/), Florida International University) <br>
 Research Topic: Scalable systems for database search of large proteomics datasets <br>
 
-Harris Loi (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
-Research Topic: Persistent Memory-Backed Cache Shutdown/Recovery <br>
-
-Jackson Kilrain-Mottram (Honours Thesis Advisor, Bachelor of Software Engineering) <br>
-Research Topic: Efficient DRAM Caching for Real-Time Search <br>
-
 Junming Zhao (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
 Research Topic: Scaling Latency Critical Services over Hybrid Memories <br>
 
-Angus Atkinson (Project Student, Bachelor of Advanced Computing, 2022) <br>
-Research Topic: Scalable Real-Time Search over Hybrid Memories <br>
 
 ### VICS Alumni
+
+Harris Loi (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
+Graduation: Second semester, 2022 <br>
+Research Topic: Persistent Memory-Backed Cache Shutdown/Recovery <br>
+
+Jackson Kilrain-Mottram (Honours Thesis Advisor, Bachelor of Software Engineering) <br>
+Graduation: Second semester, 2022 <br>
+Research Topic: Efficient DRAM Caching for Real-Time Search <br>
+[<span style="color:DarkBlue"> PDF version of thesis</span>]({% link assets/papers/honors-thesis-kilrain.pdf %}) <br>
+<span style="color:dodgerblue"> First Job: Instaclustr, Canberra </span>
 
 Cassandra Chun-Crogan (Research Assistant, Bachelor of Science, Nov 2021 - May 2022) <br>
 Research Topic: Graceful Shutdown/Recovery for Persistent Memory-Backed Caching <br>
 <span style="color:dodgerblue"> First Job: Software Engineer, Google Sydney </span>
 
-Aditya Chilukuri (Honours Thesis, FDD Eng. & Adv. Comp., 2021 - 2022) <br>
+Aditya Chilukuri (Honours Thesis, FDD Eng. & Adv. Comp.) <br>
+Graduation: First semester, 2022 <br>
 Thesis Topic: Fast and Scalable Text Search using Non-Volatile Main Memory <br>
 [<span style="color:DarkBlue"> PDF version of thesis</span>]({% link assets/papers/honors-thesis-adi.pdf %}) <br>
 <span style="color:dodgerblue"> First Job: Software Developer, Australian Government </span>
 
-Angus Atkinson (Summer Scholar, Bachelor of Advanced Computing, 2022) <br>
+Angus Atkinson (Project Student, Bachelor of Advanced Computing, 2022) <br>
 Research Topic: Scalable Real-Time Search over Hybrid Memories <br>
 
 Anson Thai (Project Student, Bachelor of Advanced Computing, 2021, 2022) <br>
