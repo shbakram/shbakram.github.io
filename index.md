@@ -29,7 +29,7 @@ and programming language conferences.
 
 ### Recent News 
 
-[<span style="color:FireBrick"><b>ASPLOS 2023</b></span>] [HugeHeap](https://github.com/jackkolokasis/teraheap) paper will appear at ASPLOS 2023
+[<span style="color:FireBrick"><b>ASPLOS 2023</b></span>] [TeraHeap](https://github.com/jackkolokasis/teraheap) paper will appear at ASPLOS 2023
 
 [<span style="color:FireBrick"><b>HiCOMB 2023</b></span>] Serving on the HiCOMB PC 
 
