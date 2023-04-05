@@ -179,8 +179,9 @@ course for ANU's engineering students. <br>
 Giannos Evdorou, Shoaib Akram, Anastasios Papagiannis, Foivos Zakkak, Christos
 Kozanitis, Polyvios Pratikakis, and Angelos Bilas, TeraHeap: Reducing Memory
 Pressure in Managed Big Data Frameworks, Architectural Support for Programming
-Languages and Operating Systems (ASPLOS), 2023. <br>[<span style="color:DarkBlue"> PDF
-pre-print </span>]({% link assets/papers/asplos23-teraheap.pdf %}) <br>
+Languages and Operating Systems (ASPLOS), 2023. <br>[<span style="color:DarkBlue"> PDF version of paper </span>]({% link assets/papers/asplos23-teraheap.pdf %}) <br>
+[<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/teraheap-asplos23-kolokasis.pdf %})
+
 
 [<span style="color:FireBrick"><b>ISPASS 2022</b></span>]  W. Liu, W. Heirman, S.
 Eyerman, S. Akram, and L. Eeckhout, Scale-Model Architectural Simulation, IEEE International Symposium
