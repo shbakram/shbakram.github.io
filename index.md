@@ -29,6 +29,8 @@ and programming language conferences.
 
 ### Recent News 
 
+[<span style="color:FireBrick"><b>MICRO 2023</b></span>] Serving on the MICRO PC 
+
 [<span style="color:FireBrick"><b>ASPLOS 2023</b></span>] [TeraHeap](https://github.com/jackkolokasis/teraheap) paper will appear at ASPLOS 2023
 
 [<span style="color:FireBrick"><b>HiCOMB 2023</b></span>] Serving on the HiCOMB PC 
@@ -157,7 +159,7 @@ course for ANU's engineering students. <br>
 <span style="color:dodgerblue"> Member, External Review Committee: 2021 </span>
 
 * International Symposium on Microarchitecture (<span style="color:black">**MICRO**</span>) <br>
-<span style="color:crimson"> Member, Program Committee: 2022 </span> <br>
+<span style="color:crimson"> Member, Program Committee: 2022, 2023 </span> <br>
 <span style="color:dodgerblue"> Member, External Review Committee: 2021 </span>
 
 * International Symposium on Performance Analysis of Systems and Software (<span style="color:black">**ISPASS**</span>) <br>
