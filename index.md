@@ -136,14 +136,15 @@ Research Topic: Optimizing Hash Table-Based Inverted Indices for Persistent Memo
 
 ## Teaching
 
-I teach three courses at ANU (all designed from scratch). The computer
+I teach courses related to computer systems, (micro)architetcure, and systems programming. I redesigned all courses from scratch. The computer
 microarchitecture course is an advanced (graduate level) course. COMP2310 is
-ANU's systems programming course. ENGN2219 is an introductory computer systems
-course for ANU's engineering students. <br>
+ANU's systems programming course. COMP2300/ENGN2219 are our introductory computer systems
+courses. <br>
 
-- [Computer Systems and Organization (ENGN2219)](https://cs.anu.edu.au/courses/engn2219/) (Semester 1, 2021, 2022) 
+- [Computer Organization and Program Execution (COMP2300)](https://cs.anu.edu.au/courses/comp2300/) (Semester 1, 2023) 
+- [Computer Systems and Organization (ENGN2219)](https://cs.anu.edu.au/courses/engn2219/) (Semester 1, 2021, 2022, 2023) 
 - [Computer Microarchitecture (COMP3710)](https://cs.anu.edu.au/courses/comp3710-uarch/) (Semester 2, 2021, 2022)
-- [Systems, Networks, and Concurrency (COMP2310)](https://comp.anu.edu.au/courses/comp2310/) (Semester 2, 2022)
+- [Systems, Networks, and Concurrency (COMP2310)](https://comp.anu.edu.au/courses/comp2310/) (Semester 2, 2022, 2023)
 
 ### Professional Activities (Recent)
 
