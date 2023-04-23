@@ -29,6 +29,8 @@ and programming language conferences.
 
 ### Recent News 
 
+[<span style="color:FireBrick"><b>ISMM 2023</b></span>] My undergraduate honours student, Adi, will present an interesting paper at ISMM in June!
+
 [<span style="color:FireBrick"><b>MICRO 2023</b></span>] Serving on the MICRO PC 
 
 [<span style="color:FireBrick"><b>ASPLOS 2023</b></span>] [TeraHeap](https://github.com/jackkolokasis/teraheap) paper will appear at ASPLOS 2023
@@ -177,6 +179,10 @@ courses. <br>
 <span style="color:dodgerblue"> Member, External Review Committee: 2020 </span>
 
 ### Publications
+
+[<span style="color:FireBrick"><b>ISMM 2023</b></span>] Aditya Chilukuri and Shoaib Akram, Analyzing and Improving 
+the Scalability of In-Memory Indices for Managed Search Engines, ACM SIGPLAN International
+Symposium on Memory Management (ISMM), 2023. <br>
 
 [<span style="color:FireBrick"><b>ASPLOS 2023</b></span>] Iacovos G. Kolokasis,
 Giannos Evdorou, Shoaib Akram, Anastasios Papagiannis, Foivos Zakkak, Christos
