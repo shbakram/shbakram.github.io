@@ -29,7 +29,7 @@ and programming language conferences.
 
 ### Recent News 
 
-[<span style="color:FireBrick"><b>ISMM 2023</b></span>] My undergraduate honours student, Adi, will present an interesting paper at ISMM in June!
+[<span style="color:FireBrick"><b>ISMM 2023</b></span>] Paper accepted at ISMM (Aditya's undergraduate honours thesis!)
 
 [<span style="color:FireBrick"><b>MICRO 2023</b></span>] Serving on the MICRO PC 
 
