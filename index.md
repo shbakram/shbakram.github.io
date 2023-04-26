@@ -106,6 +106,19 @@ Research Topic: Scalable systems for database search of large proteomics dataset
 Junming Zhao (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
 Research Topic: Scaling Latency Critical Services over Hybrid Memories <br>
 
+Thomas Charles (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
+Research Topic: Practical and Secure Last-Level Caches <br>
+
+Anson Thai (Project Student, Bachelor of Advanced Computing) <br>
+Research Topic: Index Compression Tradeoffs for Emerging Storage <br> 
+
+Peter Oslington (Project Student, Bachelor of Philosophy (Honours) - Science) <br>
+Research Topic: Hash Table Optimization <br> 
+
+Chethin Weerakkody (Project Student, FDD Eng. & Adv. Comp.) <br>
+Research Topic: High-Performance Caching for Real-Time Search <br>
+
+
 
 ### VICS Alumni
 
