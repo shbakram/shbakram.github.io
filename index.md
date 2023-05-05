@@ -9,7 +9,7 @@ title: Shoaib Akram
 
 I am an assistant professor at the Australian National University, Canberra, in
 the School of Computing. I obtained my Ph.D. degree in Computer Science and
-Engineering from Ghent University (Belgium) in 2019.  My doctoral advisor was
+Engineering from Ghent University (Belgium).  My doctoral advisor was
 [Lieven Eeckhout](https://users.elis.ugent.be/~leeckhou/). I also hold an M.S. in
 Electrical and Computer Engineering from the University of Illinois at
 Urbana-Champaign. 
