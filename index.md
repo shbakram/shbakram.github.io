@@ -161,6 +161,17 @@ courses. <br>
 - [Computer Microarchitecture (COMP3710)](https://cs.anu.edu.au/courses/comp3710-uarch/) (Semester 2, 2021, 2022)
 - [Systems, Networks, and Concurrency (COMP2310)](https://comp.anu.edu.au/courses/comp2310/) (Semester 2, 2022, 2023)
 
+### Guest Lectures at ANU 
+
+<span style="color:FireBrick"><b>Hardware Speculation: The Key to High Performance in Modern Processors</b></span> <br>
+COMP3710, Compilers (Semester 1, 2023) <br>
+[<span style="color:DarkBlue"> PDF slides </span>]({% link assets/slides/speculation.pdf %}) <br>
+
+
+<span style="color:FireBrick"><b>A Dive into Computer Systems Research</b></span> <br>
+COMP4450, Advanced Computing Research Methods (Semester 1, 2023) <br>
+[<span style="color:DarkBlue"> PDF slides </span>]({% link assets/slides/systems-research.pdf %}) <br>
+
 ### Professional Activities (Recent)
 
 * IEEE International Workshop on High Performance Computational Biology (<span style="color:black">**HiCOMB**</span>) <br>
