@@ -103,9 +103,6 @@ Research Topic: Terabyte-Scale Managed Heaps for Big Data Analytics <br>
 [Sumesh Kumar](https://saeedlab.cis.fiu.edu/staff-members/sumesh-kumar/) (Ph.D. co-advisor with [Fahad Saeed](https://prof-s.github.io/), Florida International University) <br>
 Research Topic: Scalable systems for database search of large proteomics datasets <br>
 
-Junming Zhao (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
-Research Topic: Scaling Latency Critical Services over Hybrid Memories <br>
-
 Thomas Charles (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
 Research Topic: Practical and Secure Last-Level Caches <br>
 
@@ -121,6 +118,10 @@ Research Topic: High-Performance Caching for Real-Time Search <br>
 
 
 ### VICS Alumni
+
+Junming Zhao (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
+Graduation: First semester, 2023 <br>
+Thesis Topic: HyperCache: A High Capacity Cache for Small Objects over Hybrid Memory <br>
 
 Harris Loi (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
 Graduation: Second semester, 2022 <br>
