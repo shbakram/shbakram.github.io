@@ -122,6 +122,7 @@ Research Topic: High-Performance Caching for Real-Time Search <br>
 Junming Zhao (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
 Graduation: First semester, 2023 <br>
 Thesis Topic: HyperCache: A High Capacity Cache for Small Objects over Hybrid Memory <br>
+<span style="color:FireBrick"> Awarded the University Medal for Academic Excellence </span> <br>
 
 Harris Loi (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
 Graduation: Second semester, 2022 <br>
