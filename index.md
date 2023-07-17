@@ -209,7 +209,8 @@ COMP4450, Advanced Computing Research Methods (Semester 1, 2023) <br>
 [<span style="color:FireBrick"><b>ISMM 2023</b></span>] Aditya Chilukuri and Shoaib Akram, Analyzing and Improving 
 the Scalability of In-Memory Indices for Managed Search Engines, ACM SIGPLAN International
 Symposium on Memory Management (ISMM), 2023. <br>
-[<span style="color:DarkBlue"> PDF pre-print </span>]({% link assets/papers/ismm2023-lucene.pdf %})
+[<span style="color:DarkBlue"> PDF pre-print </span>]({% link assets/papers/ismm2023-lucene.pdf %}) <br>
+[<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/ismm2023-search-adi.pdf  %})
 
 
 [<span style="color:FireBrick"><b>ASPLOS 2023</b></span>] Iacovos G. Kolokasis,
