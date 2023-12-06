@@ -29,13 +29,15 @@ and programming language conferences.
 
 ### Recent News 
 
+[<span style="color:FireBrick"><b>ISCA 2024</b></span>] Serving on the ISCA PC  
+
+[<span style="color:FireBrick"><b>ISPASS 2024</b></span>] Serving on the ISPASS PC  
+
 [<span style="color:FireBrick"><b>ISMM 2023</b></span>] Paper accepted at ISMM (Aditya's undergraduate honours thesis!)
 
 [<span style="color:FireBrick"><b>MICRO 2023</b></span>] Serving on the MICRO PC 
 
 [<span style="color:FireBrick"><b>ASPLOS 2023</b></span>] [TeraHeap](https://github.com/jackkolokasis/teraheap) paper will appear at ASPLOS 2023
-
-[<span style="color:FireBrick"><b>HiCOMB 2023</b></span>] Serving on the HiCOMB PC 
 
 [<span style="color:FireBrick"><b>ASPLOS 2023</b></span>] Serving on the ASPLOS PC (three submission rounds) 
 
@@ -44,8 +46,6 @@ and programming language conferences.
 [<span style="color:FireBrick"><b>MICRO 2022</b></span>] Serving on the MICRO PC 
 
 [<span style="color:FireBrick"><b>ISPASS 2022</b></span>] Paper on ML for architectural simulation accepted at ISPASS 2022  
-
-[<span style="color:FireBrick"><b>ISMM 2022</b></span>] Serving on the ISMM PC  
 
 ### Current Research
 
@@ -93,6 +93,9 @@ Lucene, OpenJDK, and the Linux OS.
 
 ### Students
 
+Jackson Kilrain-Mottram (Ph.D. student, ANU Central Scholarship, 2024) <br>
+Research Topic: Managed Data-Intensive Frameworks <br> 
+
 [Iacovos Kolokasis](https://www.csd.uoc.gr/~kolokasis/) (Ph.D. co-advisor with [Angelos Bilas](http://users.ics.forth.gr/~bilas/), University of Crete) <br>
 Research Topic: Terabyte-Scale Managed Heaps for Big Data Analytics <br>
 [<span style="color:FireBrick">Data+AI Summit 2021</span>] [Presentation](https://www.youtube.com/watch?v=O1PzEmUJ-X0&ab_channel=Databricks)
@@ -100,13 +103,7 @@ Research Topic: Terabyte-Scale Managed Heaps for Big Data Analytics <br>
 [<span style="color:FireBrick">PhD Workshop at Microsoft Research Cambridge</span>] [Poster]({% link assets/microsoft-poster.pdf %}) <br>
 [<span style="color:FireBrick">Meta PhD Fellow, 2022 </span>] [Bio](https://research.facebook.com/fellows/kolokasis-iacovos-g/) <br>
 
-[Sumesh Kumar](https://saeedlab.cis.fiu.edu/staff-members/sumesh-kumar/) (Ph.D. co-advisor with [Fahad Saeed](https://prof-s.github.io/), Florida International University) <br>
-Research Topic: Scalable systems for database search of large proteomics datasets <br>
-
-Thomas Charles (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
-Research Topic: Practical and Secure Last-Level Caches <br>
-
-Anson Thai (Project Student, Bachelor of Advanced Computing) <br>
+Anson Thai (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
 Research Topic: Index Compression Tradeoffs for Emerging Storage <br> 
 
 Peter Oslington (Project Student, Bachelor of Philosophy (Honours) - Science) <br>
@@ -123,6 +120,7 @@ Junming Zhao (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
 Graduation: First semester, 2023 <br>
 Thesis Topic: HyperCache: A High Capacity Cache for Small Objects over Hybrid Memory <br>
 <span style="color:FireBrick"> Awarded the University Medal for Academic Excellence </span> <br>
+<span style="color:dodgerblue"> First Job: Trustworthy Systems, UNSW </span>
 
 Harris Loi (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
 Graduation: Second semester, 2022 <br>
@@ -196,6 +194,7 @@ COMP4450, Advanced Computing Research Methods (Semester 1, 2023) <br>
 
 * International Symposium on Computer Architecture (<span style="color:black">**ISCA**</span>) <br>
 <span style="color:dodgerblue"> Member, External Review Committee: 2020, 2021, 2022 </span>
+<span style="color:crimson"> Member, Program Committee: 2024 </span>
 
 * International Symposium on Memory Management (<span style="color:black">**ISMM**</span>) <br>
 <span style="color:crimson"> Member, Program Committee: 2019, 2021, 2022, 2023 </span>
@@ -205,6 +204,9 @@ COMP4450, Advanced Computing Research Methods (Semester 1, 2023) <br>
 <span style="color:dodgerblue"> Member, External Review Committee: 2020 </span>
 
 ### Publications
+
+[<span style="color:FireBrick"><b>SOSP 2023 (Poster)</b></span>] Iacovos G. Kolokasis, Shoaib Akram, Foivos Zakkak, Polyvios Pratikakis, and Angelos Bilas, DynaHeap: Dynamic Division of DRAM between Heterogeneous Managed Heaps, Symposium on Operating System Principles (SOSP), 2023. <br>
+[<span style="color:DarkBlue"> PDF pre-print </span>]({% link assets/papers/sosp2023-dynaheap.pdf %}) <br>
 
 [<span style="color:FireBrick"><b>ISMM 2023</b></span>] Aditya Chilukuri and Shoaib Akram, Analyzing and Improving 
 the Scalability of In-Memory Indices for Managed Search Engines, ACM SIGPLAN International
