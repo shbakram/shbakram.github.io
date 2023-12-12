@@ -93,10 +93,10 @@ Lucene, OpenJDK, and the Linux OS.
 
 ### Students
 
-Jackson Kilrain-Mottram (Ph.D. student, ANU Central Scholarship, 2024) <br>
-Research Topic: Managed Data-Intensive Frameworks <br> 
+Jackson Kilrain-Mottram (Ph.D. student, 2024 - ) <br>
+Research Topic: Storage Engines for Managed Data-Intensive Frameworks <br> 
 
-[Iacovos Kolokasis](https://www.csd.uoc.gr/~kolokasis/) (Ph.D. co-advisor with [Angelos Bilas](http://users.ics.forth.gr/~bilas/), University of Crete) <br>
+[Iacovos Kolokasis](https://www.csd.uoc.gr/~kolokasis/) (Ph.D. co-advisor with [Angelos Bilas](http://users.ics.forth.gr/~bilas/), University of Crete, 2020 - ) <br>
 Research Topic: Terabyte-Scale Managed Heaps for Big Data Analytics <br>
 [<span style="color:FireBrick">Data+AI Summit 2021</span>] [Presentation](https://www.youtube.com/watch?v=O1PzEmUJ-X0&ab_channel=Databricks)
 [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/kolokasis_spark_summit_final.pdf %})<br>
@@ -106,15 +106,16 @@ Research Topic: Terabyte-Scale Managed Heaps for Big Data Analytics <br>
 Anson Thai (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
 Research Topic: Index Compression Tradeoffs for Emerging Storage <br> 
 
-Peter Oslington (Project Student, Bachelor of Philosophy (Honours) - Science) <br>
-Research Topic: Hash Table Optimization <br> 
-
-Chethin Weerakkody (Project Student, FDD Eng. & Adv. Comp.) <br>
-Research Topic: High-Performance Caching for Real-Time Search <br>
-
 
 
 ### VICS Alumni
+
+Peter Oslington (Project Student, Bachelor of Philosophy (Honours) - Science, 2023) <br>
+Research Topic: Hash Table Optimization <br> 
+
+Chethin Weerakkody (Project Student, FDD Eng. & Adv. Comp., 2023) <br>
+Research Topic: High-Performance Caching for Real-Time Search <br>
+
 
 Junming Zhao (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
 Graduation: First semester, 2023 <br>
@@ -193,7 +194,7 @@ COMP4450, Advanced Computing Research Methods (Semester 1, 2023) <br>
 <span style="color:crimson"> Member, Program Committee: 2022 </span>
 
 * International Symposium on Computer Architecture (<span style="color:black">**ISCA**</span>) <br>
-<span style="color:dodgerblue"> Member, External Review Committee: 2020, 2021, 2022 </span>
+<span style="color:dodgerblue"> Member, External Review Committee: 2020, 2021, 2022 </span> <br>
 <span style="color:crimson"> Member, Program Committee: 2024 </span>
 
 * International Symposium on Memory Management (<span style="color:black">**ISMM**</span>) <br>
