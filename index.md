@@ -29,6 +29,8 @@ and programming language conferences.
 
 ### Recent News 
 
+[<span style="color:FireBrick"><b>HPCA 2024</b></span>] Serving on the HPCA PC  
+
 [<span style="color:FireBrick"><b>ISCA 2024</b></span>] Serving on the ISCA PC  
 
 [<span style="color:FireBrick"><b>ISPASS 2024</b></span>] Serving on the ISPASS PC  
@@ -157,8 +159,8 @@ microarchitecture course is an advanced (graduate level) course. COMP2310 is
 ANU's systems programming course. COMP2300 and ENGN2219 are our introductory computer systems
 courses. <br>
 
-- [Computer Organization and Program Execution (COMP2300)](https://cs.anu.edu.au/courses/comp2300/) (Semester 1, 2023) 
-- [Computer Systems and Organization (ENGN2219)](https://cs.anu.edu.au/courses/engn2219/) (Semester 1, 2021, 2022, 2023) 
+- [Computer Organization and Program Execution (COMP2300)](https://cs.anu.edu.au/courses/comp2300/) (Semester 1, 2023, 2024) 
+- [Computer Systems and Organization (ENGN2219)](https://cs.anu.edu.au/courses/engn2219/) (Semester 1, 2021, 2022, 2023, 2024) 
 - [Computer Microarchitecture (COMP3710)](https://cs.anu.edu.au/courses/comp3710-uarch/) (Semester 2, 2021, 2022)
 - [Systems, Networks, and Concurrency (COMP2310)](https://comp.anu.edu.au/courses/comp2310/) (Semester 2, 2022, 2023)
 
@@ -179,16 +181,16 @@ COMP4450, Advanced Computing Research Methods (Semester 1, 2023) <br>
 <span style="color:crimson"> Member, Program Committee: 2023 </span> <br> 
 
 * Architectural Support for Programming Languages and Operating Systems (<span style="color:black">**ASPLOS**</span>) <br>
-<span style="color:crimson"> Member, Program Committee: 2023 </span> <br> 
+<span style="color:crimson"> Member, Program Committee: 2023, 2025 </span> <br> 
 <span style="color:dodgerblue"> Member, External Review Committee: 2020 </span> <br>
 
 * International Symposium on High-Performance Computer Architecture (<span style="color:black">**HPCA**<span>) <br>
-<span style="color:crimson"> Member, Program Committee: 2023 </span> <br>
+<span style="color:crimson"> Member, Program Committee: 2023, 2025 </span> <br>
 <span style="color:dodgerblue"> Member, External Review Committee: 2021 </span>
 
 * International Symposium on Microarchitecture (<span style="color:black">**MICRO**</span>) <br>
 <span style="color:crimson"> Member, Program Committee: 2022, 2023 </span> <br>
-<span style="color:dodgerblue"> Member, External Review Committee: 2021 </span>
+<span style="color:dodgerblue"> Member, External Review Committee: 2021, 2024 </span>
 
 * International Symposium on Performance Analysis of Systems and Software (<span style="color:black">**ISPASS**</span>) <br>
 <span style="color:crimson"> Member, Program Committee: 2022 </span>
@@ -205,6 +207,13 @@ COMP4450, Advanced Computing Research Methods (Semester 1, 2023) <br>
 <span style="color:dodgerblue"> Member, External Review Committee: 2020 </span>
 
 ### Publications
+
+[<span style="color:FireBrick"><b>TACO 2024</b></span>] A. Hasnat and S. Akram, SPIRIT: Scalable and Persistent In-Memory Indices for Real-Time Search, ACM Transactions on
+Architecture and Code Optimization (TACO), 2024.  <br>
+
+[<span style="color:FireBrick"><b>TOPLAS 2024</b></span>] Iacovos G. Kolokasis,
+Giannos Evdorou, Shoaib Akram, Anastasios Papagiannis, Foivos Zakkak, Christos
+Kozanitis, Polyvios Pratikakis, and Angelos Bilas, TeraHeap: Exploiting Flash Storage for Mitigating DRAM Pressure in Managed Big Data Frameworks, ACM Transactions on Programming Languages and Systems (TOPLAS), 2024. <br>
 
 [<span style="color:FireBrick"><b>SOSP 2023 (Poster)</b></span>] Iacovos G. Kolokasis, Shoaib Akram, Foivos Zakkak, Polyvios Pratikakis, and Angelos Bilas, DynaHeap: Dynamic Division of DRAM between Heterogeneous Managed Heaps, Symposium on Operating System Principles (SOSP), 2023. <br>
 [<span style="color:DarkBlue"> PDF pre-print </span>]({% link assets/papers/sosp2023-dynaheap.pdf %}) <br>
