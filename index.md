@@ -29,6 +29,11 @@ and programming language conferences.
 
 ### Recent News 
 
+
+[<span style="color:FireBrick"><b>TACO 2024</b></span>] Adnan Hasnat (undergraduate) has a paper accepted on exploiting hybrid memory for accelerating enterprise search engines
+
+[<span style="color:FireBrick"><b>TOPLAS 2024</b></span>] Iacovos (PhD student) has a paper accepted at [TOPLAS](https://dl.acm.org/doi/10.1145/3700593)
+
 [<span style="color:FireBrick"><b>HPCA 2025</b></span>] Serving on the HPCA PC  
 
 [<span style="color:FireBrick"><b>ISCA 2024</b></span>] Serving on the ISCA PC  
