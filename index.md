@@ -29,7 +29,7 @@ and programming language conferences.
 
 ### Recent News 
 
-[<span style="color:FireBrick"><b>HPCA 2024</b></span>] Serving on the HPCA PC  
+[<span style="color:FireBrick"><b>HPCA 2025</b></span>] Serving on the HPCA PC  
 
 [<span style="color:FireBrick"><b>ISCA 2024</b></span>] Serving on the ISCA PC  
 
