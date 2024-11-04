@@ -215,18 +215,20 @@ COMP4450, Advanced Computing Research Methods (Semester 1, 2023) <br>
 
 [<span style="color:FireBrick"><b>TACO 2024</b></span>] A. Hasnat and S. Akram, SPIRIT: Scalable and Persistent In-Memory Indices for Real-Time Search, ACM Transactions on
 Architecture and Code Optimization (TACO), 2024.  <br>
+[<span style="color:DarkBlue"> PDF pre-print </span>](https://dl.acm.org/doi/10.1145/3703351) <br> 
 
 [<span style="color:FireBrick"><b>TOPLAS 2024</b></span>] Iacovos G. Kolokasis,
 Giannos Evdorou, Shoaib Akram, Anastasios Papagiannis, Foivos Zakkak, Christos
 Kozanitis, Polyvios Pratikakis, and Angelos Bilas, TeraHeap: Exploiting Flash Storage for Mitigating DRAM Pressure in Managed Big Data Frameworks, ACM Transactions on Programming Languages and Systems (TOPLAS), 2024. <br>
+[<span style="color:DarkBlue"> PDF pre-print </span>](https://dl.acm.org/doi/10.1145/3700593) <br> 
 
 [<span style="color:FireBrick"><b>SOSP 2023 (Poster)</b></span>] Iacovos G. Kolokasis, Shoaib Akram, Foivos Zakkak, Polyvios Pratikakis, and Angelos Bilas, DynaHeap: Dynamic Division of DRAM between Heterogeneous Managed Heaps, Symposium on Operating System Principles (SOSP), 2023. <br>
-[<span style="color:DarkBlue"> PDF pre-print </span>]({% link assets/papers/sosp2023-dynaheap.pdf %}) <br>
+[<span style="color:DarkBlue"> PDF </span>]({% link assets/papers/sosp2023-dynaheap.pdf %}) <br>
 
 [<span style="color:FireBrick"><b>ISMM 2023</b></span>] Aditya Chilukuri and Shoaib Akram, Analyzing and Improving 
 the Scalability of In-Memory Indices for Managed Search Engines, ACM SIGPLAN International
 Symposium on Memory Management (ISMM), 2023. <br>
-[<span style="color:DarkBlue"> PDF pre-print </span>]({% link assets/papers/ismm2023-lucene.pdf %}) <br>
+[<span style="color:DarkBlue"> PDF </span>]({% link assets/papers/ismm2023-lucene.pdf %}) <br>
 [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/ismm2023-search-adi.pdf  %})
 
 
