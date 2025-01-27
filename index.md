@@ -216,6 +216,7 @@ COMP4450, Advanced Computing Research Methods (Semester 1, 2023) <br>
 [<span style="color:FireBrick"><b>TACO 2024</b></span>] A. Hasnat and S. Akram, SPIRIT: Scalable and Persistent In-Memory Indices for Real-Time Search, ACM Transactions on
 Architecture and Code Optimization (TACO), 2024.  <br>
 [<span style="color:DarkBlue"> PDF pre-print </span>]({% link assets/papers/tacoSPIRITfinal2024.pdf %}) <br> 
+[<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/hipeac-2025-spirit.pdf  %})
 
 [<span style="color:FireBrick"><b>TOPLAS 2024</b></span>] Iacovos G. Kolokasis,
 Giannos Evdorou, Shoaib Akram, Anastasios Papagiannis, Foivos Zakkak, Christos
