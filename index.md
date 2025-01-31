@@ -192,7 +192,7 @@ COMP4450, Advanced Computing Research Methods (Semester 1, 2023) <br>
 <span style="color:crimson"> Member, Program Committee: 2023 </span> <br> 
 
 * Architectural Support for Programming Languages and Operating Systems (<span style="color:black">**ASPLOS**</span>) <br>
-<span style="color:crimson"> Member, Program Committee: 2023, 2025 </span> <br> 
+<span style="color:crimson"> Member, Program Committee: 2023, 2025, 2026 </span> <br> 
 <span style="color:dodgerblue"> Member, External Review Committee: 2020 </span> <br>
 
 * International Symposium on High-Performance Computer Architecture (<span style="color:black">**HPCA**<span>) <br>
@@ -211,7 +211,7 @@ COMP4450, Advanced Computing Research Methods (Semester 1, 2023) <br>
 <span style="color:crimson"> Member, Program Committee: 2024 </span>
 
 * International Symposium on Memory Management (<span style="color:black">**ISMM**</span>) <br>
-<span style="color:crimson"> Member, Program Committee: 2019, 2021, 2022, 2023 </span>
+<span style="color:crimson"> Member, Program Committee: 2019, 2021, 2022, 2023, 2024 </span>
 
 
 * Object-Oriented Programming, Systems, Languages & Applications (<span style="color:black">**OOPSLA**</span>) <br>
