@@ -119,7 +119,7 @@ Anson Thai (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
 Graduation: First semester, 2024 <br>
 Research Topic: APCache: An Adaptive Postings Cache in Heterogeneous Memory for Storage-Resident Search Indices <br> 
 <span style="color:FireBrick"> Awarded the University Medal for Academic Excellence </span> <br>
-<span style="color:dodgerblue"> First Job: Amazon, Sydney </span>
+<span style="color:dodgerblue"> First Job: Amazon, Sydney </span> <br>
 [<span style="color:DarkBlue"> PDF version of thesis</span>]({% link assets/papers/honors-thesis-anson.pdf %}) <br>
 
 Peter Oslington (Project Student, Bachelor of Philosophy (Honours) - Science, 2023) <br>
@@ -133,7 +133,7 @@ Junming Zhao (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
 Graduation: First semester, 2023 <br>
 Thesis Topic: HyperCache: A High Capacity Cache for Small Objects over Hybrid Memory <br>
 <span style="color:FireBrick"> Awarded the University Medal for Academic Excellence </span> <br>
-<span style="color:dodgerblue"> First Job: Trustworthy Systems, UNSW </span>
+<span style="color:dodgerblue"> First Job: Trustworthy Systems, UNSW </span> <br>
 [<span style="color:DarkBlue"> PDF version of thesis</span>]({% link assets/papers/honors-thesis-junming.pdf %}) <br>
 
 Harris Loi (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
