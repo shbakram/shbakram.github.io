@@ -200,7 +200,7 @@ COMP4450, Advanced Computing Research Methods (Semester 1, 2023) <br>
 <span style="color:dodgerblue"> Member, External Review Committee: 2021 </span>
 
 * International Symposium on Microarchitecture (<span style="color:black">**MICRO**</span>) <br>
-<span style="color:crimson"> Member, Program Committee: 2022, 2023 </span> <br>
+<span style="color:crimson"> Member, Program Committee: 2022, 2023, 2025 </span> <br>
 <span style="color:dodgerblue"> Member, External Review Committee: 2021, 2024 </span>
 
 * International Symposium on Performance Analysis of Systems and Software (<span style="color:black">**ISPASS**</span>) <br>
@@ -218,6 +218,9 @@ COMP4450, Advanced Computing Research Methods (Semester 1, 2023) <br>
 <span style="color:dodgerblue"> Member, External Review Committee: 2020 </span>
 
 ### Publications
+
+[<span style="color:FireBrick"><b>CAL 2025</b></span>] A. Hasnat, W. Heirman, and S. Akram, Analyzing and Exploiting Memory Hierarchy Parallelism with MLP Stacks, IEEE Computer Architecture Letters, 2025. <br>
+[<span style="color:DarkBlue"> PDF pre-print </span>]({% link assets/papers/mlpCAL2025.pdf %}) <br> 
 
 [<span style="color:FireBrick"><b>TACO 2024</b></span>] A. Hasnat and S. Akram, SPIRIT: Scalable and Persistent In-Memory Indices for Real-Time Search, ACM Transactions on
 Architecture and Code Optimization (TACO), 2024.  <br>
