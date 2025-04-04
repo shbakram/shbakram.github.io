@@ -30,7 +30,7 @@ and programming language conferences.
 ### Recent News 
 
 
-[<span style="color:FireBrick"><b>TACO 2024</b></span>] Adnan Hasnat (undergraduate) has a paper accepted on exploiting hybrid memory for accelerating enterprise search engines
+[<span style="color:FireBrick"><b>TACO 2025</b></span>] Adnan Hasnat (undergraduate) has a paper accepted on exploiting hybrid memory for accelerating enterprise search engines
 
 [<span style="color:FireBrick"><b>TOPLAS 2024</b></span>] Iacovos (PhD student) has a paper accepted at [TOPLAS](https://dl.acm.org/doi/10.1145/3700593)
 
@@ -222,8 +222,8 @@ COMP4450, Advanced Computing Research Methods (Semester 1, 2023) <br>
 [<span style="color:FireBrick"><b>CAL 2025</b></span>] A. Hasnat, W. Heirman, and S. Akram, Analyzing and Exploiting Memory Hierarchy Parallelism with MLP Stacks, IEEE Computer Architecture Letters, 2025. <br>
 [<span style="color:DarkBlue"> PDF pre-print </span>]({% link assets/papers/mlpCAL2025.pdf %}) <br> 
 
-[<span style="color:FireBrick"><b>TACO 2024</b></span>] A. Hasnat and S. Akram, SPIRIT: Scalable and Persistent In-Memory Indices for Real-Time Search, ACM Transactions on
-Architecture and Code Optimization (TACO), 2024.  <br>
+[<span style="color:FireBrick"><b>TACO 2025</b></span>] A. Hasnat and S. Akram, SPIRIT: Scalable and Persistent In-Memory Indices for Real-Time Search, ACM Transactions on
+Architecture and Code Optimization (TACO), 2025.  <br>
 [<span style="color:DarkBlue"> PDF pre-print </span>]({% link assets/papers/tacoSPIRITfinal2024.pdf %}) <br> 
 [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/hipeac-2025-spirit.pdf  %})
 
