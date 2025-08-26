@@ -219,6 +219,11 @@ COMP4450, Advanced Computing Research Methods (Semester 1, 2023) <br>
 
 ### Publications
 
+[<span style="color:FireBrick"><b>MPLR 2025</b></span>] Iacovos G. Kolokasis,
+Konstantinos Delis, Shoaib Akram, Foivos Zakkak, Polyvios Pratikakis, and Angelos Bilas, SmartSweep: Efficient Space Reclamation in Tiered
+Managed Heaps, ACM SIGPLAN International Conference on Managed Programming Languages and Runtimes (MPLR), 2025. <br>
+[<span style="color:DarkBlue"> PDF pre-print </span>]({% link assets/papers/mplr-2025-smartsweep.pdf %}) <br> 
+
 [<span style="color:FireBrick"><b>CAL 2025</b></span>] A. Hasnat, W. Heirman, and S. Akram, Analyzing and Exploiting Memory Hierarchy Parallelism with MLP Stacks, IEEE Computer Architecture Letters, 2025. <br>
 [<span style="color:DarkBlue"> PDF pre-print </span>]({% link assets/papers/mlpCAL2025.pdf %}) <br> 
 
