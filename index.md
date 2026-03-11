@@ -125,14 +125,11 @@ Research Topic: ZTera: Extending Java Heaps Using Compressed Memory <br>
 <span style="color:dodgerblue"> First Job: Ph.D. Student at ANU and RUB (Bochum) </span> <br>
 [<span style="color:DarkBlue"> PDF version of thesis</span>]({% link assets/papers/honors-thesis-adnan.pdf %}) <br>
 
-Anson Thai (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
-Graduation: First semester, 2024 <br>
-Research Topic: APCache: An Adaptive Postings Cache in Heterogeneous Memory for Storage-Resident Search Indices <br> 
-<span style="color:FireBrick"> Awarded the University Medal for Academic Excellence </span> <br>
-<span style="color:dodgerblue"> First Job: Amazon, Sydney </span> <br>
-[<span style="color:DarkBlue"> PDF version of thesis</span>]({% link assets/papers/honors-thesis-anson.pdf %}) <br>
-
-
+Kshama Patel (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
+Graduation: Second semester, 2025 <br>
+Research Topic: ARITHMETY: Adaptive Real-Time Text Inversion over Hybrid DRAM and Persistent Memory <br> 
+<span style="color:dodgerblue"> First Job: Software Engineer at Atlassian </span> <br>
+[<span style="color:DarkBlue"> PDF version of thesis</span>]({% link assets/papers/honors-thesis-kshama.pdf %}) <br>
 
 Anson Thai (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
 Graduation: First semester, 2024 <br>
