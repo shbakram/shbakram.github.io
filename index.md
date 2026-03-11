@@ -100,6 +100,9 @@ Lucene, OpenJDK, and the Linux OS.
 
 ### Students
 
+Adnan Hasnat (Ph.D. student, 2026 - ) <br>
+Research Topic: Microarchitectural Security of Accelerators <br> 
+
 Jackson Kilrain-Mottram (Ph.D. student, 2024 - ) <br>
 Research Topic: Storage Engines for Managed Data-Intensive Frameworks <br> 
 
@@ -114,6 +117,22 @@ Research Topic: Terabyte-Scale Managed Heaps for Big Data Analytics <br>
 
 
 ### VICS Alumni
+
+Adnan Hasnat (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
+Graduation: Second semester, 2025 <br>
+Research Topic: ZTera: Extending Java Heaps Using Compressed Memory <br> 
+<span style="color:FireBrick"> Awarded the University Medal for Academic Excellence </span> <br>
+<span style="color:dodgerblue"> First Job: Ph.D. Student at ANU and RUB (Bochum) </span> <br>
+[<span style="color:DarkBlue"> PDF version of thesis</span>]({% link assets/papers/honors-thesis-adnan.pdf %}) <br>
+
+Anson Thai (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
+Graduation: First semester, 2024 <br>
+Research Topic: APCache: An Adaptive Postings Cache in Heterogeneous Memory for Storage-Resident Search Indices <br> 
+<span style="color:FireBrick"> Awarded the University Medal for Academic Excellence </span> <br>
+<span style="color:dodgerblue"> First Job: Amazon, Sydney </span> <br>
+[<span style="color:DarkBlue"> PDF version of thesis</span>]({% link assets/papers/honors-thesis-anson.pdf %}) <br>
+
+
 
 Anson Thai (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
 Graduation: First semester, 2024 <br>
