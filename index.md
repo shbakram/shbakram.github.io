@@ -7,7 +7,7 @@ title: Shoaib Akram
 
 ![proc]({% link assets/office.jpg %}){: style="width:20%; float:right; margin-right: 0em;"}
 
-I am an assistant professor at the Australian National University, Canberra, in
+I am a Senior Lecturer (US Equivalent: Associate Professor) at the Australian National University, Canberra, in
 the School of Computing. I obtained my Ph.D. degree in Computer Science and
 Engineering from Ghent University (Belgium).  My doctoral advisor was
 [Lieven Eeckhout](https://users.elis.ugent.be/~leeckhou/). I also hold an M.S. in
