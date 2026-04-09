@@ -27,32 +27,6 @@ and programming language conferences.
 [Google Scholar](https://scholar.google.com/citations?user=vwB9Q54AAAAJ&hl=en) <br>
 [My PhD Dissertation]({% link assets/papers/phd-thesis.pdf %})
 
-### Recent News 
-
-
-[<span style="color:FireBrick"><b>TACO 2025</b></span>] Adnan Hasnat (undergraduate) has a paper accepted on exploiting hybrid memory for accelerating enterprise search engines
-
-[<span style="color:FireBrick"><b>TOPLAS 2024</b></span>] Iacovos (PhD student) has a paper accepted at [TOPLAS](https://dl.acm.org/doi/10.1145/3700593)
-
-[<span style="color:FireBrick"><b>HPCA 2025</b></span>] Serving on the HPCA PC  
-
-[<span style="color:FireBrick"><b>ISCA 2024</b></span>] Serving on the ISCA PC  
-
-[<span style="color:FireBrick"><b>ISPASS 2024</b></span>] Serving on the ISPASS PC  
-
-[<span style="color:FireBrick"><b>ISMM 2023</b></span>] Paper accepted at ISMM (Aditya's undergraduate honours thesis!)
-
-[<span style="color:FireBrick"><b>MICRO 2023</b></span>] Serving on the MICRO PC 
-
-[<span style="color:FireBrick"><b>ASPLOS 2023</b></span>] [TeraHeap](https://github.com/jackkolokasis/teraheap) paper will appear at ASPLOS 2023
-
-[<span style="color:FireBrick"><b>ASPLOS 2023</b></span>] Serving on the ASPLOS PC (three submission rounds) 
-
-[<span style="color:FireBrick"><b>HPCA 2023</b></span>] Serving on the HPCA PC (please submit your best work!)
-
-[<span style="color:FireBrick"><b>MICRO 2022</b></span>] Serving on the MICRO PC 
-
-[<span style="color:FireBrick"><b>ISPASS 2022</b></span>] Paper on ML for architectural simulation accepted at ISPASS 2022  
 
 ### Current Research
 
@@ -234,6 +208,10 @@ COMP4450, Advanced Computing Research Methods (Semester 1, 2023) <br>
 <span style="color:dodgerblue"> Member, External Review Committee: 2020 </span>
 
 ### Publications
+
+[<span style="color:FireBrick"><b>PLDI 2026</b></span>] Iacovos G. Kolokasis,
+Shoaib Akram, Foivos Zakkak, Polyvios Pratikakis, and Angelos Bilas, FlexHeap: Dynamic I/O-Aware Heap Resizing for Managed Applications,
+ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2026. 
 
 [<span style="color:FireBrick"><b>MPLR 2025</b></span>] Iacovos G. Kolokasis,
 Konstantinos Delis, Shoaib Akram, Foivos Zakkak, Polyvios Pratikakis, and Angelos Bilas, SmartSweep: Efficient Space Reclamation in Tiered
