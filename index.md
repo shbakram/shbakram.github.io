@@ -212,6 +212,8 @@ COMP4450, Advanced Computing Research Methods (Semester 1, 2023) <br>
 [<span style="color:FireBrick"><b>PLDI 2026</b></span>] Iacovos G. Kolokasis,
 Shoaib Akram, Foivos Zakkak, Polyvios Pratikakis, and Angelos Bilas, FlexHeap: Dynamic I/O-Aware Heap Resizing for Managed Applications,
 ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2026. 
+[<span style="color:DarkBlue"> PDF pre-print </span>]({% link assets/papers/pldi26-final.pdf %}) <br> 
+[<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/smartsweep_mplr25_kolokasis.pdf  %})
 
 [<span style="color:FireBrick"><b>MPLR 2025</b></span>] Iacovos G. Kolokasis,
 Konstantinos Delis, Shoaib Akram, Foivos Zakkak, Polyvios Pratikakis, and Angelos Bilas, SmartSweep: Efficient Space Reclamation in Tiered
