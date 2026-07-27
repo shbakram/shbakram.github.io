@@ -74,9 +74,6 @@ Lucene, OpenJDK, and the Linux OS.
 
 ### Students
 
-Adnan Hasnat (Ph.D. student, 2026 - ) <br>
-Research Topic: Microarchitectural Security of Accelerators <br> 
-
 Jackson Kilrain-Mottram (Ph.D. student, 2024 - ) <br>
 Research Topic: Storage Engines for Managed Data-Intensive Frameworks <br> 
 
