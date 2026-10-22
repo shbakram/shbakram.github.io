@@ -22,6 +22,8 @@ I lead the <span style="color:Black">**V**</span>ertically <span style="color:Bl
 
 ***News (22-10-2026):*** I am actively recruiting a Ph.D. student to work on memory tiering from a microarchitcture perspective. Knowledge of PCIe and CXL interconnent/protocol is helpful. If you are an ANU MS (research) candidate and want to discuss Ph.D. at ANU, please get in touch!
 
+[No AI without CS](% link assets/No-AI-without-CS.pdf %) <br>
+
 I serve on the reviewing committees of top-tier computer architecture, systems,
 and programming language conferences.
 
