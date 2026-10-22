@@ -7,6 +7,8 @@ title: Shoaib Akram
 
 ![proc]({% link assets/office.jpg %}){: style="width:20%; float:right; margin-right: 0em;"}
 
+[No AI without CS]({% link assets/No-AI-without-CS.pdf %}) <br>
+
 I am a Senior Lecturer (US Equivalent: Associate Professor) at the Australian National University, Canberra, in
 the School of Computing. I obtained my Ph.D. degree in Computer Science and
 Engineering from Ghent University (Belgium).  My doctoral advisor was
@@ -22,7 +24,6 @@ I lead the <span style="color:Black">**V**</span>ertically <span style="color:Bl
 
 ***News (22-10-2026):*** I am actively recruiting a Ph.D. student to work on memory tiering from a microarchitcture perspective. Knowledge of PCIe and CXL interconnent/protocol is helpful. If you are an ANU MS (research) candidate and want to discuss Ph.D. at ANU, please get in touch!
 
-[No AI without CS]({% link assets/No-AI-without-CS.pdf %}) <br>
 
 I serve on the reviewing committees of top-tier computer architecture, systems,
 and programming language conferences.
