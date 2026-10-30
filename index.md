@@ -16,7 +16,6 @@ Engineering from Ghent University (Belgium).  My doctoral advisor was
 Electrical and Computer Engineering from the University of Illinois at
 Urbana-Champaign.
 
-I am fortunate to have two amazing sisters who are _real_ doctors: [Rakhshanda Akram](https://www.doximity.com/pub/rakhshanda-akram-md) and [Mahreen Akram](https://www.doximity.com/pub/mahreen-akram-md)) 
 
 I am interested in computer systems in general and memory and storage systems
 in particular. My research approach intersects the boundary between the
@@ -32,6 +31,8 @@ and programming language conferences.
 [Google Scholar](https://scholar.google.com/citations?user=vwB9Q54AAAAJ&hl=en) <br>
 [My PhD Dissertation]({% link assets/papers/phd-thesis.pdf %})
 
+
+I am fortunate to have two amazing sisters who are _real_ doctors: [Rakhshanda Akram](https://www.doximity.com/pub/rakhshanda-akram-md) and [Mahreen Akram](https://www.doximity.com/pub/mahreen-akram-md).
 
 ### Current Research
 
