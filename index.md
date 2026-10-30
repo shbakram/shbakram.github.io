@@ -14,7 +14,9 @@ the School of Computing. I obtained my Ph.D. degree in Computer Science and
 Engineering from Ghent University (Belgium).  My doctoral advisor was
 [Lieven Eeckhout](https://users.elis.ugent.be/~leeckhou/). I also hold an M.S. in
 Electrical and Computer Engineering from the University of Illinois at
-Urbana-Champaign. 
+Urbana-Champaign.
+
+I am fortunate to have two amazing sisters who are _real_ doctors: [Rakhshanda Akram](https://www.doximity.com/pub/rakhshanda-akram-md) and [Mahreen Akram](https://www.doximity.com/pub/mahreen-akram-md)) 
 
 I am interested in computer systems in general and memory and storage systems
 in particular. My research approach intersects the boundary between the
@@ -75,7 +77,7 @@ research requires good system-building skills. Our current students are not
 afraid to customize industrial-strength software, such as Apache Spark and
 Lucene, OpenJDK, and the Linux OS. 
 
-### Students
+### Ph.D. Students
 
 Jackson Kilrain-Mottram (Ph.D. student, 2024 - ) <br>
 Research Topic: Storage Engines for Managed Data-Intensive Frameworks <br> 
