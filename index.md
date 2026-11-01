@@ -9,7 +9,7 @@ title: Shoaib Akram
 
 [No AI without CS]({% link assets/No-AI-without-CS.pdf %}) <br>
 [Teaching Feedback]({% link assets/Teaching_Feedback_Evaluation.pdf  %}) <br>
-[Long Bio]({% link assets/bio_long.pdf %}), [Short Bio]({% link assets/bio_short.pdf %}) <br>
+[Long Bio]({% link assets/papers/bio_long.pdf %}), [Short Bio]({% link assets/papers/bio_short.pdf %}) <br>
 [My ANU School of Computing Page](https://comp.anu.edu.au/people/shoaib-akram/)
 
 I am a Senior Lecturer (US Equivalent: Associate Professor) at the Australian
