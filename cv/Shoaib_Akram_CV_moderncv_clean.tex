@@ -1,0 +1,331 @@
+
+% Shoaib Akram — CV (moderncv) — CLEAN (no xcolor clash), full titles preserved
+% Path hint: saved as Shoaib_Akram_CV_moderncv_clean.tex in your working directory
+
+\documentclass[11pt,a4paper,sans]{moderncv}
+\moderncvstyle{classic}
+\moderncvcolor{blue}
+
+\renewcommand{\baselinestretch}{1.05}
+
+% Basic packages
+\usepackage[utf8]{inputenc}
+\usepackage[scale=0.9]{geometry}
+\setlength{\hintscolumnwidth}{2.6cm}
+\usepackage{enumitem}
+\setlist[itemize]{noitemsep, topsep=2pt}
+\setlist[enumerate]{itemsep=2pt, topsep=2pt}
+
+% DO NOT load xcolor again (moderncv loads it). Define colors after classes load.
+\definecolor{linkblue}{RGB}{0,80,160}
+\definecolor{BrickRed}{RGB}{203,65,84} % named color used in awards
+
+% Apply link colors after hyperref is present (moderncv loads hyperref)
+\AtBeginDocument{\hypersetup{colorlinks=true, urlcolor=linkblue, linkcolor=linkblue}}
+
+% Personal data
+\name{Shoaib}{Akram}
+\title{Senior Lecturer, Australian National University}
+\address{Canberra}{ACT, Australia}
+\email{Shoaib.Akram@anu.edu.au}
+\homepage{https://shbakram.github.io}
+%\social[github]{shbakram}
+\social[linkedin]{shoaib-akram-58999211b}
+\social[orcid]{0000-0003-2388-0517}
+\extrainfo{\faGoogle\ \href{https://scholar.google.com/citations?user=vwB9Q54AAAAJ\&hl=en}{Google Scholar}}
+\extrainfo{Citizenship: Australian}
+
+\begin{document}
+\makecvtitle
+
+\section{Education}
+\cventry{2019}{Ph.D., Computer Science Engineering}{Ghent University}{Belgium}{}{Advisor: Lieven Eeckhout (IEEE \& ACM Fellow). \\ 
+Thesis: \emph{Exploiting Managed Language Semantics to Optimize for Hardware Heterogeneity}.}
+\cventry{2009}{M.S., Electrical and Computer Engineering}{University of Illinois at Urbana--Champaign}{USA}{}{Advisor: Deming Chen (IEEE Fellow). \\
+Thesis: \emph{Workload Adaptive Shared Memory Multicore Processors with Reconfigurable Interconnects}.}
+\cventry{2006}{B.Sc., Electrical Engineering}{University of Engineering \& Technology}{Lahore, Pakistan}{}{Advisor: Shahid H. Bokhari (IEEE \& ACM Fellow). \\
+Thesis: \emph{Implementation of Suffix Trees on FPGAs}.}
+
+\section{Research Interests}
+\cvitem{}{Computer architecture; Memory and storage systems; Performance analysis}
+
+\section{Employment}
+\cventry{Jan 2026 -- Present}{Senior Lecturer (Tenured)}{The Australian National University}{Canberra, Australia}{}{}
+\cventry{Jan 2020 -- Dec 2025}{Lecturer}{The Australian National University}{Canberra, Australia}{}{}
+\cventry{Jul 2019 -- Dec 2019}{Post-doctoral Researcher}{PerfLab -- Ghent University}{Belgium}{}{}
+\cventry{Jul 2012 -- Jun 2019}{Ph.D. Student}{PerfLab -- Ghent University}{Belgium}{}{Research focus: Computer architecture, runtime systems, memory management.}
+\cventry{Mar 2010 -- Jun 2012}{Junior Researcher}{Foundation for Research and Technology -- Hellas, Institute of Computer Science (FORTH-ICS)}{Greece}{}{Advisor: Angelos Bilas; Research focus: Storage systems.}
+\cventry{Mar 2006 -- May 2007}{Research Associate}{Al-Khwarizmi Institute of Computer Science (KICS)}{Lahore, Pakistan}{}{}
+
+\section{Memberships}
+\cvitem{}{Professional Member, Association for Computing Machinery (ACM)}
+
+\section{Refereed Publications}
+\subsection{Journals}
+{\small
+\begin{enumerate}
+\item A. Hasnat, W. Heirman, \textbf{S. Akram}, ``Analyzing and Exploiting Memory Hierarchy Parallelism with MLP Stacks,'' \emph{IEEE Computer Architecture Letters (CAL)}, 2025.
+\item A. Hasnat, \textbf{S. Akram}, ``SPIRIT: Scalable and Persistent In-Memory Indices for Real-Time Search,'' \emph{ACM Transactions on Architecture and Code Optimization (TACO)}, 2025.
+\item I. Kolokasis, G. Evdorou, \textbf{S. Akram}, A. Papagiannis, F. Zakkak, C. Kozanitis, P. Pratikakis, A. Bilas, ``TeraHeap: Exploiting Flash Storage for Mitigating DRAM Pressure in Managed Big Data Frameworks,'' \emph{ACM Transactions on Programming Languages and Systems (TOPLAS)}, 2025.
+\item W. Liu, W. Heirman, S. Eyerman, \textbf{S. Akram}, and L. Eeckhout, ``Scale-Model Simulation,'' \emph{IEEE Computer Architecture Letters (CAL)}, 2021.
+\item \textbf{S. Akram}, ``Performance Evaluation of Intel Optane Memory for Managed Workloads,'' \emph{ACM Transactions on Architecture and Code Optimization (TACO)}, 2021.
+\item W. Liu, \textbf{S. Akram}, and L. Eeckhout, ``Reliability-Aware Garbage Collection for Hybrid DRAM-HBM Memories,'' \emph{ACM Transactions on Architecture and Code Optimization (TACO)}, 2021.
+\item S. Pestel, S. Steen, \textbf{S. Akram}, and L. Eeckhout, ``RPPM: Rapid Performance Prediction of Multithreaded Applications on Multicore Hardware,'' \emph{IEEE Computer Architecture Letters (CAL)}, 2018.
+\item \textbf{S. Akram}, J. Sartor, and L. Eeckhout, ``DEP+BURST: Online DVFS Performance Prediction for Energy-Efficient Managed Language Execution,'' \emph{IEEE Transactions on Computers (TC)}, 2017.
+\item \textbf{S. Akram}, J. Sartor, K. Van Craeynest, W. Heirman, and L. Eeckhout, ``Boosting the Priority of Garbage: Scheduling Collection on Heterogeneous Multicore Processors,'' \emph{ACM Transactions on Architecture and Code Optimization (TACO)}, 2016.
+\item \textbf{S. Akram}, A. Papakonstantinou, R. Kumar, D. Chen, ``A Workload-adaptive and Reconfigurable Bus Architecture for Multicore Processors,'' \emph{International Journal of Reconfigurable Computing (IJRC)}, 2010.
+\end{enumerate}
+}
+
+\subsection{Conferences}
+{\small
+\begin{enumerate}
+\item I. Kolokasis, K. Delis, \textbf{S. Akram}, F. Zakkak, P. Pratikakis, A. Bilas, ``SmartSweep: Efficient Space Reclamation in Tiered Managed Heaps,'' \emph{International Conference on Managed Programming Languages and Runtimes (MPLR)}, 2025. \textcolor{blue}{Acceptance Rate: 11/18}.
+\item A. Chilukuri and \textbf{S. Akram}, ``Analyzing and Improving the Scalability of In-Memory Indices for Managed Search Engines,'' \emph{ACM SIGPLAN International Symposium on Memory Management (ISMM)}, 2023. \textcolor{blue}{Acceptance Rate: 13/25}. \newline \textcolor{BrickRed}{\textbf{$\longrightarrow$ \emph{Best Paper Candidate}}}.
+\item I. Kolokasis, G. Evdorou, \textbf{S. Akram}, A. Papagiannis, F. Zakkak, C. Kozanitis, P. Pratikakis, A. Bilas, ``TeraHeap: Reducing Memory Pressure in Managed Big Data Frameworks,'' \emph{International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)}, 2023. \textcolor{blue}{Acceptance Rate: 128/598}.
+\item W. Liu, W. Heirman, S. Eyerman, \textbf{S. Akram}, and L. Eeckhout, ``Scale-Model Architectural Simulation,'' \emph{IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)}, 2022. \textcolor{blue}{Acceptance Rate: 24/83}.
+\item \textbf{S. Akram}, ``Exploiting Intel Optane Persistent Memory for Full Text Search,'' \emph{ACM SIGPLAN International Symposium on Memory Management (ISMM)}, 2021. \textcolor{blue}{Acceptance Rate: 8/14}.
+\item S. Pestel, S. Steen, \textbf{S. Akram}, and L. Eeckhout, ``RPPM: Rapid Performance Prediction of Multithreaded Workloads on Multicore Processors,'' \emph{IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)}, 2019. \textcolor{blue}{Acceptance Rate: 26/88}.
+\item \textbf{S. Akram}, J. Sartor, K. McKinley and L. Eeckhout, ``Emulating and Evaluating Hybrid Memory for Managed Languages on NUMA Hardware,'' \emph{IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)}, 2019. \textcolor{blue}{Acceptance Rate: 26/88}.
+\item \textbf{S. Akram}, J. Sartor, K. McKinley and L. Eeckhout, ``Crystal Gazer: A Profile-Driven Garbage Collector to Manage Hybrid Memories,'' \emph{ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS)}, 2019. \textcolor{blue}{Acceptance Rate: 50/317}.
+\item \textbf{S. Akram}, J. Sartor, K. McKinley and L. Eeckhout, ``Write-Rationing Garbage Collection for Hybrid Memories,'' \emph{ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)}, 2018. \textcolor{blue}{Acceptance Rate: 55/245}. \newline \textcolor{BrickRed}{\textbf{$\longrightarrow$ \emph{NVMW Memorable Paper Award}}}.
+\item \textbf{S. Akram}, J. Sartor, and L. Eeckhout, ``DVFS Performance Prediction for Managed Multi-Threaded Applications,'' \emph{IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)}, 2016. \textcolor{blue}{Acceptance Rate: 27/77}. \newline \textcolor{BrickRed}{\textbf{$\longrightarrow$ \emph{Best Paper Candidate}}}.
+\item K. Van Craeynest, \textbf{S. Akram}, W. Heirman, A. Jaleel, and L. Eeckhout, ``Fairness-aware Scheduling on Single-ISA Heterogeneous Multicores,'' \emph{International Conference on Parallel Architectures and Compilation Techniques (PACT)}, 2013. \textcolor{blue}{Acceptance Rate: 36/208}.
+\item \textbf{S. Akram}, M. Marazakis, and A. Bilas, ``Understanding Scalability and Performance Requirements of I/O-intensive Applications on Future Multicore Servers,'' \emph{IEEE International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)}, 2012. \textcolor{blue}{Acceptance Rate: 49/134}.
+\item \textbf{S. Akram}, M. Marazakis, and A. Bilas, ``Understanding and Improving the Cost of Scaling Distributed Event Processing,'' \emph{ACM International Conference on Distributed Event-Based Systems (DEBS)}, 2012. \textcolor{blue}{Acceptance Rate: 17/103}.
+\item \textbf{S. Akram}, R. Kumar, D. Chen, ``Workload Adaptive Shared Memory Multicore Processors with Reconfigurable Interconnects,'' \emph{IEEE Symposium on Application Specific Processors (SASP)}, 2009.
+\end{enumerate}
+}
+
+\subsection{Poster / Workshop}
+{\small
+\begin{enumerate}
+\item Iacovos G. Kolokasis, \textbf{Shoaib Akram}, Foivos Zakkak, Polyvios Pratikakis, and Angelos Bilas, ``DynaHeap: Dynamic Division of DRAM between Heterogeneous Managed Heaps,'' \emph{Symposium on Operating Systems Principles (SOSP)}, 2023.
+\item \textbf{S. Akram} and A. Bilas, ``Energy Implications of Contention in Multicore Processors for the Data-Centre,'' \emph{European Conference on Computer Systems (EuroSys)}, 2012.
+\item \textbf{S. Akram} and A. Bilas, ``A Sleep-based Communication Mechanism to Save Processor Utilization in Distributed Streaming Systems,'' \emph{Computer Architecture and Operating System Co-design (CAOS)}, 2011 (co-located with HiPEAC).
+\item \textbf{S. Akram}, M. Marazakis, and A. Bilas, ``NUMA Implications for Storage I/O Throughput in Modern Servers,'' \emph{Computer Architecture and Operating System Co-design (CAOS)}, 2012 (co-located with HiPEAC). 
+\item \textbf{S. Akram}, M. Marazakis, and A. Bilas, ``Energy Inefficiency of Operating System Layers for Data-centric Infrastructures,'' \emph{Systems for Future Multi-core Architectures (SFMA)}, 2012 (co-located with EuroSys).
+\item \textbf{S. Akram}, K. McKinley, J. Sartor, and L. Eeckhout, ``Managing Hybrid Memories by Predicting Object Write Intensity,'' \emph{Programming Across the System Stack (PASS)}, 2018 (co-located with \textless Programming\textgreater). 
+\item \textbf{S. Akram}, ``To Expose, or Not to Expose, Hardware Heterogeneity to Runtimes!'' \emph{Modern Language Runtimes, Ecosystems, and VMs (MoreVMs)}, 2019 (co-located with \textless Programming\textgreater).
+\end{enumerate}
+}
+
+\subsection{Invited Publications}
+{\small
+\begin{enumerate}
+\item \textbf{S. Akram}, J. Sartor, K. McKinley and L. Eeckhout, ``Kingsguard: Write-Rationing Garbage Collection for Hybrid Memories,'' \emph{Annual Non-Volatile Memories Workshop (NVMW)}, 2019. 
+\item \textbf{S. Akram}, S. Cromar, G. Lucas, A. Papakonstantinou, and D. Chen, ``VEBoC: Variation and Error-Aware Design for Billions of Devices on a Chip,'' \emph{IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)}, 2008.
+\end{enumerate}
+}
+
+\section{Invited Talks}
+{\small
+\begin{enumerate}
+\item ``Exploiting Managed Language Semantics to Mitigate Wear-Out in Persistent Memory,'' \emph{Flash Memory Summit}, 2019, Santa Clara.
+\item ``Exploiting Managed Language Semantics to Optimize for Heterogeneous Hardware,'' \emph{Australian National University}, 2019, Canberra.
+\item ``Kingsguard: Write-Rationing Garbage Collection for Hybrid Memories,'' \emph{Annual Non-Volatile Memories Workshop (NVMW)}, 2019, San Diego.
+\item ``Profile-Driven Write-Rationing Garbage Collection for Hybrid Memories,'' \emph{The 5th Virtual Machine Meetup (VMM)}, 2018, Linz.
+\item ``Write-Rationing Garbage Collection for Hybrid Memories,'' \emph{Swiss Federal Institute of Technology}, 2018, Lausanne.
+\item ``Write-Rationing Garbage Collection for Hybrid Memories,'' \emph{The 4th Virtual Machine Meetup}, 2017, Prague.
+\item ``Managed Language Runtimes on Heterogeneous Hardware: Optimizations for Performance, Efficiency and Lifetime Improvement,'' \emph{Workshop on Programming Across the System Stack (PASS)}, 2017, Brussels.
+\item ``DVFS Performance Prediction for Managed Multithreaded Applications,'' \emph{VSSAD seminar}, Sep. 15, 2017, Intel, Portland.
+\item ``Energy-Efficient Managed Language Execution on Modern Hardware,'' \emph{The 3rd Virtual Machine Meetup (VMM)}, 2016, Lugano.
+\end{enumerate}
+}
+
+\section{Achievements and Honors}
+\begin{itemize}
+\item HiPEAC Paper Award for ASPLOS 2023
+\item Nominated for Best Paper Award at ISMM 2023
+\item NVMW Memorable Paper Award 2019
+\item HiPEAC Paper Award for PLDI 2018 
+\item Nominated for Best Paper Award at ISPASS 2016 
+\item Marie Curie Initial Training Networks Fellowship (2010--2012)
+\item Fulbright Scholarship (2007--2009)
+\item Graduated from the University of Engineering and Technology with Honors (2006)
+\item First position in college, Crescent Model Higher Secondary School, Lahore, Pakistan (2001)
+\end{itemize}
+
+\section{Ph.D. Supervisory Panel (ANU)}
+\cventry{}{Wenyu Zhao}{Australian National University}{Australia}{}{Advisor: Steve Blackburn.}
+
+\section{Ph.D. Advisees}
+
+\cventry{2020--}{Iacovos G. Kolokasis}{University of Crete}{Greece}{}{%
+\begin{itemize}\itemsep0pt
+\item Unofficial Co-advisor and Member of the Ph.D. committee
+\item Advisor: Angelos Bilas
+\item Thesis Topic: Expanding JVM Heaps with Tiering
+\item Awards: Meta (Facebook) Research PhD Fellowship (2022)
+\end{itemize}
+}
+
+\cventry{2024--}{Jackson Kilrain-Mottram}{Australian National University, School of Computing}{Australia}{}{%
+Primary Advisor.\\
+Thesis Topic: Scheduling in Distributed Storage Systems.
+}
+
+\cventry{2026--}{Adnan Hasnat}{Australian National University \& Ruhr University Bochum}{Australia / Germany}{}{%
+Primary ANU Advisor.\\
+Joint/Dual Ph.D. agreement between ANU and Ruhr University Bochum (RUB).\\
+RUB Advisor: Yuval Yarom.\\
+Thesis Topic: Hardware Security.
+}
+
+\section{Honours Students (ANU)}
+{\small
+\begin{itemize}
+\item Aditya Chilukuri (Graduation: semester 1, 2022) Bachelor of Advanced Computing 
+\item Hou (Harris) Loi (Graduation: semester 2, 2022) Bachelor of Advanced Computing 
+\item Jack Kilrain (Graduation: semester 2, 2022) Bachelor of Software Engineering 
+\item Junming Zhao (Graduation: semester 1, 2023) Bachelor of Engineering and Advanced Computing \\ \textcolor{BrickRed}{\textbf{$\longrightarrow$ \emph{University Medal for Academic Excellence}}}
+\item Anson Thai (Graduation: semester 1, 2024) Bachelor of Advanced Computing \\ \textcolor{BrickRed}{\textbf{$\longrightarrow$ \emph{University Medal for Academic Excellence}}}
+\item Adnan Hasnat (Graduation: semester 2, 2025) Bachelor of Advanced Computing \\ \textcolor{BrickRed}{\textbf{$\longrightarrow$ \emph{University Medal for Academic Excellence}}} \\ \textcolor{BrickRed}{\textbf{$\longrightarrow$ \emph{Erin Brent Computer Science Prize for best honours result}}}
+\item Kshama Patel (Graduation: semester 2, 2025) Bachelor of Advanced Computing
+\item Itay Yarom (Graduation: semester 2, 2026) Bachelor of Advanced Computing
+\end{itemize}
+}
+
+\section{B.S. and M.S. Project Students}
+{\small
+\begin{itemize}
+\item Libby Boas (2025, ANU, PhB Advanced Studies Course, 6 units)
+\item Arjun Sharma (2024, ANU, PhB Advanced Studies Course, 6 units)
+\item Nicholas Arvanitellis (2024, ANU, PhB Advanced Studies Course, 6 units)
+\item Yuki Misumi (2024, ANU, COMP8755, 12 units)
+\item Adnan Hasnat (2024, ANU, COMP3770, 12 units)
+\item Itay Yarom (2024, ANU, COMP3770, 12 units)
+\item Rosalita Rosenberg (2023, ANU, PhB Advanced Studies Course, 6 units)
+\item Zack Noyes (2023, ANU, PhB Advanced Studies Course, 6 units)
+\item Peter Oslington (2023, S2, ANU, PhB Advanced Studies Course, 6 units)
+\item Peter Oslington (2023, S1, ANU, PhB Advanced Studies Course, 6 units)
+\item Chethin Weerakkody (2023, ANU, COMP3770, 12 units)
+\item Angus Atkinson (2022, ANU, COMP3740, 6 units)
+\item Anson Thai (2022, ANU, COMP3770, 6 units)
+\item Anson Thai (2021, ANU, COMP2560, 6 units)
+\item Aditya Chilukuri (2021, ANU, COMP3770, 6 units)
+\item Peixiao Zhao, Master of Computing (2021, ANU, COMP8755, 12 units)
+\item Hengjia Zhang, Master of Computing (2020, ANU, COMP8755, 12 units)
+\item Ruben Peter Vervaeke, Master of Science (2017, Free University Brussels, Thesis)
+\end{itemize}
+}
+
+\section{Summer Scholars (ANU)}
+{\small
+\begin{itemize}
+\item Itay Yarom (summer 2023)
+\item Junming Zhao (summer 2022)
+\item Qianhui Wang (summer 2022)
+\item Xuechao Wang (summer 2022)
+\item Anson Thai (summer 2021)
+\item Angus Atkinson (summer 2021)
+\end{itemize}
+}
+
+\section{Research Assistants (Casual)}
+{\small
+\begin{itemize}
+\item Cassandra Chun-Crogan, BSc, 2021 (December 2021 -- May 2022)
+\item Kshama Patel, BAC (R\&D), 2021 (December 2022 -- Feb 2023)
+\end{itemize}
+}
+
+\section{Professional Service}
+\subsection{Australian National University}
+\begin{itemize}
+\item Ph.D. Scholarship Ranking Committee (Research School of Computer Science, August 2020)
+\item HDR Convener (ANU School of Computing, Foundations cluster, 2021)
+\item Assistant (Associate) Director, International (ANU School of Computing, 2025)
+\end{itemize}
+
+\subsection{Leadership Roles in Conference Organization}
+{\small
+\begin{itemize}
+\item ASPLOS 2027 Poster \textit{Co-Chair}, International Conference on Architectural Support for Programming Languages and Operating Systems
+\item PPoPP 2026 Sponsorship \textit{Chair}, ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming 
+\item VMIL 2025 Program \textit{Co-Chair}, Virtual Machines and Language Implementations (workshop collocated with SPLASH)
+\end{itemize}
+}
+
+\subsection{Program Committees and Peer Reviewing}
+{\small
+\begin{itemize}
+\item Program Committee, IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2026
+\item Program Committee, International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026
+\item Program Committee, Hardware Architecture track, IEEE International Conference on Computer Design (ICCD), 2025 
+\item Program Committee, IEEE/ACM International Symposium on Microarchitecture (MICRO), 2025
+\item Program Committee, Scalable Optimization for Efficient and Adaptive Foundation Models (SCOPE), 2025 (workshop collocated with ICLR)
+\item Program Committee, ACM SIGPLAN International Symposium on Memory Management (ISMM), 2025
+\item Invited Reviewer (2025), Future Generation Computer Systems journal (FGCS)
+\item Invited Reviewer (multiple papers, 2024--2025), ACM Transactions on Architecture and Code Optimization (TACO)
+\item Program Committee, IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025
+\item Program Committee, International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2025
+\item Program Committee, Hardware Architecture track, IEEE International Conference on Computer Design (ICCD), 2024 
+\item External Program Committee, IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024
+\item Program Committee, ACM SIGPLAN International Conference on Managed Programming Languages and Runtimes (MPLR), 2024
+\item Program Committee, International Symposium on Computer Architecture (ISCA), 2024
+\item Program Committee, IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2024
+\item ACM Student Research Competition (SRC) Selection Committee, International Conference on Parallel Architectures and Compilation Techniques (PACT), 2023
+\item Program Committee, IEEE/ACM International Symposium on Microarchitecture (MICRO), 2023
+\item Program Committee, High Performance Computational Biology (HiCOMB), 2023 (workshop collocated with IPDPS)
+\item Program Committee, Modern Language Runtimes, Ecosystems, and VMs (MoreVMs), 2023 (workshop collocated with \textless Programming\textgreater) 
+\item Program Committee, ACM SIGPLAN International Symposium on Memory Management (ISMM), 2023
+\item ACM Student Research Competition (SRC) Selection Committee, International Conference on Parallel Architectures and Compilation Techniques (PACT), 2022
+\item External Expert Reviewer, ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA), 2022
+\item Program Committee, IEEE/ACM International Symposium on Microarchitecture (MICRO), 2022
+\item Program Committee, IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2023
+\item Program Committee, International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2023
+\item Program Committee, ACM SIGPLAN International Symposium on Memory Management (ISMM), 2022
+\item Program Committee, IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2022
+\item External Review Committee, International Symposium on Computer Architecture (ISCA), 2022
+\item External Review Committee, IEEE/ACM International Symposium on Microarchitecture (MICRO), 2021
+\item Program Committee, ACM SIGPLAN International Symposium on Memory Management (ISMM), 2019, 2021
+\item External Review Committee, International Symposium on Computer Architecture (ISCA), 2021
+\item External Review Committee, IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2021
+\item External Review Committee, ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA), 2020
+\item Shadow Program Committee, European Conference on Computer Systems (EuroSys), 2020
+\item External Review Committee, International Symposium on Computer Architecture (ISCA), 2020
+\item External Review Committee, International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2020
+\item Program Committee, Virtual Machines and Language Implementations (VMIL), 2019 (workshop collocated with SPLASH)
+\item Student Volunteer Co-Chair, ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2019
+\item Program Committee, Programming Across the System Stack (PASS), 2018 (workshop collocated with \textless Programming\textgreater) 
+\item Program Committee, Programming Across the System Stack (PASS), 2019 (workshop collocated with \textless Programming\textgreater) 
+\item Artifact Evaluation Committee, ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA), 2016, 2017  
+\item Artifact Evaluation Committee, ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2018
+\item Reviewer, Journal of Parallel and Distributed Computing 72 (2012) 
+\end{itemize}
+}
+
+\section{Research Funding}
+{\small
+\begin{itemize}
+\item Google (Unrestricted gift, 2025), 77{,}000 AUD
+\item ASD-ANU Co-Lab Honours grant for undergraduate student, 8{,}000 AUD (Kshama Patel, 2025) 
+\item ASD-ANU Co-Lab Honours grant for undergraduate student, 8{,}000 AUD (Anson Thai, 2024)
+\item SIGPLAN SIGPLAN Professional Activities Committee (PAC) student travel grant, 2{,}500 AUD (Aditya Chilukuri, 2023)
+\item ANU start-up grant (2020), 200{,}000 AUD
+\end{itemize}
+}
+
+\section{Teaching}
+{\small
+\begin{itemize}
+\item Convener, ANU, 2021, Computer Architecture and Simulation (ENGN2219)
+\item Convener, ANU, 2021, Computer Microarchitecture (COMP3710) 
+\item Convener, ANU, 2022, Computer Systems and Organisation (ENGN2219)
+\item Convener, ANU, 2022, Computer Microarchitecture (COMP3710) 
+\item Convener, ANU, 2022, Systems, Networks, and Concurrency (COMP2310) 
+\item Convener, ANU, 2023, Computer Systems and Organisation (ENGN2219) 
+\item Convener, ANU, 2023, Computer Organization and Program Execution (COMP2300) 
+\item Convener, ANU, 2023, Systems, Networks, and Concurrency (COMP2310) 
+\item Convener, ANU, 2024, Computer Systems and Organisation (ENGN2219) 
+\item Convener, ANU, 2024, Computer Organization and Program Execution (COMP2300)
+\item Convener, ANU, 2025, Computer Architecture (ENGN2219) 
+\item Convener, ANU, 2025, Computer Architecture (COMP2300)
+\item Convener, ANU, 2026, Computer Architecture (ENGN2219) 
+\item Convener, ANU, 2026, Computer Architecture (COMP2300)
+\item Convener, ANU, 2026, Operating Systems Implementation (COMP3300)
+\end{itemize}
+}
+
+\end{document}
