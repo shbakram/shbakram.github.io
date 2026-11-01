@@ -9,15 +9,17 @@ title: Shoaib Akram
 
 [No AI without CS]({% link assets/No-AI-without-CS.pdf %}) <br>
 [Teaching Feedback]({% link assets/Teaching_Feedback_Evaluation.pdf  %}) <br>
-[Long Bio]({% link assets/bio_long.pdf %})  [Short Bio]({% link assets/bio_short.pdf %})
+[Long Bio]({% link assets/bio_long.pdf %}), [Short Bio]({% link assets/bio_short.pdf %}) <br>
 [My ANU School of Computing Page](https://comp.anu.edu.au/people/shoaib-akram/)
 
-I am a Senior Lecturer (US Equivalent: Associate Professor) at the Australian National University, Canberra, in
-the School of Computing. I obtained my Ph.D. degree in Computer Science and
-Engineering from Ghent University (Belgium).  My doctoral advisor was
-[Lieven Eeckhout](https://users.elis.ugent.be/~leeckhou/). I also hold an M.S. in
-Electrical and Computer Engineering from the University of Illinois at
-Urbana-Champaign.
+I am a Senior Lecturer (US Equivalent: Associate Professor) at the Australian
+National University, Canberra, in the School of Computing. I obtained my Ph.D.
+degree in Computer Science and Engineering from Ghent University (Belgium).  My
+doctoral advisor was [Lieven Eeckhout](https://users.elis.ugent.be/~leeckhou/).
+I also hold an M.S. in Electrical and Computer Engineering from the University
+of Illinois at Urbana-Champaign. I received the Fulbright Scholarship from the
+U.S. government (2007) and a Marie Curie Fellowship from the EU Commission
+(2010).
 
 
 I am interested in computer systems in general and memory and storage systems
