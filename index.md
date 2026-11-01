@@ -30,10 +30,12 @@ and programming language conferences.
 
 [Curriculum vitae]({% link assets/CV.pdf %}) <br>
 [Google Scholar](https://scholar.google.com/citations?user=vwB9Q54AAAAJ&hl=en) <br>
-[My PhD Dissertation]({% link assets/papers/phd-thesis.pdf %})
+[PhD Dissertation]({% link assets/papers/phd-thesis.pdf %})
 
+I am active on [LinkedIn](https://www.linkedin.com/in/shoaib-akram-58999211b/).
 
 I am fortunate to have two amazing sisters who are _real_ doctors: [Rakhshanda Akram](https://www.doximity.com/pub/rakhshanda-akram-md) and [Mahreen Akram](https://www.doximity.com/pub/mahreen-akram-md).
+
 
 ### Current Research
 
@@ -96,18 +98,39 @@ Research Topic: Terabyte-Scale Managed Heaps for Big Data Analytics <br>
 
 ### VICS Alumni
 
+Harold Gao (Project Student, Bachelor of Advanced Computing, 2026) <br>
+Research Topic: Low-Overhead Speculative Taint Tracking <br>
+[<span style="color:DarkBlue"> PDF version of report</span>]({% link assets/papers/report-gao.pdf %}) <br>
+
+Jingu Lu (MS Student, Advanced Computing Research Project, 2026) <br>
+Research Topic: MLP Stacks and Prefetch Control for Multicore Systems <br>
+[<span style="color:DarkBlue"> PDF version of report</span>]({% link assets/papers/report-jingyu.pdf %}) <br>
+
 Adnan Hasnat (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
 Graduation: Second semester, 2025 <br>
 Research Topic: ZTera: Extending Java Heaps Using Compressed Memory <br> 
 <span style="color:FireBrick"> Awarded the University Medal for Academic Excellence </span> <br>
-<span style="color:dodgerblue"> First Job: Ph.D. Student at ANU and RUB (Bochum) </span> <br>
+<span style="color:dodgerblue"> First Job: Graduate Vulnerability Researcher, InfoSect </span> <br>
 [<span style="color:DarkBlue"> PDF version of thesis</span>]({% link assets/papers/honors-thesis-adnan.pdf %}) <br>
+
+Libby Boas (Project Student, Bachelor of Philosophy (Honours) - Science, 2026) <br>
+Research Topic: Verifying MLP Stacks <br> 
+[<span style="color:DarkBlue"> PDF version of report</span>]({% link assets/papers/report-boas.pdf %}) <br>
+
 
 Kshama Patel (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
 Graduation: Second semester, 2025 <br>
 Research Topic: ARITHMETY: Adaptive Real-Time Text Inversion over Hybrid DRAM and Persistent Memory <br> 
 <span style="color:dodgerblue"> First Job: Software Engineer at Atlassian </span> <br>
 [<span style="color:DarkBlue"> PDF version of thesis</span>]({% link assets/papers/honors-thesis-kshama.pdf %}) <br>
+
+Yuki Misumi (MS Student, Project, 2024) <br>
+Research Topic:  <br>
+[<span style="color:DarkBlue"> PDF version of report</span>]({% link assets/papers/report-misumi.pdf %}) <br>
+
+Itay Yarom (Bachelor of Advanced Computing, Project, 2024) <br>
+Research Topic:  <br>
+[<span style="color:DarkBlue"> PDF version of report</span>]({% link assets/papers/report-yarom.pdf %}) <br>
 
 Anson Thai (Honours Thesis Advisor, Bachelor of Advanced Computing) <br>
 Graduation: First semester, 2024 <br>
@@ -118,9 +141,19 @@ Research Topic: APCache: An Adaptive Postings Cache in Heterogeneous Memory for 
 
 Peter Oslington (Project Student, Bachelor of Philosophy (Honours) - Science, 2023) <br>
 Research Topic: Hash Table Optimization <br> 
+[<span style="color:DarkBlue"> PDF version of report</span>]({% link assets/papers/report-oslington.pdf %}) <br>
+
+Rosalita Rosenberg (Project Student, Bachelor of Philosophy (Honours) - Science, 2023) <br>
+Research Topic: Microarchitectural Characterization of Lucene <br> 
+[<span style="color:DarkBlue"> PDF version of report</span>]({% link assets/papers/report-rosie.pdf %}) <br>
+
+Zack Noyes (Project Student, Bachelor of Philosophy (Honours) - Science, 2023) <br>
+Research Topic: Optimizing Off-Heap Java Memory for Lucene <br> 
+[<span style="color:DarkBlue"> PDF version of report</span>]({% link assets/papers/report-noyes.pdf %}) <br>
 
 Chethin Weerakkody (Project Student, FDD Eng. & Adv. Comp., 2023) <br>
 Research Topic: High-Performance Caching for Real-Time Search <br>
+[<span style="color:DarkBlue"> PDF version of report</span>]({% link assets/papers/report-weerakkody.pdf %}) <br>
 
 
 Junming Zhao (Honours Thesis Advisor, FDD Eng. & Adv. Comp.) <br>
