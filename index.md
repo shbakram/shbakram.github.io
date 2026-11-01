@@ -9,6 +9,8 @@ title: Shoaib Akram
 
 [No AI without CS]({% link assets/No-AI-without-CS.pdf %}) <br>
 [Teaching Feedback]({% link assets/Teaching_Feedback_Evaluation.pdf  %}) <br>
+[Long Bio]({% link assets/bio_long.pdf %})  [Short Bio]({% link assets/bio_short.pdf %})
+[My ANU School of Computing Page](https://comp.anu.edu.au/people/shoaib-akram/)
 
 I am a Senior Lecturer (US Equivalent: Associate Professor) at the Australian National University, Canberra, in
 the School of Computing. I obtained my Ph.D. degree in Computer Science and
