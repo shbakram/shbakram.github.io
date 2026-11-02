@@ -487,3 +487,4 @@ Design for Billions of Devices on a Chip, IEEE/ACM Asia and South Pacific
 Design Automation Conference (ASPDAC), 2008. <br> [<span
 style="color:DarkBlue"> PDF version of paper</span>]({% link
 assets/papers/akram-aspdac08.pdf %})
+
