@@ -40,6 +40,8 @@ I am active on [LinkedIn](https://www.linkedin.com/in/shoaib-akram-58999211b/).
 
 I am fortunate to have two amazing sisters who are _real_ doctors: [Rakhshanda Akram](https://www.doximity.com/pub/rakhshanda-akram-md) and [Mahreen Akram](https://www.doximity.com/pub/mahreen-akram-md).
 
+I will be teaching an [advanced computer architecture](https://programsandcourses.anu.edu.au/course/comp4045) course in Semester 1, 2027. 
+<! --To ANU students who qualify for enrollment, please see the summary [handout](). -->
 
 ### Current Research
 
@@ -201,10 +203,11 @@ microarchitecture course is an advanced (graduate level) course. COMP2310 is
 ANU's systems programming course. COMP2300 and ENGN2219 are our introductory computer systems
 courses. <br>
 
-- [Computer Organization and Program Execution (COMP2300)](https://cs.anu.edu.au/courses/comp2300/) (Semester 1, 2023, 2024, 2025, 2026) 
-- [Computer Systems and Organization (ENGN2219)](https://cs.anu.edu.au/courses/engn2219/) (Semester 1, 2021, 2022, 2023, 2024, 2025, 2026) 
+- [Computer Architecture (COMP2300/ENGN2219)](https://cs.anu.edu.au/courses/comp2300/) (Semester 1, 2023, 2024, 2025, 2026) 
+- [Computer Systems and Organization (ENGN2219)](https://cs.anu.edu.au/courses/engn2219/) (Semester 1, 2021, 2022) 
 - [Computer Microarchitecture (COMP3710)](https://cs.anu.edu.au/courses/comp3710-uarch/) (Semester 2, 2021, 2022)
 - [Systems, Networks, and Concurrency (COMP2310)](https://comp.anu.edu.au/courses/comp2310/) (Semester 2, 2022, 2023)
+- [Operating Systems Implementation (COMP3300)](https://comp.anu.edu.au/courses/comp3300/) (Semester 2, 2026)
 
 ### Guest Lectures at ANU 
 
