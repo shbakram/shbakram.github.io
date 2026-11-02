@@ -17,9 +17,10 @@ National University, Canberra, in the School of Computing. I obtained my Ph.D.
 degree in Computer Science and Engineering from Ghent University (Belgium).  My
 doctoral advisor was [Lieven Eeckhout](https://users.elis.ugent.be/~leeckhou/).
 I also hold an M.S. in Electrical and Computer Engineering from the University
-of Illinois at Urbana-Champaign. I received the Fulbright Scholarship from the
-U.S. government (2007) and a Marie Curie Fellowship from the EU Commission
-(2010).
+of Illinois at Urbana-Champaign. 
+
+I received the Fulbright Scholarship from the U.S. government (2007) and a
+Marie Curie Fellowship from the EU Commission (2010).
 
 
 I am interested in computer systems in general and memory and storage systems
