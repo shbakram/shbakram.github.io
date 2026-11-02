@@ -7,10 +7,13 @@ title: Shoaib Akram
 
 ![proc]({% link assets/office.jpg %}){: style="width:20%; float:right; margin-right: 0em;"}
 
-[No AI without CS]({% link assets/No-AI-without-CS.pdf %}) <br>
+[No AI without CS]({% link assets/No-AI-without-CS.pdf %}) ([CRA](https://cra.org/defining-ai-for-computing-education/)) <br>
 [Teaching Feedback]({% link assets/Teaching_Feedback_Evaluation.pdf  %}) <br>
 [Long Bio]({% link assets/papers/bio_long.pdf %}), [Short Bio]({% link assets/papers/bio_short.pdf %}) <br>
-[My ANU School of Computing Page](https://comp.anu.edu.au/people/shoaib-akram/)
+[My ANU School of Computing Page](https://comp.anu.edu.au/people/shoaib-akram/) <br>
+[Curriculum vitae]({% link assets/CV.pdf %}) <br>
+[Google Scholar](https://scholar.google.com/citations?user=vwB9Q54AAAAJ&hl=en) <br>
+[PhD Dissertation]({% link assets/papers/phd-thesis.pdf %})
 
 I am a Senior Lecturer (US Equivalent: Associate Professor) at the Australian
 National University, Canberra, in the School of Computing. I obtained my Ph.D.
@@ -33,13 +36,18 @@ I lead the <span style="color:Black">**V**</span>ertically <span style="color:Bl
 I serve on the reviewing committees of top-tier computer architecture, systems,
 and programming language conferences, including MICRO, HPCA, ISCA, and ASPLOS.
 
-[Curriculum vitae]({% link assets/CV.pdf %}) <br>
-[Google Scholar](https://scholar.google.com/citations?user=vwB9Q54AAAAJ&hl=en) <br>
-[PhD Dissertation]({% link assets/papers/phd-thesis.pdf %})
 
-I am active on [LinkedIn](https://www.linkedin.com/in/shoaib-akram-58999211b/).
+### Social Media
+
+I am active on [LinkedIn](https://www.linkedin.com/in/shoaib-akram-58999211b/). 
+- [On Indirection in Computer Science](https://lnkd.in/p/ghAua3uu)
+- [Sam Altman, the Five-Minute Rule, and the Future of AI Memory](https://www.linkedin.com/pulse/sam-altman-five-minute-rule-future-ai-memory-shoaib-akram-533mc/)
+
+### Family
 
 I am fortunate to have two amazing sisters who are _real_ doctors: [Rakhshanda Akram](https://www.doximity.com/pub/rakhshanda-akram-md) and [Mahreen Akram](https://www.doximity.com/pub/mahreen-akram-md).
+
+### News
 
 __News:__ Check out our [<span style="color:DarkBlue"> PLDI 2026 paper</span>](https://dl.acm.org/doi/10.1145/3808247) on heap resizing for I/O-intensive appplication running on top of the JVM. <br>
 __News:__ I am the poster co-chair for [ASPLOS 2027](https://www.asplos-conference.org/asplos2027/committee/#organizing-committee). <br>
