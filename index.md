@@ -41,7 +41,7 @@ I am active on [LinkedIn](https://www.linkedin.com/in/shoaib-akram-58999211b/).
 I am fortunate to have two amazing sisters who are _real_ doctors: [Rakhshanda Akram](https://www.doximity.com/pub/rakhshanda-akram-md) and [Mahreen Akram](https://www.doximity.com/pub/mahreen-akram-md).
 
 __News:__ Check out our [PLDI 2026 paper](https://dl.acm.org/doi/10.1145/3808247) on heap resizing for I/O-intensive appplication running on top of the JVM. <br>
-__News:__ I am a poster co-chair for [ASPLOS 2027](https://www.asplos-conference.org/asplos2027/committee/#organizing-committee). <br>
+__News:__ I am the poster co-chair for [ASPLOS 2027](https://www.asplos-conference.org/asplos2027/committee/#organizing-committee). <br>
 __News:__ I will be teaching an [advanced computer architecture](https://programsandcourses.anu.edu.au/course/comp4045) course in Semester 1, 2027. 
 
 ### Current Research
