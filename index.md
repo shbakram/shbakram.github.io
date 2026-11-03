@@ -52,7 +52,7 @@ I am fortunate to have two amazing sisters who are _real_ doctors: [Rakhshanda A
 
 __News:__ Check out our [<span style="color:DarkBlue"> PLDI 2026 paper</span>](https://dl.acm.org/doi/10.1145/3808247) on heap resizing for I/O-intensive appplication running on top of the JVM. <br>
 __News:__ I am the poster co-chair for [ASPLOS 2027](https://www.asplos-conference.org/asplos2027/committee/#organizing-committee). <br>
-__News:__ I will be teaching an [advanced computer architecture](https://programsandcourses.anu.edu.au/course/comp4045) course in Semester 1, 2027. 
+__News:__ I will be teaching an [advanced computer architecture](https://programsandcourses.anu.edu.au/course/comp4045) course in Semester 1, 2027. Please check the tentaive [outline]({% link assets/papers/outline4045.pdf %}). 
 
 ### Current Research
 
