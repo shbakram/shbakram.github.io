@@ -40,9 +40,9 @@ and programming language conferences, including MICRO, HPCA, ISCA, and ASPLOS.
 ### Social Media
 
 I am active on [LinkedIn](https://www.linkedin.com/in/shoaib-akram-58999211b/). 
-- [Sam Altman, the Five-Minute Rule, and the Future of AI Memory](https://www.linkedin.com/pulse/sam-altman-five-minute-rule-future-ai-memory-shoaib-akram-533mc/)
-- [On Indirection in Computer Science](https://lnkd.in/p/ghAua3uu)
-- [On MLP Stacks](https://lnkd.in/p/gKf9euVS)
+- [<span style="color:DarkBlue">  Sam Altman, the Five-Minute Rule, and the Future of AI Memory </span>](https://www.linkedin.com/pulse/sam-altman-five-minute-rule-future-ai-memory-shoaib-akram-533mc/)
+- [<span style="color:DarkBlue"> On Indirection in Computer Science </span>](https://lnkd.in/p/ghAua3uu)
+- [<span style="color:DarkBlue"> On MLP Stacks </span>](https://lnkd.in/p/gKf9euVS)
 
 ### Family
 
