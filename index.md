@@ -11,16 +11,17 @@ title: Shoaib Akram
 [Teaching Feedback]({% link assets/Teaching_Feedback_Evaluation.pdf  %}) <br>
 [Long Bio]({% link assets/papers/bio_long.pdf %}), [Short Bio]({% link assets/papers/bio_short.pdf %}) <br>
 [My ANU School of Computing Page](https://comp.anu.edu.au/people/shoaib-akram/) <br>
-[Curriculum vitae]({% link assets/CV.pdf %}) <br>
+[Curriculum vitae]({% link cv/CV.pdf %}) <br>
 [Google Scholar](https://scholar.google.com/citations?user=vwB9Q54AAAAJ&hl=en) <br>
 [PhD Dissertation]({% link assets/papers/phd-thesis.pdf %})
 
-I am a Senior Lecturer (US Equivalent: Associate Professor) at the Australian
-National University, Canberra, in the School of Computing. I obtained my Ph.D.
-degree in Computer Science and Engineering from Ghent University (Belgium).  My
-doctoral advisor was [Lieven Eeckhout](https://users.elis.ugent.be/~leeckhou/).
-I also hold an M.S. in Electrical and Computer Engineering from the University
-of Illinois at Urbana-Champaign. 
+I am a Senior Lecturer (US equivalent: Associate Professor) in the School of
+Computing at the Australian National University (ANU) in Canberra, where I have
+been since 2020. I received my Ph.D. in Computer Science and Engineering from
+Ghent University under the supervision of [Lieven
+Eeckhout](https://users.elis.ugent.be/~leeckhou/), and hold an M.S. in
+Electrical and Computer Engineering from the University of Illinois
+Urbana-Champaign.
 
 I received the Fulbright Scholarship from the U.S. government (2007) and a
 Marie Curie Fellowship from the EU Commission (2010).
