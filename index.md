@@ -17,14 +17,14 @@ title: Shoaib Akram
 
 I am a Senior Lecturer (US equivalent: Associate Professor) in the School of
 Computing at the Australian National University (ANU) in Canberra, where I have
-been since 2020. I received my Ph.D. in Computer Science and Engineering from
+been since __2020__. I received my Ph.D. (__2019__) in Computer Science and Engineering from
 Ghent University (Belgium) under the supervision of [Lieven
-Eeckhout](https://users.elis.ugent.be/~leeckhou/), and hold an M.S. in
+Eeckhout](https://users.elis.ugent.be/~leeckhou/), and hold an M.S. (__2009__) in
 Electrical and Computer Engineering from the University of Illinois
 Urbana-Champaign (USA).
 
-I received the Fulbright Scholarship from the U.S. government (2007-2009, [University of Illinois](https://illinois.edu/)) and a
-Marie Curie Fellowship from the EU Commission (2010-2012, [FORTH-ICS](https://www.ics.forth.gr/), Crete).
+I received the Fulbright Scholarship from the U.S. government (__2007-2009__, [University of Illinois](https://illinois.edu/)) and a
+Marie Curie Fellowship from the EU Commission (__2010-2012__, [FORTH-ICS](https://www.ics.forth.gr/), Crete).
 
 
 I am interested in computer systems in general and memory and storage systems
