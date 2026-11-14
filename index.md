@@ -15,7 +15,7 @@ title: Shoaib Akram
 [Google Scholar](https://scholar.google.com/citations?user=vwB9Q54AAAAJ&hl=en) <br>
 [PhD Dissertation]({% link assets/papers/phd-thesis.pdf %})
 
-I am a Senior Lecturer (US equivalent: Associate Professor) in the School of
+I am a Senior Lecturer (___US equivalent: Associate Professor___) in the School of
 Computing at the Australian National University (ANU) in Canberra, where I have
 been since __2020__. I received my Ph.D. (__2019__) in Computer Science and Engineering from
 Ghent University (Belgium) under the supervision of [Lieven
