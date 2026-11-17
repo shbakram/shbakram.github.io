@@ -105,7 +105,7 @@ Jackson Kilrain-Mottram (Ph.D. student, 2024 - ) <br>
 Research Topic: Storage Engines for Managed Data-Intensive Frameworks <br> 
 
 [Iacovos Kolokasis](https://www.csd.uoc.gr/~kolokasis/) (Ph.D. co-advisor with [Angelos Bilas](http://users.ics.forth.gr/~bilas/), University of Crete, 2020 - ) <br>
-Research Topic: Terabyte-Scale Managed Heaps for Big Data Analytics <br>
+Thesis Topic: Efficient Storage-Aware Heap Management for the Java Virtual Machine <br>
 [<span style="color:FireBrick">Data+AI Summit 2021</span>] [Presentation](https://www.youtube.com/watch?v=O1PzEmUJ-X0&ab_channel=Databricks)
 [<span style="color:HotPink"> PDF slides </span>]({% link assets/slides/kolokasis_spark_summit_final.pdf %})<br>
 [<span style="color:FireBrick">PhD Workshop at Microsoft Research Cambridge</span>] [Poster]({% link assets/microsoft-poster.pdf %}) <br>
