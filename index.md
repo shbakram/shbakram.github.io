@@ -220,7 +220,7 @@ courses. <br>
 - [Computer Systems and Organization (ENGN2219)](https://cs.anu.edu.au/courses/engn2219/) (Semester 1, 2021, 2022) 
 - [Computer Microarchitecture (COMP3710)](https://cs.anu.edu.au/courses/comp3710-uarch/) (Semester 2, 2021, 2022)
 - [Systems, Networks, and Concurrency (COMP2310)](https://comp.anu.edu.au/courses/comp2310/) (Semester 2, 2022, 2023)
-- [Operating Systems Implementation (COMP3300)](https://comp.anu.edu.au/courses/comp3300/) (Semester 2, 2026)
+- [Operating Systems Implementation (COMP3300)](https://comp.anu.edu.au/courses/comp3300/) (Semester 2, 2026, with [Alwen Tiu](https://comp.anu.edu.au/people/alwen-tiu/))
 
 ### Guest Lectures at ANU 
 
