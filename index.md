@@ -15,6 +15,9 @@ I am interested in **computer systems** in general and **memory and storage syst
 I lead the **V**ertically **I**ntegrated **C**omputer **S**ystems (**VICS**) research group. I serve on the reviewing committees of top-tier computer architecture, systems, and programming language conferences, including **MICRO, HPCA, ISCA, and ASPLOS**.
 {: .bio}
 
+I serve on the reviewing committees of top-tier computer architecture, systems, and programming language conferences, including **MICRO, HPCA, ISCA, and ASPLOS**.
+{: .bio}
+
 Profile & Resources
 {: .res-t}
 
@@ -29,6 +32,7 @@ Profile & Resources
 
 ## News {#news}
 
+- **News** Giving a talk on heap resizing at [SAPLING 2026](https://comp.anu.edu.au/sapling/2026/index.html) to be held at ANU. 
 - **News** Check out our [PLDI 2026 paper](https://dl.acm.org/doi/10.1145/3808247) on heap resizing for I/O-intensive applications running on top of the JVM.
 - **News** I am the poster co-chair for [ASPLOS 2027](https://www.asplos-conference.org/asplos2027/committee/#organizing-committee).
 - **News** I will be teaching an [advanced computer architecture](https://programsandcourses.anu.edu.au/course/comp4045) course in Semester 1, 2027. Please check the tentative [outline](assets/papers/outline4045.pdf).
