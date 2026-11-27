@@ -1,0 +1,45 @@
+:root{--bg:#faf8f4;--surface:#f2eee6;--fg:#23272f;--muted:#6b6f78;--accent:#1f3a5f;--gold:#9a7b3f;--rule:#ddd6c8;--serif:'Source Serif 4',Georgia,'Times New Roman',serif;--display:'Cormorant Garamond',Georgia,serif;--sans:'Inter',system-ui,-apple-system,'Segoe UI',sans-serif;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#15181d;--surface:#1c2027;--fg:#e6e2d9;--muted:#9a9ea8;--accent:#9fb8dc;--gold:#c9a85f;--rule:#2d323b;color-scheme:dark}}
+html{scroll-behavior:smooth}
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0;background:var(--bg);color:var(--fg);font:400 17px/1.7 var(--serif);-webkit-font-smoothing:antialiased}
+a{color:var(--accent);text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--accent) 30%,transparent)}
+a:hover{border-bottom-color:var(--accent)}
+.wrap{max-width:860px;margin:0 auto;padding:0 28px}
+header.top{padding:24px 0 8px}
+nav{display:flex;flex-wrap:wrap;gap:4px 18px;margin:0 0 24px;padding-bottom:12px;border-bottom:1px solid var(--rule);font:500 13px var(--sans);letter-spacing:.04em}
+nav a{border:0;color:var(--muted)}nav a:hover{color:var(--accent)}
+.hero{display:flex;gap:22px;align-items:center;flex-wrap:wrap}
+.mono{width:clamp(90px,16vw,120px);height:clamp(100px,18vw,140px);object-fit:cover;object-position:center 20%;box-shadow:0 0 0 5px var(--bg),0 0 0 6px var(--gold)}
+h1{font:500 clamp(32px,6vw,44px)/1.05 var(--display);margin:0;letter-spacing:-.01em}
+.role{font:400 13px var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin:6px 0 0}
+main{padding-bottom:10px}
+main h2{font:600 30px/1.2 var(--display);margin:54px 0 10px;display:flex;align-items:center;gap:16px;scroll-margin-top:16px}
+main h2::after{content:"";flex:1;height:1px;background:var(--rule)}
+main h3{font:500 12px var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:28px 0 8px}
+main p{margin:12px 0}
+.bio{font-size:15.5px;line-height:1.65;hyphens:auto;margin:10px 0}
+.bio:first-child{position:relative;margin-top:22px;padding-top:16px}
+.bio:first-child::before{content:"";position:absolute;top:0;left:0;width:44px;height:2px;background:var(--gold)}
+.y{font:500 12.5px var(--sans);font-style:normal;color:var(--gold);letter-spacing:.03em;white-space:nowrap}
+.res-t{font:500 11px var(--sans);letter-spacing:.18em;text-transform:uppercase;color:var(--gold);margin:22px 0 10px;padding-top:14px;border-top:1px solid var(--rule)}
+ul{padding-left:20px}
+ul.links,ul.news,ul.pubs,ul.people,ul.ser{list-style:none;padding:0;margin:14px 0}
+ul.links{display:flex;flex-wrap:wrap;gap:6px;margin:0}
+.links a{display:inline-block;font:500 12px var(--sans);padding:4px 11px;border:1px solid var(--rule);border-radius:99px;color:var(--fg)}
+.links a:hover{border-color:var(--accent);color:var(--accent)}
+.news li{padding:14px 18px;margin-bottom:10px;background:var(--surface);border-left:2px solid var(--gold);border-radius:2px}
+.news strong{font:500 11px var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin-right:8px}
+.pubs li,.people li,.ser li{padding:14px 0;border-bottom:1px solid var(--rule);line-height:1.6}
+.pubs li:last-child,.people li:last-child,.ser li:last-child{border:0}
+.pubs{font-size:15.5px;color:var(--muted)}
+.pubs strong{color:var(--fg);font-size:16.5px}
+.pubs em{font:500 11px var(--sans);font-style:normal;letter-spacing:.14em;text-transform:uppercase;color:var(--gold)}
+.pubs a{font:500 12px var(--sans);margin-right:4px}
+.people{font-size:15.5px}
+.people em,.ser em{font:400 13px var(--sans);font-style:normal;color:var(--muted)}
+.people code{font:500 11px var(--sans);letter-spacing:.04em;color:var(--gold);border:1px solid var(--gold);border-radius:99px;padding:1px 9px;margin-right:6px}
+.people a,.ser a{font-size:15px}
+.ser strong{font:600 13px var(--sans);letter-spacing:.04em}
+footer{margin-top:60px;padding:28px 0 44px;border-top:1px solid var(--rule);font:400 13px var(--sans);color:var(--muted)}

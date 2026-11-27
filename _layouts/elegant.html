@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{ page.title }} · Computer Systems, ANU</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Source+Serif+4:wght@400;600&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/elegant.css' | relative_url }}">
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <nav>
+    <a href="#news">News</a><a href="#research">Research</a><a href="#students">Students</a><a href="#alumni">Alumni</a><a href="#teaching">Teaching</a><a href="#service">Service</a><a href="#publications">Publications</a><a href="#elsewhere">Beyond the Lab</a>
+  </nav>
+  <div class="hero">
+  <img class="mono" src="{{ '/assets/office.jpg' | relative_url }}" alt="Shoaib Akram">
+    <div>
+      <h1>{{ page.title }}</h1>
+      <p class="role">Senior Lecturer · School of Computing · Australian National University</p>
+    </div>
+  </div>
+</header>
+<main>
+{{ content }}
+</main>
+<footer>© Shoaib Akram · School of Computing, Australian National University, Canberra</footer>
+</div>
+</body>
+</html>
