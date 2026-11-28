@@ -176,10 +176,10 @@ I teach courses related to computer systems, (micro)architecture, and systems pr
   *COMP4450, Advanced Computing Research Methods (Semester 1, 2023)* · [PDF slides](assets/slides/systems-research.pdf)
 {: .people}
 
-## Professional Activities {#service}
+## Service and Professional Activities {#service}
 
 *Recent*
-
+- **ANU** · Assistant - Associate Director (International Partnerships)
 - **HiCOMB** · IEEE International Workshop on High Performance Computational Biology\
   Member, Program Committee: 2023
 - **ASPLOS** · Architectural Support for Programming Languages and Operating Systems\
